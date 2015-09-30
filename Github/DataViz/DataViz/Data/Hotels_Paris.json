@@ -1,0 +1,7596 @@
+
+
+	[
+		{
+			"title": "Appartement St Denis, Paris, France",
+			"latitude": 48.87127,
+			"longitude": 2.35348,
+			"prixLePlusBas": 150,
+			"nbAvis": 1,
+			"note": 3
+		},
+		{
+			"title": "Avalon Hôtel, Paris, France",
+			"latitude": 48.88104,
+			"longitude": 2.35178,
+			"prixLePlusBas": 76,
+			"nbAvis": 119,
+			"note": 3.5
+		},
+		{
+			"title": "Bed &amp; Breakfast Rotonde Canal de l'Ourcq, Paris, France",
+			"latitude": 48.88307,
+			"longitude": 2.36938,
+			"prixLePlusBas": 101,
+			"nbAvis": 5,
+			"note": 2.6
+		},
+		{
+			"title": "Best Western Aulivia Opéra, Paris, France",
+			"latitude": 48.87294,
+			"longitude": 2.35397,
+			"prixLePlusBas": 75,
+			"nbAvis": 108,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Hôtel Faubourg Saint-Martin, Paris, France",
+			"latitude": 48.8711,
+			"longitude": 2.35524,
+			"prixLePlusBas": 98,
+			"nbAvis": 44,
+			"note": 4.1
+		},
+		{
+			"title": "Best Western Opéra Grands Boulevards, Paris, France",
+			"latitude": 48.8739,
+			"longitude": 2.35,
+			"prixLePlusBas": 78,
+			"nbAvis": 61,
+			"note": 4.3
+		},
+		{
+			"title": "Best Western Premier Faubourg 88, Paris, France",
+			"latitude": 48.87771,
+			"longitude": 2.34914,
+			"prixLePlusBas": 98,
+			"nbAvis": 40,
+			"note": 4.3
+		},
+		{
+			"title": "Comfort Hotel Gare de l'Est, Paris, France",
+			"latitude": 48.87133,
+			"longitude": 2.35525,
+			"prixLePlusBas": 94,
+			"nbAvis": 5,
+			"note": 3.4
+		},
+		{
+			"title": "Comfort Hotel Paris La Fayette, Paris, France",
+			"latitude": 48.87646,
+			"longitude": 2.34898,
+			"prixLePlusBas": 71,
+			"nbAvis": 47,
+			"note": 3.7
+		},
+		{
+			"title": "Holiday Inn Paris Gare de l'Est, Paris, France",
+			"latitude": 48.87605,
+			"longitude": 2.35903,
+			"prixLePlusBas": 63,
+			"nbAvis": 334,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Aida Marais Printania, Paris, France",
+			"latitude": 48.87011,
+			"longitude": 2.36029,
+			"prixLePlusBas": 75,
+			"nbAvis": 214,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Alane, Paris, France",
+			"latitude": 48.875321,
+			"longitude": 2.356988,
+			"prixLePlusBas": 87,
+			"nbAvis": 121,
+			"note": 3.3
+		},
+		{
+			"title": "Hotel Altona, Paris, France",
+			"latitude": 48.88242,
+			"longitude": 2.34968,
+			"prixLePlusBas": 59,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hotel Amiot, Paris, France",
+			"latitude": 48.8758,
+			"longitude": 2.35811,
+			"prixLePlusBas": 82,
+			"nbAvis": 3,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Annexe, Paris, France",
+			"latitude": 48.86937,
+			"longitude": 2.35901,
+			"prixLePlusBas": 61,
+			"nbAvis": 156,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Bien-Être, Paris, France",
+			"latitude": 48.87058,
+			"longitude": 2.36113,
+			"prixLePlusBas": 49,
+			"nbAvis": 82,
+			"note": 3.3
+		},
+		{
+			"title": "Hotel Cambrai, Paris, France",
+			"latitude": 48.88095,
+			"longitude": 2.35185,
+			"prixLePlusBas": 59,
+			"nbAvis": 31,
+			"note": 3.5
+		},
+		{
+			"title": "Campanile Paris 10 - Gare du Nord, Paris, France",
+			"latitude": 48.881107,
+			"longitude": 2.365159,
+			"prixLePlusBas": 69,
+			"nbAvis": 348,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel d'Amiens, Paris, France",
+			"latitude": 48.87845,
+			"longitude": 2.35727,
+			"prixLePlusBas": 76,
+			"nbAvis": 594,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel de Bordeaux, Paris, France",
+			"latitude": 48.87473,
+			"longitude": 2.35561,
+			"prixLePlusBas": 52,
+			"nbAvis": 51,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel de l'Europe, Paris, France",
+			"latitude": 48.87773,
+			"longitude": 2.35483,
+			"prixLePlusBas": 63,
+			"nbAvis": 66,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel de la Gare du Nord, Paris, France",
+			"latitude": 48.87919,
+			"longitude": 2.35578,
+			"prixLePlusBas": 58,
+			"nbAvis": 152,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel des 3 nations, Paris, France",
+			"latitude": 48.86987,
+			"longitude": 2.36072,
+			"prixLePlusBas": 49,
+			"nbAvis": 129,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel du Brabant, Paris, France",
+			"latitude": 48.87742,
+			"longitude": 2.35377,
+			"prixLePlusBas": 75,
+			"nbAvis": 72,
+			"note": 2.7
+		},
+		{
+			"title": "Hôtel du Centre, Paris, France",
+			"latitude": 48.86988,
+			"longitude": 2.3706,
+			"prixLePlusBas": 69,
+			"nbAvis": 34,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Eurostars Panorama, Paris, France",
+			"latitude": 48.87626,
+			"longitude": 2.35004,
+			"prixLePlusBas": 73,
+			"nbAvis": 158,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Faubourg 216-224, Paris, France",
+			"latitude": 48.88377,
+			"longitude": 2.35927,
+			"prixLePlusBas": 64,
+			"nbAvis": 409,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Garden Saint Martin, Paris, France",
+			"latitude": 48.87129,
+			"longitude": 2.36248,
+			"prixLePlusBas": 99,
+			"nbAvis": 35,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Hauteville Opéra, Paris, France",
+			"latitude": 48.87398,
+			"longitude": 2.35057,
+			"prixLePlusBas": 85,
+			"nbAvis": 63,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Hor, Paris, France",
+			"latitude": 48.87946,
+			"longitude": 2.35762,
+			"prixLePlusBas": 136,
+			"nbAvis": 99,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Kyriad Paris 10 Canal Saint-Martin, Paris, France",
+			"latitude": 48.87286,
+			"longitude": 2.36127,
+			"prixLePlusBas": 59,
+			"nbAvis": 193,
+			"note": 3.7
+		},
+		{
+			"title": "Hotel Le Citizen, Paris, France",
+			"latitude": 48.87324,
+			"longitude": 2.36422,
+			"prixLePlusBas": 200,
+			"nbAvis": 23,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Le Marcel, Paris, France",
+			"latitude": 48.87633,
+			"longitude": 2.3571,
+			"prixLePlusBas": 84,
+			"nbAvis": 60,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Libertel Gare de l'Est Francais, Paris, France",
+			"latitude": 48.87631,
+			"longitude": 2.35709,
+			"prixLePlusBas": 59,
+			"nbAvis": 147,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Liège Strasbourg, Paris, France",
+			"latitude": 48.87374,
+			"longitude": 2.35672,
+			"prixLePlusBas": 59,
+			"nbAvis": 148,
+			"note": 2.9
+		},
+		{
+			"title": "Hotel Little, Paris, France",
+			"latitude": 48.87049,
+			"longitude": 2.36032,
+			"prixLePlusBas": 71,
+			"nbAvis": 8,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Little Regina, Paris, France",
+			"latitude": 48.87587,
+			"longitude": 2.35775,
+			"prixLePlusBas": 99,
+			"nbAvis": 34,
+			"note": 3.5
+		},
+		{
+			"title": "Hotel Mademoiselle, Paris, France",
+			"latitude": 48.87735,
+			"longitude": 2.35432,
+			"prixLePlusBas": 139,
+			"nbAvis": 87,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Magenta Paris, Paris, France",
+			"latitude": 48.87203,
+			"longitude": 2.35995,
+			"prixLePlusBas": 62,
+			"nbAvis": 449,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Maubeuge Gare du Nord, Paris, France",
+			"latitude": 48.88027,
+			"longitude": 2.35146,
+			"prixLePlusBas": 58,
+			"nbAvis": 45,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Modern'Est, Paris, France",
+			"latitude": 48.87607,
+			"longitude": 2.35777,
+			"prixLePlusBas": 85,
+			"nbAvis": 88,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Nord et Champagne, Paris, France",
+			"latitude": 48.87662,
+			"longitude": 2.35491,
+			"prixLePlusBas": 49,
+			"nbAvis": 98,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Paix République, Paris, France",
+			"latitude": 48.8681,
+			"longitude": 2.36136,
+			"prixLePlusBas": 98,
+			"nbAvis": 7,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel Paradis, Paris, France",
+			"latitude": 48.8739,
+			"longitude": 2.34994,
+			"prixLePlusBas": 103,
+			"nbAvis": 77,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Paris Liège, Paris, France",
+			"latitude": 48.87937,
+			"longitude": 2.35583,
+			"prixLePlusBas": 50,
+			"nbAvis": 348,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Parisiana, Paris, France",
+			"latitude": 48.87671,
+			"longitude": 2.35425,
+			"prixLePlusBas": 104,
+			"nbAvis": 217,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Pavillon Opéra, Paris, France",
+			"latitude": 48.87176,
+			"longitude": 2.34925,
+			"prixLePlusBas": 83,
+			"nbAvis": 876,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Pavillon République Les Halles, Paris, France",
+			"latitude": 48.8708,
+			"longitude": 2.36063,
+			"prixLePlusBas": 65,
+			"nbAvis": 237,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Régina Opéra, Paris, France",
+			"latitude": 48.87062,
+			"longitude": 2.35164,
+			"prixLePlusBas": 88,
+			"nbAvis": 66,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Richmond, Paris, France",
+			"latitude": 48.8797,
+			"longitude": 2.35607,
+			"prixLePlusBas": 69,
+			"nbAvis": 7,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Soft, Paris, France",
+			"latitude": 48.87321,
+			"longitude": 2.35991,
+			"prixLePlusBas": 69,
+			"nbAvis": 84,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Taylor, Paris, France",
+			"latitude": 48.86945,
+			"longitude": 2.35906,
+			"prixLePlusBas": 71,
+			"nbAvis": 177,
+			"note": 3.7
+		},
+		{
+			"title": "ibis Paris Gare de l'Est 10ème, Paris, France",
+			"latitude": 48.87547,
+			"longitude": 2.3585,
+			"prixLePlusBas": 105,
+			"nbAvis": 33,
+			"note": 3.1
+		},
+		{
+			"title": "ibis Paris Gare du Nord Château Landon 10ème, Paris, France",
+			"latitude": 48.880766,
+			"longitude": 2.362499,
+			"prixLePlusBas": 68,
+			"nbAvis": 72,
+			"note": 3.7
+		},
+		{
+			"title": "ibis Paris Gare du Nord la Fayette 10ème, Paris, France",
+			"latitude": 48.87811,
+			"longitude": 2.3527,
+			"prixLePlusBas": 79,
+			"nbAvis": 13,
+			"note": 3.2
+		},
+		{
+			"title": "ibis Styles Paris Gare de l'Est Château Landon, Paris, France",
+			"latitude": 48.87889,
+			"longitude": 2.36239,
+			"prixLePlusBas": 78,
+			"nbAvis": 458,
+			"note": 3.9
+		},
+		{
+			"title": "ibis Styles Paris Gare de l'Est TGV (ex all seasons), Paris, France",
+			"latitude": 48.87584,
+			"longitude": 2.35775,
+			"prixLePlusBas": 84,
+			"nbAvis": 100,
+			"note": 3.9
+		},
+		{
+			"title": "ibis Styles Paris République, Paris, France",
+			"latitude": 48.86906,
+			"longitude": 2.36416,
+			"prixLePlusBas": 70,
+			"nbAvis": 81,
+			"note": 3.7
+		},
+		{
+			"title": "Kyriad Paris 10 - Gare de l'Est, Paris, France",
+			"latitude": 48.87631,
+			"longitude": 2.35858,
+			"prixLePlusBas": 80,
+			"nbAvis": 218,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Kyriad Paris 10 - Gare du Nord, Paris, France",
+			"latitude": 48.87967,
+			"longitude": 2.35594,
+			"prixLePlusBas": 76,
+			"nbAvis": 109,
+			"note": 3.4
+		},
+		{
+			"title": "La Vieille France, Paris, France",
+			"latitude": 48.87922,
+			"longitude": 2.35667,
+			"prixLePlusBas": 75,
+			"nbAvis": 21,
+			"note": 2.6
+		},
+		{
+			"title": "Le Robinet d'Or, Paris, France",
+			"latitude": 48.87804,
+			"longitude": 2.36486,
+			"prixLePlusBas": 123,
+			"nbAvis": 77,
+			"note": 4.5
+		},
+		{
+			"title": "Libertel Gare Du Nord Suède, Paris, France",
+			"latitude": 48.87797,
+			"longitude": 2.35461,
+			"prixLePlusBas": 55,
+			"nbAvis": 501,
+			"note": 4
+		},
+		{
+			"title": "Mercure Paris Gare de l'Est Magenta, Paris, France",
+			"latitude": 48.87615,
+			"longitude": 2.356,
+			"prixLePlusBas": 86,
+			"nbAvis": 54,
+			"note": 3.8
+		},
+		{
+			"title": "Mercure Paris Gare du Nord La Fayette, Paris, France",
+			"latitude": 48.87984,
+			"longitude": 2.35934,
+			"prixLePlusBas": 79,
+			"nbAvis": 8,
+			"note": 2.9
+		},
+		{
+			"title": "Mercure Paris Terminus Nord, Paris, France",
+			"latitude": 48.87958,
+			"longitude": 2.35455,
+			"prixLePlusBas": 69,
+			"nbAvis": 349,
+			"note": 3.7
+		},
+		{
+			"title": "Midnight Hôtel Paris, Paris, France",
+			"latitude": 48.87735,
+			"longitude": 2.35627,
+			"prixLePlusBas": 74,
+			"nbAvis": 3,
+			"note": 2
+		},
+		{
+			"title": "New Hotel Gare du Nord, Paris, France",
+			"latitude": 48.87967,
+			"longitude": 2.35594,
+			"prixLePlusBas": 79,
+			"nbAvis": 213,
+			"note": 3.3
+		},
+		{
+			"title": "Peace &amp; Love - Hostel, Paris, France",
+			"latitude": 48.88254,
+			"longitude": 2.36915,
+			"prixLePlusBas": 19,
+			"nbAvis": 23,
+			"note": 2.7
+		},
+		{
+			"title": "Provinces Opéra - Vacances Bleues, Paris, France",
+			"latitude": 48.87169,
+			"longitude": 2.34956,
+			"prixLePlusBas": 108,
+			"nbAvis": 108,
+			"note": 3.7
+		},
+		{
+			"title": "Résidence de Bourgogne, Paris, France",
+			"latitude": 48.86977,
+			"longitude": 2.356,
+			"prixLePlusBas": 80,
+			"nbAvis": 112,
+			"note": 2.5
+		},
+		{
+			"title": "St Christopher's Inn Gare Du Nord - Hostel, Paris, France",
+			"latitude": 48.87938,
+			"longitude": 2.35812,
+			"prixLePlusBas": 21,
+			"nbAvis": 66,
+			"note": 3.9
+		},
+		{
+			"title": "The Element Hotel, Paris, France",
+			"latitude": 48.869923,
+			"longitude": 2.369887,
+			"prixLePlusBas": 49,
+			"nbAvis": 132,
+			"note": 3.1
+		},
+		{
+			"title": "Timhotel Gare du Nord, Paris, France",
+			"latitude": 48.88129,
+			"longitude": 2.36188,
+			"prixLePlusBas": 61,
+			"nbAvis": 110,
+			"note": 3.1
+		},
+		{
+			"title": "Vacation Rental Poissonnière, Paris, France",
+			"latitude": 48.88238,
+			"longitude": 2.34971,
+			"prixLePlusBas": 97,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Victory Hôtel Galou, Paris, France",
+			"latitude": 48.87128,
+			"longitude": 2.35428,
+			"prixLePlusBas": 60,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Windsor Opéra, Paris, France",
+			"latitude": 48.873417,
+			"longitude": 2.348486,
+			"prixLePlusBas": 167,
+			"nbAvis": 131,
+			"note": 4.4
+		},
+		{
+			"title": "Adagio Paris Haussmann, Paris, France",
+			"latitude": 48.87517,
+			"longitude": 2.31355,
+			"prixLePlusBas": 179,
+			"nbAvis": 120,
+			"note": 4
+		},
+		{
+			"title": "Amarante Beau Manoir, Paris, France",
+			"latitude": 48.87101,
+			"longitude": 2.32336,
+			"prixLePlusBas": 154,
+			"nbAvis": 107,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Atala Champs Élysées, Paris, France",
+			"latitude": 48.87337,
+			"longitude": 2.30184,
+			"prixLePlusBas": 122,
+			"nbAvis": 105,
+			"note": 4.2
+		},
+		{
+			"title": "BEST WESTERN PREMIER Élysée Secret, Paris, France",
+			"latitude": 48.87022,
+			"longitude": 2.31106,
+			"prixLePlusBas": 105,
+			"nbAvis": 44,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Premier Hôtel Opéra Opal, Paris, France",
+			"latitude": 48.87216,
+			"longitude": 2.32602,
+			"prixLePlusBas": 105,
+			"nbAvis": 103,
+			"note": 4.2
+		},
+		{
+			"title": "Best Western Premier Le Swann, Paris, France",
+			"latitude": 48.87989,
+			"longitude": 2.32069,
+			"prixLePlusBas": 127,
+			"nbAvis": 2,
+			"note": 3.5
+		},
+		{
+			"title": "Best Western Premier Opéra Diamond, Paris, France",
+			"latitude": 48.87514,
+			"longitude": 2.32342,
+			"prixLePlusBas": 108,
+			"nbAvis": 80,
+			"note": 4.4
+		},
+		{
+			"title": "Best Western Premier Opéra Richepanse, Paris, France",
+			"latitude": 48.86872,
+			"longitude": 2.32513,
+			"prixLePlusBas": 164,
+			"nbAvis": 118,
+			"note": 4.3
+		},
+		{
+			"title": "L'hôtel Charing Cross, Paris, France",
+			"latitude": 48.87487,
+			"longitude": 2.32383,
+			"prixLePlusBas": 114,
+			"nbAvis": 86,
+			"note": 2.9
+		},
+		{
+			"title": "Clarion Collection Etoile Saint-Honoré, Paris, France",
+			"latitude": 48.87552,
+			"longitude": 2.30404,
+			"prixLePlusBas": 131,
+			"nbAvis": 221,
+			"note": 4
+		},
+		{
+			"title": "Concorde Opéra Paris, Paris, France",
+			"latitude": 48.87546,
+			"longitude": 2.32558,
+			"prixLePlusBas": 138,
+			"nbAvis": 736,
+			"note": 4
+		},
+		{
+			"title": "Cristal Champs-Élysées, Paris, France",
+			"latitude": 48.8726,
+			"longitude": 2.30219,
+			"prixLePlusBas": 153,
+			"nbAvis": 125,
+			"note": 4.1
+		},
+		{
+			"title": "Helzear Appart'hotel Champs-Elysées, Paris, France",
+			"latitude": 48.86919,
+			"longitude": 2.29831,
+			"prixLePlusBas": 148,
+			"nbAvis": 3,
+			"note": 4.7
+		},
+		{
+			"title": "Holiday Inn Elysées Paris, Paris, France",
+			"latitude": 48.8729,
+			"longitude": 2.316,
+			"prixLePlusBas": 168,
+			"nbAvis": 40,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Alison, Paris, France",
+			"latitude": 48.87109,
+			"longitude": 2.32034,
+			"prixLePlusBas": 92,
+			"nbAvis": 273,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Amarante Champs-Elysées, Paris, France",
+			"latitude": 48.87181,
+			"longitude": 2.29869,
+			"prixLePlusBas": 178,
+			"nbAvis": 34,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Arc Elysées, Paris, France",
+			"latitude": 48.87419,
+			"longitude": 2.3046,
+			"prixLePlusBas": 82,
+			"nbAvis": 10,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Astor Saint-Honoré, Paris, France",
+			"latitude": 48.87284,
+			"longitude": 2.31946,
+			"prixLePlusBas": 180,
+			"nbAvis": 358,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Astoria Opéra, Paris, France",
+			"latitude": 48.881624,
+			"longitude": 2.322894,
+			"prixLePlusBas": 108,
+			"nbAvis": 85,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Balzac, Paris, France",
+			"latitude": 48.87324,
+			"longitude": 2.30022,
+			"prixLePlusBas": 289,
+			"nbAvis": 63,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Beauchamps, Paris, France",
+			"latitude": 48.87078,
+			"longitude": 2.30932,
+			"prixLePlusBas": 96,
+			"nbAvis": 361,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Berne Opéra, Paris, France",
+			"latitude": 48.881972,
+			"longitude": 2.322269,
+			"prixLePlusBas": 88,
+			"nbAvis": 133,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Bradford Elysées, Paris, France",
+			"latitude": 48.872833,
+			"longitude": 2.308227,
+			"prixLePlusBas": 168,
+			"nbAvis": 64,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Brescia, Paris, France",
+			"latitude": 48.87942,
+			"longitude": 2.32033,
+			"prixLePlusBas": 99,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Hôtel California Champs Elysées, Paris, France",
+			"latitude": 48.872763,
+			"longitude": 2.304765,
+			"prixLePlusBas": 201,
+			"nbAvis": 123,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Cervantes Paris, Paris, France",
+			"latitude": 48.88101,
+			"longitude": 2.32312,
+			"prixLePlusBas": 80,
+			"nbAvis": 343,
+			"note": 4
+		},
+		{
+			"title": "Hotel Chambiges Elysées, Paris, France",
+			"latitude": 48.866929,
+			"longitude": 2.303773,
+			"prixLePlusBas": 252,
+			"nbAvis": 18,
+			"note": 4.8
+		},
+		{
+			"title": "Hôtel Champs-Elysées Friedland, Paris, France",
+			"latitude": 48.875034,
+			"longitude": 2.305231,
+			"prixLePlusBas": 133,
+			"nbAvis": 215,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Cordelia, Paris, France",
+			"latitude": 48.87315,
+			"longitude": 2.32538,
+			"prixLePlusBas": 113,
+			"nbAvis": 70,
+			"note": 4
+		},
+		{
+			"title": "Hôtel d'Angleterre Champs-Elysées, Paris, France",
+			"latitude": 48.87168,
+			"longitude": 2.30791,
+			"prixLePlusBas": 136,
+			"nbAvis": 7,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel de Castiglione, Paris, France",
+			"latitude": 48.86912,
+			"longitude": 2.3205,
+			"prixLePlusBas": 129,
+			"nbAvis": 165,
+			"note": 3
+		},
+		{
+			"title": "Hôtel de Vigny, Paris, France",
+			"latitude": 48.87371,
+			"longitude": 2.30055,
+			"prixLePlusBas": 244,
+			"nbAvis": 30,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Delarc, Paris, France",
+			"latitude": 48.87051,
+			"longitude": 2.30762,
+			"prixLePlusBas": 89,
+			"nbAvis": 24,
+			"note": 3.4
+		},
+		{
+			"title": "Hotel Des Champs Elysees, Paris, France",
+			"latitude": 48.87219,
+			"longitude": 2.309,
+			"prixLePlusBas": 189,
+			"nbAvis": 4,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Du Ministère, Paris, France",
+			"latitude": 48.87142,
+			"longitude": 2.31932,
+			"prixLePlusBas": 201,
+			"nbAvis": 7,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Elysées 8, Paris, France",
+			"latitude": 48.87306,
+			"longitude": 2.31799,
+			"prixLePlusBas": 80,
+			"nbAvis": 106,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Elysées Opéra, Paris, France",
+			"latitude": 48.88144,
+			"longitude": 2.32459,
+			"prixLePlusBas": 98,
+			"nbAvis": 34,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Fouquet’s Barrière, Paris, France",
+			"latitude": 48.87169,
+			"longitude": 2.3008,
+			"prixLePlusBas": 683,
+			"nbAvis": 21,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel François 1er, Paris, France",
+			"latitude": 48.87019,
+			"longitude": 2.30001,
+			"prixLePlusBas": 199,
+			"nbAvis": 68,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Galileo, Paris, France",
+			"latitude": 48.87141,
+			"longitude": 2.29813,
+			"prixLePlusBas": 119,
+			"nbAvis": 74,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Georges Washington, Paris, France",
+			"latitude": 48.87418,
+			"longitude": 2.3046,
+			"prixLePlusBas": 111,
+			"nbAvis": 4,
+			"note": 3.5
+		},
+		{
+			"title": "Mercure Paris Haussmann Saint-Augustin, Paris, France",
+			"latitude": 48.87326,
+			"longitude": 2.31821,
+			"prixLePlusBas": 98,
+			"nbAvis": 36,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Lancaster, Paris, France",
+			"latitude": 48.87214,
+			"longitude": 2.30359,
+			"prixLePlusBas": 303,
+			"nbAvis": 98,
+			"note": 4.4
+		},
+		{
+			"title": "123 Elysées, Paris, France",
+			"latitude": 48.87321,
+			"longitude": 2.30977,
+			"prixLePlusBas": 168,
+			"nbAvis": 2,
+			"note": 3
+		},
+		{
+			"title": "Emeraude Madeleine Haussmann, Paris, France",
+			"latitude": 48.87177,
+			"longitude": 2.32319,
+			"prixLePlusBas": 111,
+			"nbAvis": 82,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Madeleine Plaza, Paris, France",
+			"latitude": 48.87095,
+			"longitude": 2.32473,
+			"prixLePlusBas": 138,
+			"nbAvis": 382,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Marceau Champs-Elysées, Paris, France",
+			"latitude": 48.8682,
+			"longitude": 2.29885,
+			"prixLePlusBas": 97,
+			"nbAvis": 25,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Montaigne, Paris, France",
+			"latitude": 48.86559,
+			"longitude": 2.30384,
+			"prixLePlusBas": 286,
+			"nbAvis": 6,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Napoléon, Paris, France",
+			"latitude": 48.87411,
+			"longitude": 2.2982,
+			"prixLePlusBas": 219,
+			"nbAvis": 179,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Opéra Marigny, Paris, France",
+			"latitude": 48.87171,
+			"longitude": 2.32363,
+			"prixLePlusBas": 105,
+			"nbAvis": 53,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Oscar, Paris, France",
+			"latitude": 48.86935,
+			"longitude": 2.30485,
+			"prixLePlusBas": 179,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hotel Paris Saint Honore, Paris, France",
+			"latitude": 48.87286,
+			"longitude": 2.31582,
+			"prixLePlusBas": 127,
+			"nbAvis": 17,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Park Lane Paris, Paris, France",
+			"latitude": 48.87441,
+			"longitude": 2.31862,
+			"prixLePlusBas": 178,
+			"nbAvis": 176,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Pavillon Montaigne, Paris, France",
+			"latitude": 48.87173,
+			"longitude": 2.31219,
+			"prixLePlusBas": 59,
+			"nbAvis": 207,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Powers, Paris, France",
+			"latitude": 48.86921,
+			"longitude": 2.30273,
+			"prixLePlusBas": 214,
+			"nbAvis": 48,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Régence, Paris, France",
+			"latitude": 48.88204,
+			"longitude": 2.32585,
+			"prixLePlusBas": 92,
+			"nbAvis": 13,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Résidence Lord Byron, Paris, France",
+			"latitude": 48.87324,
+			"longitude": 2.30238,
+			"prixLePlusBas": 116,
+			"nbAvis": 6,
+			"note": 3.5
+		},
+		{
+			"title": "Hotel Royal Opera, Paris, France",
+			"latitude": 48.87224,
+			"longitude": 2.32527,
+			"prixLePlusBas": 97,
+			"nbAvis": 21,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Saint Augustin Elysées - Paris, Paris, France",
+			"latitude": 48.87547,
+			"longitude": 2.31841,
+			"prixLePlusBas": 108,
+			"nbAvis": 143,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Vernet, Paris, France",
+			"latitude": 48.87204,
+			"longitude": 2.29797,
+			"prixLePlusBas": 331,
+			"nbAvis": 44,
+			"note": 4.1
+		},
+		{
+			"title": "Warwick Champs Elysées Hotel, Paris, France",
+			"latitude": 48.87205,
+			"longitude": 2.30343,
+			"prixLePlusBas": 226,
+			"nbAvis": 158,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel WO by Elegancia, Paris, France",
+			"latitude": 48.87707,
+			"longitude": 2.3222,
+			"prixLePlusBas": 83,
+			"nbAvis": 316,
+			"note": 4.4
+		},
+		{
+			"title": "Hyatt Paris Madeleine, Paris, France",
+			"latitude": 48.87283,
+			"longitude": 2.32131,
+			"prixLePlusBas": 294,
+			"nbAvis": 68,
+			"note": 4.3
+		},
+		{
+			"title": "InterContinental Paris - Avenue Marceau, Paris, France",
+			"latitude": 48.870573,
+			"longitude": 2.297896,
+			"prixLePlusBas": 313,
+			"nbAvis": 48,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel de Sers, Paris, France",
+			"latitude": 48.86809,
+			"longitude": 2.30049,
+			"prixLePlusBas": 297,
+			"nbAvis": 93,
+			"note": 4.4
+		},
+		{
+			"title": "La Maison Champs-Elysées, Paris, France",
+			"latitude": 48.86653,
+			"longitude": 2.30909,
+			"prixLePlusBas": 239,
+			"nbAvis": 130,
+			"note": 4.3
+		},
+		{
+			"title": "Le Pavillon des Lettres, Paris, France",
+			"latitude": 48.87145,
+			"longitude": 2.3181,
+			"prixLePlusBas": 234,
+			"nbAvis": 5,
+			"note": 4.4
+		},
+		{
+			"title": "Le Royal Monceau - Raffles Paris, Paris, France",
+			"latitude": 48.875947,
+			"longitude": 2.300272,
+			"prixLePlusBas": 746,
+			"nbAvis": 19,
+			"note": 4.4
+		},
+		{
+			"title": "Marignan Paris, Paris, France",
+			"latitude": 48.86848,
+			"longitude": 2.30634,
+			"prixLePlusBas": 288,
+			"nbAvis": 18,
+			"note": 4.2
+		},
+		{
+			"title": "Marquis Faubourg Saint-Honoré, Paris, France",
+			"latitude": 48.86984,
+			"longitude": 2.32081,
+			"prixLePlusBas": 388,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Hôtel Massena Paris, Paris, France",
+			"latitude": 48.87197,
+			"longitude": 2.3259,
+			"prixLePlusBas": 109,
+			"nbAvis": 12,
+			"note": 4.1
+		},
+		{
+			"title": "Meliá Royal Alma Boutique Hotel, Paris, France",
+			"latitude": 48.86531,
+			"longitude": 2.30441,
+			"prixLePlusBas": 165,
+			"nbAvis": 91,
+			"note": 4.2
+		},
+		{
+			"title": "Mercure Paris Opéra Garnier, Paris, France",
+			"latitude": 48.87483,
+			"longitude": 2.32605,
+			"prixLePlusBas": 134,
+			"nbAvis": 201,
+			"note": 4.1
+		},
+		{
+			"title": "Mercure Paris Royal Madeleine, Paris, France",
+			"latitude": 48.87282,
+			"longitude": 2.3241,
+			"prixLePlusBas": 123,
+			"nbAvis": 165,
+			"note": 3.9
+		},
+		{
+			"title": "Monna Lisa Champs Elysées, Paris, France",
+			"latitude": 48.87158,
+			"longitude": 2.30766,
+			"prixLePlusBas": 119,
+			"nbAvis": 86,
+			"note": 4.3
+		},
+		{
+			"title": "New Hotel Roblin, Paris, France",
+			"latitude": 48.87128,
+			"longitude": 2.32391,
+			"prixLePlusBas": 163,
+			"nbAvis": 134,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Newton Opéra, Paris, France",
+			"latitude": 48.8718,
+			"longitude": 2.32365,
+			"prixLePlusBas": 79,
+			"nbAvis": 42,
+			"note": 3.4
+		},
+		{
+			"title": "Paris Marriott Hotel Champs-Elysées, Paris, France",
+			"latitude": 48.87069,
+			"longitude": 2.3047,
+			"prixLePlusBas": 407,
+			"nbAvis": 39,
+			"note": 4.4
+		},
+		{
+			"title": "Pavillon Saint-Augustin, Paris, France",
+			"latitude": 48.87511,
+			"longitude": 2.32214,
+			"prixLePlusBas": 100,
+			"nbAvis": 318,
+			"note": 2.8
+		},
+		{
+			"title": "Pershing Hall, Paris, France",
+			"latitude": 48.86902,
+			"longitude": 2.30233,
+			"prixLePlusBas": 309,
+			"nbAvis": 10,
+			"note": 3.1
+		},
+		{
+			"title": "Prince de Galles, un Hôtel Luxury Collection, Paris, France",
+			"latitude": 48.86909,
+			"longitude": 2.30092,
+			"prixLePlusBas": 616,
+			"nbAvis": 4,
+			"note": 4.8
+		},
+		{
+			"title": "Quality Hotel Malesherbes, Paris, France",
+			"latitude": 48.87565,
+			"longitude": 2.31892,
+			"prixLePlusBas": 88,
+			"nbAvis": 14,
+			"note": 3.9
+		},
+		{
+			"title": "Radisson Blu Hotel Champs-Élysées, Paris, Paris, France",
+			"latitude": 48.87198,
+			"longitude": 2.2969,
+			"prixLePlusBas": 286,
+			"nbAvis": 38,
+			"note": 4
+		},
+		{
+			"title": "Hôtel La Résidence du Roy, Paris, France",
+			"latitude": 48.86566,
+			"longitude": 2.30884,
+			"prixLePlusBas": 185,
+			"nbAvis": 51,
+			"note": 4.1
+		},
+		{
+			"title": "Royal Garden Champs-Élysées, Paris, France",
+			"latitude": 48.87576,
+			"longitude": 2.30343,
+			"prixLePlusBas": 137,
+			"nbAvis": 26,
+			"note": 3.8
+		},
+		{
+			"title": "Royal Hôtel, Paris, France",
+			"latitude": 48.87424,
+			"longitude": 2.29966,
+			"prixLePlusBas": 128,
+			"nbAvis": 172,
+			"note": 4.1
+		},
+		{
+			"title": "Sofitel Paris Arc de Triomphe, Paris, France",
+			"latitude": 48.87496,
+			"longitude": 2.30106,
+			"prixLePlusBas": 278,
+			"nbAvis": 75,
+			"note": 4.1
+		},
+		{
+			"title": "Sofitel Paris Le Faubourg, Paris, France",
+			"latitude": 48.86835,
+			"longitude": 2.32147,
+			"prixLePlusBas": 340,
+			"nbAvis": 137,
+			"note": 4.3
+		},
+		{
+			"title": "Studette Saint-Lazare, Paris, France",
+			"latitude": 48.8748,
+			"longitude": 2.32544,
+			"prixLePlusBas": 99,
+			"nbAvis": 1,
+			"note": 2
+		},
+		{
+			"title": "Hôtel du Collectionneur Arc de Triomphe, Paris, France",
+			"latitude": 48.877068,
+			"longitude": 2.307046,
+			"prixLePlusBas": 295,
+			"nbAvis": 572,
+			"note": 4.4
+		},
+		{
+			"title": "Timhotel Opéra Gare Saint-Lazare (ex Best Western), Paris, France",
+			"latitude": 48.87979,
+			"longitude": 2.321,
+			"prixLePlusBas": 91,
+			"nbAvis": 89,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Waldorf Madeleine, Paris, France",
+			"latitude": 48.87147,
+			"longitude": 2.32236,
+			"prixLePlusBas": 164,
+			"nbAvis": 141,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel West End, Paris, France",
+			"latitude": 48.8672,
+			"longitude": 2.30394,
+			"prixLePlusBas": 249,
+			"nbAvis": 228,
+			"note": 4.4
+		},
+		{
+			"title": "121 Paris Hotel, Paris, France",
+			"latitude": 48.89005,
+			"longitude": 2.32106,
+			"prixLePlusBas": 55,
+			"nbAvis": 4,
+			"note": 3.5
+		},
+		{
+			"title": "Acacias Étoile, Paris, France",
+			"latitude": 48.87656,
+			"longitude": 2.29086,
+			"prixLePlusBas": 81,
+			"nbAvis": 69,
+			"note": 4.2
+		},
+		{
+			"title": "Adagio Access Paris Tilsitt Champs-Elysées, Paris, France",
+			"latitude": 48.87519,
+			"longitude": 2.29427,
+			"prixLePlusBas": 108,
+			"nbAvis": 41,
+			"note": 3.5
+		},
+		{
+			"title": "art hotel batignolles, Paris, France",
+			"latitude": 48.88807,
+			"longitude": 2.32093,
+			"prixLePlusBas": 69,
+			"nbAvis": 386,
+			"note": 4.1
+		},
+		{
+			"title": "Art Hôtel Congrès, Paris, France",
+			"latitude": 48.89296,
+			"longitude": 2.32151,
+			"prixLePlusBas": 64,
+			"nbAvis": 447,
+			"note": 3.9
+		},
+		{
+			"title": "Best Western Empire Elysées, Paris, France",
+			"latitude": 48.87798,
+			"longitude": 2.29547,
+			"prixLePlusBas": 72,
+			"nbAvis": 71,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Hôtel de Neuville, Paris, France",
+			"latitude": 48.88691,
+			"longitude": 2.30057,
+			"prixLePlusBas": 79,
+			"nbAvis": 138,
+			"note": 4
+		},
+		{
+			"title": "Best Western Mercedes, Paris, France",
+			"latitude": 48.88506,
+			"longitude": 2.30338,
+			"prixLePlusBas": 85,
+			"nbAvis": 193,
+			"note": 3.7
+		},
+		{
+			"title": "Best Western Hôtel Opéra Batignolles, Paris, France",
+			"latitude": 48.88723,
+			"longitude": 2.31449,
+			"prixLePlusBas": 67,
+			"nbAvis": 158,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Premier Hotel Regent's Garden, Paris, France",
+			"latitude": 48.87993,
+			"longitude": 2.29177,
+			"prixLePlusBas": 143,
+			"nbAvis": 155,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel de Cabourg, Paris, France",
+			"latitude": 48.88311,
+			"longitude": 2.32311,
+			"prixLePlusBas": 40,
+			"nbAvis": 119,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel de Paris Montmartre, Paris, France",
+			"latitude": 48.88456,
+			"longitude": 2.3259,
+			"prixLePlusBas": 45,
+			"nbAvis": 115,
+			"note": 3.8
+		},
+		{
+			"title": "Des Deux Avenues Hotel, Paris, France",
+			"latitude": 48.87993,
+			"longitude": 2.2987,
+			"prixLePlusBas": 90,
+			"nbAvis": 10,
+			"note": 3.8
+		},
+		{
+			"title": "Etoile Park Hotel, Paris, France",
+			"latitude": 48.87613,
+			"longitude": 2.29462,
+			"prixLePlusBas": 101,
+			"nbAvis": 12,
+			"note": 4.3
+		},
+		{
+			"title": "Fertel Maillot, Paris, France",
+			"latitude": 48.87822,
+			"longitude": 2.2851,
+			"prixLePlusBas": 106,
+			"nbAvis": 23,
+			"note": 3.7
+		},
+		{
+			"title": "Hidden Hotel by Elegancia, Paris, France",
+			"latitude": 48.87749,
+			"longitude": 2.29333,
+			"prixLePlusBas": 141,
+			"nbAvis": 173,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Ampère, Paris, France",
+			"latitude": 48.88465,
+			"longitude": 2.29959,
+			"prixLePlusBas": 145,
+			"nbAvis": 311,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Arc de Triomphe, Paris, France",
+			"latitude": 48.87673,
+			"longitude": 2.29379,
+			"prixLePlusBas": 82,
+			"nbAvis": 19,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Arc de Triomphe Étoile, Paris, France",
+			"latitude": 48.87656,
+			"longitude": 2.29645,
+			"prixLePlusBas": 82,
+			"nbAvis": 21,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Armoni by Elegancia, Paris, France",
+			"latitude": 48.88522,
+			"longitude": 2.29306,
+			"prixLePlusBas": 79,
+			"nbAvis": 128,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Beauséjour Montmartre, Paris, France",
+			"latitude": 48.883605,
+			"longitude": 2.325669,
+			"prixLePlusBas": 101,
+			"nbAvis": 292,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Belfast, Paris, France",
+			"latitude": 48.87546,
+			"longitude": 2.29364,
+			"prixLePlusBas": 129,
+			"nbAvis": 39,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Centre Ville Etoile, Paris, France",
+			"latitude": 48.8762,
+			"longitude": 2.28995,
+			"prixLePlusBas": 91,
+			"nbAvis": 6,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Champerret-Elysées, Paris, France",
+			"latitude": 48.88537,
+			"longitude": 2.29383,
+			"prixLePlusBas": 98,
+			"nbAvis": 2,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Champs-Elysées Mac Mahon, Paris, France",
+			"latitude": 48.87527,
+			"longitude": 2.29477,
+			"prixLePlusBas": 128,
+			"nbAvis": 119,
+			"note": 4.5
+		},
+		{
+			"title": "Courcelles Etoile, Paris, France",
+			"latitude": 48.88436,
+			"longitude": 2.29793,
+			"prixLePlusBas": 83,
+			"nbAvis": 64,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel de Banville, Paris, France",
+			"latitude": 48.88635,
+			"longitude": 2.29493,
+			"prixLePlusBas": 124,
+			"nbAvis": 153,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel de l'Europe, Paris, France",
+			"latitude": 48.89101,
+			"longitude": 2.32138,
+			"prixLePlusBas": 45,
+			"nbAvis": 22,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel de Prony, Paris, France",
+			"latitude": 48.88471,
+			"longitude": 2.29923,
+			"prixLePlusBas": 80,
+			"nbAvis": 4,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel des Batignolles, Paris, France",
+			"latitude": 48.88493,
+			"longitude": 2.32097,
+			"prixLePlusBas": 67,
+			"nbAvis": 165,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel du Théâtre, Paris, France",
+			"latitude": 48.88216,
+			"longitude": 2.31873,
+			"prixLePlusBas": 76,
+			"nbAvis": 42,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Élysée Étoile, Paris, France",
+			"latitude": 48.87664,
+			"longitude": 2.29633,
+			"prixLePlusBas": 90,
+			"nbAvis": 11,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Elysées Ceramic Paris, Paris, France",
+			"latitude": 48.87686,
+			"longitude": 2.2974,
+			"prixLePlusBas": 135,
+			"nbAvis": 15,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Élysées Flaubert, Paris, France",
+			"latitude": 48.88124,
+			"longitude": 2.29852,
+			"prixLePlusBas": 68,
+			"nbAvis": 14,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Etoile Pereire, Paris, France",
+			"latitude": 48.88349,
+			"longitude": 2.29419,
+			"prixLePlusBas": 120,
+			"nbAvis": 30,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Etoile Saint-Ferdinand Paris, Paris, France",
+			"latitude": 48.87769,
+			"longitude": 2.28735,
+			"prixLePlusBas": 121,
+			"nbAvis": 232,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Floridor Etoile, Paris, France",
+			"latitude": 48.87865,
+			"longitude": 2.29422,
+			"prixLePlusBas": 90,
+			"nbAvis": 32,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Glasgow Monceau Paris, Paris, France",
+			"latitude": 48.88649,
+			"longitude": 2.30945,
+			"prixLePlusBas": 76,
+			"nbAvis": 12,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Harvey, Paris, France",
+			"latitude": 48.87796,
+			"longitude": 2.28654,
+			"prixLePlusBas": 92,
+			"nbAvis": 111,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Jardin de Villiers, Paris, France",
+			"latitude": 48.884,
+			"longitude": 2.31492,
+			"prixLePlusBas": 93,
+			"nbAvis": 97,
+			"note": 4
+		},
+		{
+			"title": "Hôtel La Régence Etoile, Paris, France",
+			"latitude": 48.87652,
+			"longitude": 2.29284,
+			"prixLePlusBas": 166,
+			"nbAvis": 15,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel Le Pierre, Paris, France",
+			"latitude": 48.88275,
+			"longitude": 2.29838,
+			"prixLePlusBas": 179,
+			"nbAvis": 45,
+			"note": 3.2
+		},
+		{
+			"title": "Le Villiers, Paris, France",
+			"latitude": 48.88539,
+			"longitude": 2.29332,
+			"prixLePlusBas": 68,
+			"nbAvis": 82,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Meridional, Paris, France",
+			"latitude": 48.89006,
+			"longitude": 2.32325,
+			"prixLePlusBas": 58,
+			"nbAvis": 1,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Monceau Elysées, Paris, France",
+			"latitude": 48.88003,
+			"longitude": 2.3022,
+			"prixLePlusBas": 63,
+			"nbAvis": 6,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Monceau Wagram, Paris, France",
+			"latitude": 48.88092,
+			"longitude": 2.29907,
+			"prixLePlusBas": 94,
+			"nbAvis": 27,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Montmartre Jean Gabriel, Paris, France",
+			"latitude": 48.88398,
+			"longitude": 2.32548,
+			"prixLePlusBas": 69,
+			"nbAvis": 141,
+			"note": 3.8
+		},
+		{
+			"title": "Hotel Niel Paris, Paris, France",
+			"latitude": 48.87967,
+			"longitude": 2.2962,
+			"prixLePlusBas": 79,
+			"nbAvis": 60,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Paris Legendre, Paris, France",
+			"latitude": 48.89045,
+			"longitude": 2.32444,
+			"prixLePlusBas": 71,
+			"nbAvis": 47,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Pavillon Villiers Etoile, Paris, France",
+			"latitude": 48.88357,
+			"longitude": 2.31631,
+			"prixLePlusBas": 69,
+			"nbAvis": 240,
+			"note": 3.3
+		},
+		{
+			"title": "Emeraude Hôtel Plaza Etoile, Paris, France",
+			"latitude": 48.87591,
+			"longitude": 2.29661,
+			"prixLePlusBas": 137,
+			"nbAvis": 94,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Prince Monceau, Paris, France",
+			"latitude": 48.88677,
+			"longitude": 2.31388,
+			"prixLePlusBas": 64,
+			"nbAvis": 28,
+			"note": 2.5
+		},
+		{
+			"title": "Hôtel Renaissance Paris Arc de Triomphe, Paris, France",
+			"latitude": 48.877,
+			"longitude": 2.29738,
+			"prixLePlusBas": 327,
+			"nbAvis": 141,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel Résidence Villiers, Paris, France",
+			"latitude": 48.8837,
+			"longitude": 2.30539,
+			"prixLePlusBas": 68,
+			"nbAvis": 32,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel Romance Malesherbes, Paris, France",
+			"latitude": 48.88639,
+			"longitude": 2.31272,
+			"prixLePlusBas": 72,
+			"nbAvis": 14,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Splendor, Paris, France",
+			"latitude": 48.88235,
+			"longitude": 2.30501,
+			"prixLePlusBas": 98,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Tivoli Etoile, Paris, France",
+			"latitude": 48.87624,
+			"longitude": 2.29604,
+			"prixLePlusBas": 131,
+			"nbAvis": 51,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Viator, Paris, France",
+			"latitude": 48.8908,
+			"longitude": 2.32119,
+			"prixLePlusBas": 112,
+			"nbAvis": 8,
+			"note": 2.3
+		},
+		{
+			"title": "Hôtel Westside Arc de Triomphe, Paris, France",
+			"latitude": 48.88131,
+			"longitude": 2.2947,
+			"prixLePlusBas": 114,
+			"nbAvis": 95,
+			"note": 3.7
+		},
+		{
+			"title": "Hyatt Regency Paris Etoile, Paris, France",
+			"latitude": 48.88085,
+			"longitude": 2.28483,
+			"prixLePlusBas": 135,
+			"nbAvis": 418,
+			"note": 3.6
+		},
+		{
+			"title": "ibis Paris Berthier Porte de Clichy, Paris, France",
+			"latitude": 48.89195,
+			"longitude": 2.31565,
+			"prixLePlusBas": 76,
+			"nbAvis": 177,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel L'Adresse, Paris, France",
+			"latitude": 48.87793,
+			"longitude": 2.28522,
+			"prixLePlusBas": 98,
+			"nbAvis": 53,
+			"note": 3.7
+		},
+		{
+			"title": "L'Edmond Hôtel, Paris, France",
+			"latitude": 48.88205,
+			"longitude": 2.31313,
+			"prixLePlusBas": 209,
+			"nbAvis": 2,
+			"note": 3
+		},
+		{
+			"title": "Hôtel La Villa des Ternes, Paris, France",
+			"latitude": 48.88054,
+			"longitude": 2.28594,
+			"prixLePlusBas": 80,
+			"nbAvis": 197,
+			"note": 4.1
+		},
+		{
+			"title": "Le Baldaquin Hôtel, Paris, France",
+			"latitude": 48.88353,
+			"longitude": 2.32364,
+			"prixLePlusBas": 59,
+			"nbAvis": 6,
+			"note": 2.8
+		},
+		{
+			"title": "Le Méridien Etoile, Paris, France",
+			"latitude": 48.87965,
+			"longitude": 2.28476,
+			"prixLePlusBas": 178,
+			"nbAvis": 253,
+			"note": 3.9
+		},
+		{
+			"title": "Les Jardins de la Villa, Paris, France",
+			"latitude": 48.88026,
+			"longitude": 2.28597,
+			"prixLePlusBas": 95,
+			"nbAvis": 277,
+			"note": 4.6
+		},
+		{
+			"title": "Mercure Paris Arc de Triomphe Etoile, Paris, France",
+			"latitude": 48.87845,
+			"longitude": 2.29507,
+			"prixLePlusBas": 148,
+			"nbAvis": 86,
+			"note": 4.2
+		},
+		{
+			"title": "Mercure Paris Arc de Triomphe Wagram, Paris, France",
+			"latitude": 48.87611,
+			"longitude": 2.29624,
+			"prixLePlusBas": 114,
+			"nbAvis": 61,
+			"note": 3.9
+		},
+		{
+			"title": "Mercure Paris Saint Lazare Monceau, Paris, France",
+			"latitude": 48.88383,
+			"longitude": 2.31868,
+			"prixLePlusBas": 121,
+			"nbAvis": 77,
+			"note": 3.6
+		},
+		{
+			"title": "Mirific Opéra, Paris, France",
+			"latitude": 48.88997,
+			"longitude": 2.32119,
+			"prixLePlusBas": 50,
+			"nbAvis": 2,
+			"note": 2
+		},
+		{
+			"title": "Monceau Etoile, Paris, France",
+			"latitude": 48.88401,
+			"longitude": 2.31322,
+			"prixLePlusBas": 58,
+			"nbAvis": 90,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Neva, Paris, France",
+			"latitude": 48.8765,
+			"longitude": 2.29576,
+			"prixLePlusBas": 163,
+			"nbAvis": 38,
+			"note": 3.5
+		},
+		{
+			"title": "Novotel Paris 17 Porte d'Asnières, Paris, France",
+			"latitude": 48.89162,
+			"longitude": 2.30187,
+			"prixLePlusBas": 117,
+			"nbAvis": 122,
+			"note": 3.7
+		},
+		{
+			"title": "Pavillon Courcelles Parc Monceau, Paris, France",
+			"latitude": 48.8842,
+			"longitude": 2.3162,
+			"prixLePlusBas": 81,
+			"nbAvis": 131,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Pavillon Monceau, Paris, France",
+			"latitude": 48.88548,
+			"longitude": 2.30802,
+			"prixLePlusBas": 81,
+			"nbAvis": 22,
+			"note": 3.5
+		},
+		{
+			"title": "Pavillon Péreire Arc de Triomphe, Paris, France",
+			"latitude": 48.88759,
+			"longitude": 2.30788,
+			"prixLePlusBas": 74,
+			"nbAvis": 167,
+			"note": 3
+		},
+		{
+			"title": "Princesse Caroline, Paris, France",
+			"latitude": 48.8753,
+			"longitude": 2.29611,
+			"prixLePlusBas": 98,
+			"nbAvis": 48,
+			"note": 3.6
+		},
+		{
+			"title": "Timhotel Berthier Paris 17, Paris, France",
+			"latitude": 48.89463,
+			"longitude": 2.3128,
+			"prixLePlusBas": 69,
+			"nbAvis": 877,
+			"note": 3.7
+		},
+		{
+			"title": "Villa Alessandra, Paris, France",
+			"latitude": 48.87927,
+			"longitude": 2.29593,
+			"prixLePlusBas": 116,
+			"nbAvis": 282,
+			"note": 3.2
+		},
+		{
+			"title": "Villa Brunel, Paris, France",
+			"latitude": 48.87909,
+			"longitude": 2.28758,
+			"prixLePlusBas": 94,
+			"nbAvis": 85,
+			"note": 4.2
+		},
+		{
+			"title": "Villa Eugénie, Paris, France",
+			"latitude": 48.88732,
+			"longitude": 2.31394,
+			"prixLePlusBas": 84,
+			"nbAvis": 223,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Abbatial Saint-Germain, Paris, France",
+			"latitude": 48.84956,
+			"longitude": 2.35052,
+			"prixLePlusBas": 112,
+			"nbAvis": 253,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Acte V, Paris, France",
+			"latitude": 48.8448,
+			"longitude": 2.3523,
+			"prixLePlusBas": 96,
+			"nbAvis": 484,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Agora Saint-Germain, Paris, France",
+			"latitude": 48.84873,
+			"longitude": 2.34966,
+			"prixLePlusBas": 99,
+			"nbAvis": 199,
+			"note": 4.2
+		},
+		{
+			"title": "Albe Hôtel, Paris, France",
+			"latitude": 48.85325,
+			"longitude": 2.34463,
+			"prixLePlusBas": 110,
+			"nbAvis": 240,
+			"note": 4.3
+		},
+		{
+			"title": "Best Western la Tour Notre-Dame Saint-Germain-des-Prés, Paris, France",
+			"latitude": 48.85026,
+			"longitude": 2.34498,
+			"prixLePlusBas": 108,
+			"nbAvis": 321,
+			"note": 4.2
+		},
+		{
+			"title": "Best Western Quartier Latin Panthéon, Paris, France",
+			"latitude": 48.84367,
+			"longitude": 2.35233,
+			"prixLePlusBas": 95,
+			"nbAvis": 36,
+			"note": 3.8
+		},
+		{
+			"title": "Cluny Square, Paris, France",
+			"latitude": 48.85135,
+			"longitude": 2.34339,
+			"prixLePlusBas": 187,
+			"nbAvis": 7,
+			"note": 4
+		},
+		{
+			"title": "Comfort Hotel Mouffetard, Paris, France",
+			"latitude": 48.84324,
+			"longitude": 2.34954,
+			"prixLePlusBas": 94,
+			"nbAvis": 120,
+			"note": 3.7
+		},
+		{
+			"title": "FAY Panthéon, Paris, France",
+			"latitude": 48.84544,
+			"longitude": 2.34911,
+			"prixLePlusBas": 148,
+			"nbAvis": 6,
+			"note": 2.3
+		},
+		{
+			"title": "FAY Saint-Michel, Paris, France",
+			"latitude": 48.85309,
+			"longitude": 2.34532,
+			"prixLePlusBas": 39,
+			"nbAvis": 9,
+			"note": 2
+		},
+		{
+			"title": "Grand Hôtel Saint-Michel, Paris, France",
+			"latitude": 48.84774,
+			"longitude": 2.34233,
+			"prixLePlusBas": 146,
+			"nbAvis": 187,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Atmosphères, Paris, France",
+			"latitude": 48.84872,
+			"longitude": 2.34812,
+			"prixLePlusBas": 135,
+			"nbAvis": 293,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel California Saint-Germain, Paris, France",
+			"latitude": 48.84901,
+			"longitude": 2.34712,
+			"prixLePlusBas": 81,
+			"nbAvis": 167,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Cardinal Rive Gauche, Paris, France",
+			"latitude": 48.8379,
+			"longitude": 2.34936,
+			"prixLePlusBas": 100,
+			"nbAvis": 95,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Central Saint-Germain, Paris, France",
+			"latitude": 48.84988,
+			"longitude": 2.34294,
+			"prixLePlusBas": 109,
+			"nbAvis": 87,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Claude Bernard, Paris, France",
+			"latitude": 48.84907,
+			"longitude": 2.34684,
+			"prixLePlusBas": 97,
+			"nbAvis": 20,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel de Notre-Dame, Paris, France",
+			"latitude": 48.85042,
+			"longitude": 2.34943,
+			"prixLePlusBas": 157,
+			"nbAvis": 325,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel des Nations Saint-Germain, Paris, France",
+			"latitude": 48.84477,
+			"longitude": 2.35228,
+			"prixLePlusBas": 98,
+			"nbAvis": 98,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Elysa-Luxembourg, Paris, France",
+			"latitude": 48.84626,
+			"longitude": 2.34105,
+			"prixLePlusBas": 117,
+			"nbAvis": 45,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Garance, Paris, France",
+			"latitude": 48.83745,
+			"longitude": 2.3514,
+			"prixLePlusBas": 103,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Le Notre Dame, Paris, France",
+			"latitude": 48.85301,
+			"longitude": 2.34678,
+			"prixLePlusBas": 138,
+			"nbAvis": 169,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Les Rives de Notre Dame, Paris, France",
+			"latitude": 48.85334,
+			"longitude": 2.34586,
+			"prixLePlusBas": 180,
+			"nbAvis": 12,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Moderne Saint-Germain, Paris, France",
+			"latitude": 48.84875,
+			"longitude": 2.348,
+			"prixLePlusBas": 97,
+			"nbAvis": 111,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Observatoire Luxembourg, Paris, France",
+			"latitude": 48.84367,
+			"longitude": 2.33883,
+			"prixLePlusBas": 137,
+			"nbAvis": 41,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Parc Saint-Séverin, Paris, France",
+			"latitude": 48.85173,
+			"longitude": 2.34483,
+			"prixLePlusBas": 118,
+			"nbAvis": 152,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Saint-Christophe, Paris, France",
+			"latitude": 48.84371,
+			"longitude": 2.3527,
+			"prixLePlusBas": 99,
+			"nbAvis": 132,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Serotel Lutèce, Paris, France",
+			"latitude": 48.84024,
+			"longitude": 2.34606,
+			"prixLePlusBas": 124,
+			"nbAvis": 15,
+			"note": 4.1
+		},
+		{
+			"title": "Seven Hotel, Paris, France",
+			"latitude": 48.838951,
+			"longitude": 2.345745,
+			"prixLePlusBas": 143,
+			"nbAvis": 181,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Vendôme Saint-Germain, Paris, France",
+			"latitude": 48.84736,
+			"longitude": 2.35154,
+			"prixLePlusBas": 77,
+			"nbAvis": 179,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Le Petit Paris, Paris, France",
+			"latitude": 48.84526,
+			"longitude": 2.3425,
+			"prixLePlusBas": 159,
+			"nbAvis": 192,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Relais Saint-Jacques, Paris, France",
+			"latitude": 48.84313,
+			"longitude": 2.34236,
+			"prixLePlusBas": 144,
+			"nbAvis": 86,
+			"note": 4.4
+		},
+		{
+			"title": "Meliá Colbert Boutique Hotel, Paris, France",
+			"latitude": 48.85163,
+			"longitude": 2.34857,
+			"prixLePlusBas": 165,
+			"nbAvis": 191,
+			"note": 4.4
+		},
+		{
+			"title": "Private Apartments - Pantheon, Paris, France",
+			"latitude": 48.84634,
+			"longitude": 2.35169,
+			"prixLePlusBas": 189,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Résidence Le Saint-Germain, Paris, France",
+			"latitude": 48.8513,
+			"longitude": 2.34458,
+			"prixLePlusBas": 102,
+			"nbAvis": 94,
+			"note": 3.8
+		},
+		{
+			"title": "Résidence Villa Daubenton, Paris, France",
+			"latitude": 48.83953,
+			"longitude": 2.34658,
+			"prixLePlusBas": 127,
+			"nbAvis": 94,
+			"note": 3.9
+		},
+		{
+			"title": "Select Hôtel - Rive Gauche, Paris, France",
+			"latitude": 48.84847,
+			"longitude": 2.3426,
+			"prixLePlusBas": 138,
+			"nbAvis": 525,
+			"note": 4.2
+		},
+		{
+			"title": "The Five Hotel by Elegancia, Paris, France",
+			"latitude": 48.83779,
+			"longitude": 2.34647,
+			"prixLePlusBas": 86,
+			"nbAvis": 116,
+			"note": 4.3
+		},
+		{
+			"title": "Villa Panthéon, Paris, France",
+			"latitude": 48.84899,
+			"longitude": 2.3471,
+			"prixLePlusBas": 143,
+			"nbAvis": 433,
+			"note": 3.8
+		},
+		{
+			"title": "9HOTEL Montparnasse, Paris, France",
+			"latitude": 48.83371,
+			"longitude": 2.31768,
+			"prixLePlusBas": 91,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Best Western Nouvel Orleans, Paris, France",
+			"latitude": 48.83113,
+			"longitude": 2.32972,
+			"prixLePlusBas": 76,
+			"nbAvis": 209,
+			"note": 3.9
+		},
+		{
+			"title": "Cécil Hôtel, Paris, France",
+			"latitude": 48.82458,
+			"longitude": 2.32723,
+			"prixLePlusBas": 40,
+			"nbAvis": 34,
+			"note": 3.5
+		},
+		{
+			"title": "Citadines Didot Montparnasse Paris, Paris, France",
+			"latitude": 48.82807,
+			"longitude": 2.31561,
+			"prixLePlusBas": 93,
+			"nbAvis": 99,
+			"note": 4
+		},
+		{
+			"title": "Citadines Maine Montparnasse Paris, Paris, France",
+			"latitude": 48.83922,
+			"longitude": 2.32236,
+			"prixLePlusBas": 110,
+			"nbAvis": 94,
+			"note": 4
+		},
+		{
+			"title": "Fred Hotel, Paris, France",
+			"latitude": 48.83217,
+			"longitude": 2.31629,
+			"prixLePlusBas": 84,
+			"nbAvis": 217,
+			"note": 4.3
+		},
+		{
+			"title": "Helzear Montparnasse Rive Gauche Apartments, Paris, France",
+			"latitude": 48.83466,
+			"longitude": 2.32506,
+			"prixLePlusBas": 98,
+			"nbAvis": 1,
+			"note": 1
+		},
+		{
+			"title": "Holiday Inn Paris Gare Montparnasse, Paris, France",
+			"latitude": 48.83829,
+			"longitude": 2.32267,
+			"prixLePlusBas": 88,
+			"nbAvis": 100,
+			"note": 3.8
+		},
+		{
+			"title": "Hotel Agenor, Paris, France",
+			"latitude": 48.83679,
+			"longitude": 2.32393,
+			"prixLePlusBas": 149,
+			"nbAvis": 19,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Aiglon, Paris, France",
+			"latitude": 48.83978,
+			"longitude": 2.33038,
+			"prixLePlusBas": 128,
+			"nbAvis": 153,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Apollinaire, Paris, France",
+			"latitude": 48.8414,
+			"longitude": 2.32574,
+			"prixLePlusBas": 79,
+			"nbAvis": 158,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Ariane Montparnasse, Paris, France",
+			"latitude": 48.83216,
+			"longitude": 2.32181,
+			"prixLePlusBas": 86,
+			"nbAvis": 56,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Aviatic, Paris, France",
+			"latitude": 48.83107,
+			"longitude": 2.32843,
+			"prixLePlusBas": 56,
+			"nbAvis": 239,
+			"note": 2.9
+		},
+		{
+			"title": "Hotel Celtic, Paris, France",
+			"latitude": 48.8421,
+			"longitude": 2.32461,
+			"prixLePlusBas": 55,
+			"nbAvis": 24,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Châtillon Paris Montparnasse, Paris, France",
+			"latitude": 48.8257,
+			"longitude": 2.32316,
+			"prixLePlusBas": 88,
+			"nbAvis": 18,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Concorde Montparnasse, Paris, France",
+			"latitude": 48.83769,
+			"longitude": 2.31889,
+			"prixLePlusBas": 131,
+			"nbAvis": 372,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel De Blois, Paris, France",
+			"latitude": 48.8319,
+			"longitude": 2.32461,
+			"prixLePlusBas": 69,
+			"nbAvis": 10,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel de l'Orchidée, Paris, France",
+			"latitude": 48.83588,
+			"longitude": 2.31884,
+			"prixLePlusBas": 80,
+			"nbAvis": 157,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel de la Paix, Paris, France",
+			"latitude": 48.84004,
+			"longitude": 2.33032,
+			"prixLePlusBas": 99,
+			"nbAvis": 232,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel du Lion, Paris, France",
+			"latitude": 48.83369,
+			"longitude": 2.33198,
+			"prixLePlusBas": 89,
+			"nbAvis": 30,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel du Parc, Paris, France",
+			"latitude": 48.84081,
+			"longitude": 2.32382,
+			"prixLePlusBas": 76,
+			"nbAvis": 141,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Edgar Quinet, Paris, France",
+			"latitude": 48.84131,
+			"longitude": 2.32412,
+			"prixLePlusBas": 76,
+			"nbAvis": 37,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel Le M, Paris, France",
+			"latitude": 48.83985,
+			"longitude": 2.3237,
+			"prixLePlusBas": 106,
+			"nbAvis": 91,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Mistral, Paris, France",
+			"latitude": 48.83685,
+			"longitude": 2.32376,
+			"prixLePlusBas": 104,
+			"nbAvis": 2,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Montparnasse Alésia, Paris, France",
+			"latitude": 48.83013,
+			"longitude": 2.32036,
+			"prixLePlusBas": 65,
+			"nbAvis": 119,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Montparnasse St Germain, Paris, France",
+			"latitude": 48.84241,
+			"longitude": 2.32347,
+			"prixLePlusBas": 89,
+			"nbAvis": 400,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Renoir Saint-Germain, Paris, France",
+			"latitude": 48.84275,
+			"longitude": 2.32611,
+			"prixLePlusBas": 39,
+			"nbAvis": 134,
+			"note": 2.7
+		},
+		{
+			"title": "Hôtel Sophie Germain, Paris, France",
+			"latitude": 48.83093,
+			"longitude": 2.33055,
+			"prixLePlusBas": 79,
+			"nbAvis": 129,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Suites Unic Renoir Saint Germain, Paris, France",
+			"latitude": 48.84186,
+			"longitude": 2.32538,
+			"prixLePlusBas": 53,
+			"nbAvis": 52,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Unic Renoir Saint-Germain, Paris, France",
+			"latitude": 48.84198,
+			"longitude": 2.32546,
+			"prixLePlusBas": 39,
+			"nbAvis": 140,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Virgina, Paris, France",
+			"latitude": 48.82405,
+			"longitude": 2.3277,
+			"prixLePlusBas": 97,
+			"nbAvis": 77,
+			"note": 3.9
+		},
+		{
+			"title": "ibis Paris Alésia Montparnasse 14ème, Paris, France",
+			"latitude": 48.8276,
+			"longitude": 2.32101,
+			"prixLePlusBas": 91,
+			"nbAvis": 45,
+			"note": 3.6
+		},
+		{
+			"title": "ibis Paris Maine Montparnasse 14ème, Paris, France",
+			"latitude": 48.83385,
+			"longitude": 2.32295,
+			"prixLePlusBas": 89,
+			"nbAvis": 34,
+			"note": 3.2
+		},
+		{
+			"title": "ibis Styles Paris Alésia Montparnasse, Paris, France",
+			"latitude": 48.83027,
+			"longitude": 2.32334,
+			"prixLePlusBas": 66,
+			"nbAvis": 60,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel ibis Styles Paris Maine Montparnasse, Paris, France",
+			"latitude": 48.83167,
+			"longitude": 2.32188,
+			"prixLePlusBas": 66,
+			"nbAvis": 49,
+			"note": 3.8
+		},
+		{
+			"title": "ibis Styles Paris Porte d'Orléans, Montrouge, France",
+			"latitude": 48.81919,
+			"longitude": 2.32562,
+			"prixLePlusBas": 93,
+			"nbAvis": 108,
+			"note": 4.5
+		},
+		{
+			"title": "Ideal Hotel Design, Paris, France",
+			"latitude": 48.82314,
+			"longitude": 2.32604,
+			"prixLePlusBas": 49,
+			"nbAvis": 664,
+			"note": 3.6
+		},
+		{
+			"title": "L'Atelier Montparnasse, Paris, France",
+			"latitude": 48.83333,
+			"longitude": 2.31696,
+			"prixLePlusBas": 105,
+			"nbAvis": 138,
+			"note": 4.1
+		},
+		{
+			"title": "La Maison Montparnasse, Paris, France",
+			"latitude": 48.8325,
+			"longitude": 2.31686,
+			"prixLePlusBas": 74,
+			"nbAvis": 42,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Le 55 Montparnasse, Paris, France",
+			"latitude": 48.83366,
+			"longitude": 2.31774,
+			"prixLePlusBas": 80,
+			"nbAvis": 607,
+			"note": 3.9
+		},
+		{
+			"title": "Le Nouvel Hôtel du Théâtre, Paris, France",
+			"latitude": 48.83948,
+			"longitude": 2.32254,
+			"prixLePlusBas": 95,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Lenox Montparnasse, Paris, France",
+			"latitude": 48.84168,
+			"longitude": 2.32786,
+			"prixLePlusBas": 90,
+			"nbAvis": 541,
+			"note": 4.3
+		},
+		{
+			"title": "Mercure Paris Gare Montparnasse, Paris, France",
+			"latitude": 48.83991,
+			"longitude": 2.32376,
+			"prixLePlusBas": 147,
+			"nbAvis": 205,
+			"note": 4.1
+		},
+		{
+			"title": "Mercure Paris Raspail Montparnasse, Paris, France",
+			"latitude": 48.84111,
+			"longitude": 2.32997,
+			"prixLePlusBas": 136,
+			"nbAvis": 63,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Montsouris Orléans, Paris, France",
+			"latitude": 48.82417,
+			"longitude": 2.33,
+			"prixLePlusBas": 65,
+			"nbAvis": 15,
+			"note": 3.7
+		},
+		{
+			"title": "Novotel Paris Porte d'Orléans, Paris, France",
+			"latitude": 48.81974,
+			"longitude": 2.32615,
+			"prixLePlusBas": 117,
+			"nbAvis": 484,
+			"note": 4.1
+		},
+		{
+			"title": "Parc Hôtel Paris, Paris, France",
+			"latitude": 48.82462,
+			"longitude": 2.3268,
+			"prixLePlusBas": 64,
+			"nbAvis": 107,
+			"note": 3.6
+		},
+		{
+			"title": "Paris Marriott Rive Gauche Hotel &amp; Conference Center, Paris, France",
+			"latitude": 48.83207,
+			"longitude": 2.33955,
+			"prixLePlusBas": 158,
+			"nbAvis": 117,
+			"note": 4
+		},
+		{
+			"title": "Pullman Paris Montparnasse, Paris, France",
+			"latitude": 48.83856,
+			"longitude": 2.32008,
+			"prixLePlusBas": 173,
+			"nbAvis": 1011,
+			"note": 4.2
+		},
+		{
+			"title": "Quality Hotel Paris Orléans, Paris, France",
+			"latitude": 48.82362,
+			"longitude": 2.32403,
+			"prixLePlusBas": 88,
+			"nbAvis": 41,
+			"note": 3.8
+		},
+		{
+			"title": "Timhotel Tour Montparnasse, Paris, France",
+			"latitude": 48.84042,
+			"longitude": 2.32422,
+			"prixLePlusBas": 94,
+			"nbAvis": 24,
+			"note": 3.8
+		},
+		{
+			"title": "Tipi Hôtel, Paris, France",
+			"latitude": 48.8355,
+			"longitude": 2.32539,
+			"prixLePlusBas": 45,
+			"nbAvis": 135,
+			"note": 3.6
+		},
+		{
+			"title": "Villa du Maine, Paris, France",
+			"latitude": 48.82728,
+			"longitude": 2.31607,
+			"prixLePlusBas": 43,
+			"nbAvis": 157,
+			"note": 2.8
+		},
+		{
+			"title": "Villa Modigliani - Vacances Bleues, Paris, France",
+			"latitude": 48.84168,
+			"longitude": 2.32795,
+			"prixLePlusBas": 79,
+			"nbAvis": 134,
+			"note": 4
+		},
+		{
+			"title": "Villa Montparnasse, Paris, France",
+			"latitude": 48.83499,
+			"longitude": 2.32983,
+			"prixLePlusBas": 122,
+			"nbAvis": 250,
+			"note": 3.8
+		},
+		{
+			"title": "Villa Royale Montsouris, Paris, France",
+			"latitude": 48.82358,
+			"longitude": 2.33084,
+			"prixLePlusBas": 59,
+			"nbAvis": 130,
+			"note": 3.6
+		},
+		{
+			"title": "Adagio Access Paris Philippe-Auguste, Paris, France",
+			"latitude": 48.85892,
+			"longitude": 2.3912,
+			"prixLePlusBas": 98,
+			"nbAvis": 129,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Armstrong Paris, Paris, France",
+			"latitude": 48.85524,
+			"longitude": 2.40951,
+			"prixLePlusBas": 44,
+			"nbAvis": 169,
+			"note": 3.4
+		},
+		{
+			"title": "Comfort Hotel Davout Nation Paris 20, Paris, France",
+			"latitude": 48.85548,
+			"longitude": 2.4098,
+			"prixLePlusBas": 54,
+			"nbAvis": 38,
+			"note": 3.4
+		},
+		{
+			"title": "Hipotel Paris Printania, Paris, France",
+			"latitude": 48.85342,
+			"longitude": 2.41053,
+			"prixLePlusBas": 39,
+			"nbAvis": 16,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Paris Gambetta, Paris, France",
+			"latitude": 48.8642,
+			"longitude": 2.39784,
+			"prixLePlusBas": 104,
+			"nbAvis": 26,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Tamaris, Paris, France",
+			"latitude": 48.84858,
+			"longitude": 2.40778,
+			"prixLePlusBas": 60,
+			"nbAvis": 54,
+			"note": 3.2
+		},
+		{
+			"title": "ibis Paris Porte de Montreuil, Paris, France",
+			"latitude": 48.85433,
+			"longitude": 2.41528,
+			"prixLePlusBas": 78,
+			"nbAvis": 45,
+			"note": 3.4
+		},
+		{
+			"title": "Pavillon Nation, Paris, France",
+			"latitude": 48.8494,
+			"longitude": 2.39891,
+			"prixLePlusBas": 157,
+			"nbAvis": 206,
+			"note": 3.7
+		},
+		{
+			"title": "Suite Novotel Paris Porte de Montreuil, Paris, France",
+			"latitude": 48.85598,
+			"longitude": 2.41505,
+			"prixLePlusBas": 104,
+			"nbAvis": 319,
+			"note": 3.7
+		},
+		{
+			"title": "Super Hotel, Paris, France",
+			"latitude": 48.86529,
+			"longitude": 2.39818,
+			"prixLePlusBas": 99,
+			"nbAvis": 59,
+			"note": 3.3
+		},
+		{
+			"title": "Timhotel Nation, Paris, France",
+			"latitude": 48.85145,
+			"longitude": 2.39901,
+			"prixLePlusBas": 72,
+			"nbAvis": 63,
+			"note": 3.3
+		},
+		{
+			"title": "Adagio Access Paris La Villette, Paris, France",
+			"latitude": 48.8966,
+			"longitude": 2.38456,
+			"prixLePlusBas": 85,
+			"nbAvis": 44,
+			"note": 3.4
+		},
+		{
+			"title": "Adagio Paris Buttes Chaumont, Paris, France",
+			"latitude": 48.87809,
+			"longitude": 2.38681,
+			"prixLePlusBas": 138,
+			"nbAvis": 84,
+			"note": 4
+		},
+		{
+			"title": "Appart'City Paris La Villette, Paris, France",
+			"latitude": 48.88705,
+			"longitude": 2.38644,
+			"prixLePlusBas": 59,
+			"nbAvis": 55,
+			"note": 2.5
+		},
+		{
+			"title": "Balladins Paris 19, Paris, France",
+			"latitude": 48.89259,
+			"longitude": 2.37459,
+			"prixLePlusBas": 57,
+			"nbAvis": 101,
+			"note": 3.4
+		},
+		{
+			"title": "Campanile La Villette, Paris, France",
+			"latitude": 48.89338,
+			"longitude": 2.38012,
+			"prixLePlusBas": 59,
+			"nbAvis": 253,
+			"note": 4.1
+		},
+		{
+			"title": "Holiday Inn Express Paris - Canal de la Villette, Paris, France",
+			"latitude": 48.88855,
+			"longitude": 2.37832,
+			"prixLePlusBas": 108,
+			"nbAvis": 478,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel de la Perdrix Rouge, Paris, France",
+			"latitude": 48.8754,
+			"longitude": 2.38909,
+			"prixLePlusBas": 59,
+			"nbAvis": 44,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Le Canal, Paris, France",
+			"latitude": 48.88735,
+			"longitude": 2.37287,
+			"prixLePlusBas": 58,
+			"nbAvis": 87,
+			"note": 3.2
+		},
+		{
+			"title": "ibis Paris La Villette Cité des Sciences 19ème, Paris, France",
+			"latitude": 48.892015,
+			"longitude": 2.385279,
+			"prixLePlusBas": 71,
+			"nbAvis": 115,
+			"note": 3.6
+		},
+		{
+			"title": "Libertel Canal Saint-Martin, Paris, France",
+			"latitude": 48.88224,
+			"longitude": 2.37098,
+			"prixLePlusBas": 59,
+			"nbAvis": 625,
+			"note": 3.8
+		},
+		{
+			"title": "Mercure Paris La Villette, Paris, France",
+			"latitude": 48.88922,
+			"longitude": 2.39428,
+			"prixLePlusBas": 107,
+			"nbAvis": 139,
+			"note": 3.5
+		},
+		{
+			"title": "St Christopher's Inns The Canal Hostel, Paris, France",
+			"latitude": 48.88866,
+			"longitude": 2.37909,
+			"prixLePlusBas": 18,
+			"nbAvis": 49,
+			"note": 4.1
+		},
+		{
+			"title": "Holiday Inn Express Paris Place d'Italie, Paris, France",
+			"latitude": 48.83144,
+			"longitude": 2.35753,
+			"prixLePlusBas": 98,
+			"nbAvis": 86,
+			"note": 3.5
+		},
+		{
+			"title": "Club Belambra City Hôtel Magendie, Paris, France",
+			"latitude": 48.83399,
+			"longitude": 2.34636,
+			"prixLePlusBas": 80,
+			"nbAvis": 242,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Amiral Hotel, Paris, France",
+			"latitude": 48.82533,
+			"longitude": 2.35752,
+			"prixLePlusBas": 84,
+			"nbAvis": 54,
+			"note": 3.5
+		},
+		{
+			"title": "Best Western Hôtel de Weha, Paris, France",
+			"latitude": 48.82996,
+			"longitude": 2.35692,
+			"prixLePlusBas": 70,
+			"nbAvis": 168,
+			"note": 3.7
+		},
+		{
+			"title": "Citadines Austerlitz Paris, Paris, France",
+			"latitude": 48.83494,
+			"longitude": 2.36042,
+			"prixLePlusBas": 84,
+			"nbAvis": 35,
+			"note": 4.1
+		},
+		{
+			"title": "Citadines Place d'Italie Paris, Paris, France",
+			"latitude": 48.83068,
+			"longitude": 2.35481,
+			"prixLePlusBas": 88,
+			"nbAvis": 103,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Coypel, Paris, France",
+			"latitude": 48.83315,
+			"longitude": 2.35674,
+			"prixLePlusBas": 72,
+			"nbAvis": 180,
+			"note": 3.7
+		},
+		{
+			"title": "Grand Hôtel des Gobelins, Paris, France",
+			"latitude": 48.83765,
+			"longitude": 2.35492,
+			"prixLePlusBas": 108,
+			"nbAvis": 674,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Ambre, Paris, France",
+			"latitude": 48.82595,
+			"longitude": 2.35318,
+			"prixLePlusBas": 132,
+			"nbAvis": 24,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel des Écrivains, Paris, France",
+			"latitude": 48.83321,
+			"longitude": 2.35594,
+			"prixLePlusBas": 69,
+			"nbAvis": 346,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel La Demeure, Paris, France",
+			"latitude": 48.83801,
+			"longitude": 2.35578,
+			"prixLePlusBas": 205,
+			"nbAvis": 258,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Le Richemont, Paris, France",
+			"latitude": 48.82808,
+			"longitude": 2.36879,
+			"prixLePlusBas": 81,
+			"nbAvis": 76,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Le Vert Galant, Paris, France",
+			"latitude": 48.83228,
+			"longitude": 2.35032,
+			"prixLePlusBas": 81,
+			"nbAvis": 10,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Manet, Paris, France",
+			"latitude": 48.83299,
+			"longitude": 2.35732,
+			"prixLePlusBas": 69,
+			"nbAvis": 10,
+			"note": 4.2
+		},
+		{
+			"title": "ibis Paris Avenue d'Italie 13ème, Paris, France",
+			"latitude": 48.82927,
+			"longitude": 2.35632,
+			"prixLePlusBas": 97,
+			"nbAvis": 29,
+			"note": 3.5
+		},
+		{
+			"title": "ibis Paris Italie Tolbiac 13ème, Paris, France",
+			"latitude": 48.82593,
+			"longitude": 2.3527,
+			"prixLePlusBas": 101,
+			"nbAvis": 18,
+			"note": 3.6
+		},
+		{
+			"title": "ibis Styles Paris Tolbiac Bibliothèque de France, Paris, France",
+			"latitude": 48.82903,
+			"longitude": 2.37401,
+			"prixLePlusBas": 66,
+			"nbAvis": 51,
+			"note": 4.1
+		},
+		{
+			"title": "Inter-Hotel Jack's Hôtel, Paris, France",
+			"latitude": 48.832988,
+			"longitude": 2.359172,
+			"prixLePlusBas": 84,
+			"nbAvis": 36,
+			"note": 3.9
+		},
+		{
+			"title": "Kyriad Paris 13 - Italie Gobelins, Paris, France",
+			"latitude": 48.83385,
+			"longitude": 2.35493,
+			"prixLePlusBas": 50,
+			"nbAvis": 170,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel La Manufacture, Paris, France",
+			"latitude": 48.83287,
+			"longitude": 2.35532,
+			"prixLePlusBas": 75,
+			"nbAvis": 171,
+			"note": 4.2
+		},
+		{
+			"title": "Libertel Austerlitz Jardin des Plantes, Paris, France",
+			"latitude": 48.84219,
+			"longitude": 2.36351,
+			"prixLePlusBas": 65,
+			"nbAvis": 267,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Média, Paris, France",
+			"latitude": 48.836555,
+			"longitude": 2.353799,
+			"prixLePlusBas": 35,
+			"nbAvis": 221,
+			"note": 3.3
+		},
+		{
+			"title": "Mercure Paris Austerlitz Bibliothèque, Paris, France",
+			"latitude": 48.83731,
+			"longitude": 2.37309,
+			"prixLePlusBas": 98,
+			"nbAvis": 121,
+			"note": 4.1
+		},
+		{
+			"title": "Mercure Paris Gobelins Place d'Italie, Paris, France",
+			"latitude": 48.83193,
+			"longitude": 2.35361,
+			"prixLePlusBas": 111,
+			"nbAvis": 9,
+			"note": 3.7
+		},
+		{
+			"title": "Mercure Paris Place d'Italie, Paris, France",
+			"latitude": 48.83036,
+			"longitude": 2.35276,
+			"prixLePlusBas": 98,
+			"nbAvis": 59,
+			"note": 3.9
+		},
+		{
+			"title": "Novex, Paris, France",
+			"latitude": 48.82276,
+			"longitude": 2.3615,
+			"prixLePlusBas": 60,
+			"nbAvis": 38,
+			"note": 3.1
+		},
+		{
+			"title": "Paris Massena Olympiades, Paris, France",
+			"latitude": 48.82344,
+			"longitude": 2.37148,
+			"prixLePlusBas": 69,
+			"nbAvis": 133,
+			"note": 3.4
+		},
+		{
+			"title": "Park &amp; Suites Prestige Paris Grande Bibliothèque, Paris, France",
+			"latitude": 48.82797,
+			"longitude": 2.37928,
+			"prixLePlusBas": 88,
+			"nbAvis": 332,
+			"note": 3.5
+		},
+		{
+			"title": "Quality Suites Bercy Bibliothèque, Paris, France",
+			"latitude": 48.82945,
+			"longitude": 2.3747,
+			"prixLePlusBas": 67,
+			"nbAvis": 84,
+			"note": 3.3
+		},
+		{
+			"title": "Timhotel Place d'Italie Butte aux Cailles, Paris, France",
+			"latitude": 48.82836,
+			"longitude": 2.34748,
+			"prixLePlusBas": 60,
+			"nbAvis": 97,
+			"note": 3.4
+		},
+		{
+			"title": "Villa Lutèce Port Royal, Paris, France",
+			"latitude": 48.83627,
+			"longitude": 2.36011,
+			"prixLePlusBas": 119,
+			"nbAvis": 102,
+			"note": 3.6
+		},
+		{
+			"title": "Appart Hôtel Musée du Louvre, Paris, France",
+			"latitude": 48.85995,
+			"longitude": 2.3451,
+			"prixLePlusBas": 249,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Best Western Paris Louvre Opéra, Paris, France",
+			"latitude": 48.8666,
+			"longitude": 2.33496,
+			"prixLePlusBas": 102,
+			"nbAvis": 28,
+			"note": 4.1
+		},
+		{
+			"title": "Best Western Premier Louvre Saint-Honoré, Paris, France",
+			"latitude": 48.86181,
+			"longitude": 2.34073,
+			"prixLePlusBas": 105,
+			"nbAvis": 149,
+			"note": 4.1
+		},
+		{
+			"title": "Starhotels Castille Paris, Paris, France",
+			"latitude": 48.86824,
+			"longitude": 2.32685,
+			"prixLePlusBas": 256,
+			"nbAvis": 285,
+			"note": 4.2
+		},
+		{
+			"title": "Citadines Prestige Les Halles Paris, Paris, France",
+			"latitude": 48.86053,
+			"longitude": 2.34697,
+			"prixLePlusBas": 152,
+			"nbAvis": 431,
+			"note": 4.2
+		},
+		{
+			"title": "Citadines Prestige Saint-Germain-des-Prés Paris, Paris, France",
+			"latitude": 48.8556,
+			"longitude": 2.34105,
+			"prixLePlusBas": 203,
+			"nbAvis": 295,
+			"note": 4.5
+		},
+		{
+			"title": "Citadines Louvre Paris, Paris, France",
+			"latitude": 48.86387,
+			"longitude": 2.33587,
+			"prixLePlusBas": 312,
+			"nbAvis": 71,
+			"note": 4.3
+		},
+		{
+			"title": "Golden Tulip Hotel Washington Opera, Paris, France",
+			"latitude": 48.86628,
+			"longitude": 2.33718,
+			"prixLePlusBas": 114,
+			"nbAvis": 64,
+			"note": 3.8
+		},
+		{
+			"title": "Grand Hotel Dechampaigne, Paris, France",
+			"latitude": 48.85883,
+			"longitude": 2.34533,
+			"prixLePlusBas": 146,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Best Western Ducs de Bourgogne, Paris, France",
+			"latitude": 48.860305,
+			"longitude": 2.344252,
+			"prixLePlusBas": 92,
+			"nbAvis": 353,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Brighton, Paris, France",
+			"latitude": 48.86478,
+			"longitude": 2.32884,
+			"prixLePlusBas": 187,
+			"nbAvis": 288,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Crayon by Elegancia, Paris, France",
+			"latitude": 48.864,
+			"longitude": 2.34158,
+			"prixLePlusBas": 108,
+			"nbAvis": 265,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel de Vendôme, Paris, France",
+			"latitude": 48.86677,
+			"longitude": 2.32872,
+			"prixLePlusBas": 381,
+			"nbAvis": 178,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel du Continent, Paris, France",
+			"latitude": 48.86628,
+			"longitude": 2.32688,
+			"prixLePlusBas": 129,
+			"nbAvis": 30,
+			"note": 4
+		},
+		{
+			"title": "Hôtel du Louvre, a Hyatt hotel, Paris, France",
+			"latitude": 48.86313,
+			"longitude": 2.33558,
+			"prixLePlusBas": 215,
+			"nbAvis": 354,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel des Ducs d'Anjou, Paris, France",
+			"latitude": 48.85985,
+			"longitude": 2.34719,
+			"prixLePlusBas": 109,
+			"nbAvis": 111,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Edouard 7 - Paris - Opéra, Paris, France",
+			"latitude": 48.86831,
+			"longitude": 2.3333,
+			"prixLePlusBas": 218,
+			"nbAvis": 106,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Flor Rivoli, Paris, France",
+			"latitude": 48.85923,
+			"longitude": 2.34518,
+			"prixLePlusBas": 90,
+			"nbAvis": 97,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Londres Saint-Honoré, Paris, France",
+			"latitude": 48.86509,
+			"longitude": 2.33207,
+			"prixLePlusBas": 117,
+			"nbAvis": 116,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Lotti, Paris, France",
+			"latitude": 48.86622,
+			"longitude": 2.32815,
+			"prixLePlusBas": 214,
+			"nbAvis": 116,
+			"note": 3.7
+		},
+		{
+			"title": "Emeraude Hôtel Louvre Montana, Paris, France",
+			"latitude": 48.86449,
+			"longitude": 2.33168,
+			"prixLePlusBas": 177,
+			"nbAvis": 118,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Louvre Sainte-Anne, Paris, France",
+			"latitude": 48.86651,
+			"longitude": 2.33566,
+			"prixLePlusBas": 146,
+			"nbAvis": 30,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Lumen Paris Louvre, Paris, France",
+			"latitude": 48.86535,
+			"longitude": 2.33326,
+			"prixLePlusBas": 182,
+			"nbAvis": 166,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Mayfair, Paris, France",
+			"latitude": 48.86608,
+			"longitude": 2.32626,
+			"prixLePlusBas": 179,
+			"nbAvis": 151,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel O by Elegancia, Paris, France",
+			"latitude": 48.865,
+			"longitude": 2.34177,
+			"prixLePlusBas": 108,
+			"nbAvis": 79,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Régina, Paris, France",
+			"latitude": 48.86381,
+			"longitude": 2.33227,
+			"prixLePlusBas": 209,
+			"nbAvis": 392,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Résidence La Concorde, Paris, France",
+			"latitude": 48.86648,
+			"longitude": 2.32538,
+			"prixLePlusBas": 134,
+			"nbAvis": 16,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Royal Saint-Honoré, Paris, France",
+			"latitude": 48.86583,
+			"longitude": 2.33004,
+			"prixLePlusBas": 189,
+			"nbAvis": 104,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Saint Honoré Paris, Paris, France",
+			"latitude": 48.86138,
+			"longitude": 2.343,
+			"prixLePlusBas": 128,
+			"nbAvis": 30,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Saint-Roch, Paris, France",
+			"latitude": 48.86572,
+			"longitude": 2.33249,
+			"prixLePlusBas": 101,
+			"nbAvis": 76,
+			"note": 3.5
+		},
+		{
+			"title": "Hotel Stendhal Place Vendôme Paris - Mgallery Collection, Paris, France",
+			"latitude": 48.86805,
+			"longitude": 2.3313,
+			"prixLePlusBas": 184,
+			"nbAvis": 89,
+			"note": 4.4
+		},
+		{
+			"title": "Le Konfidentiel, Paris, France",
+			"latitude": 48.86125,
+			"longitude": 2.34251,
+			"prixLePlusBas": 184,
+			"nbAvis": 105,
+			"note": 4.6
+		},
+		{
+			"title": "L'Empire Paris, Paris, France",
+			"latitude": 48.860726,
+			"longitude": 2.342448,
+			"prixLePlusBas": 198,
+			"nbAvis": 343,
+			"note": 4.2
+		},
+		{
+			"title": "Le Pradey, Paris, France",
+			"latitude": 48.8644,
+			"longitude": 2.33162,
+			"prixLePlusBas": 189,
+			"nbAvis": 16,
+			"note": 4.6
+		},
+		{
+			"title": "Le Mandarin Oriental, Paris, Paris, France",
+			"latitude": 48.86716,
+			"longitude": 2.32707,
+			"prixLePlusBas": 839,
+			"nbAvis": 15,
+			"note": 5
+		},
+		{
+			"title": "Meliá Vendôme Boutique Hotel, Paris, France",
+			"latitude": 48.866833,
+			"longitude": 2.325679,
+			"prixLePlusBas": 165,
+			"nbAvis": 101,
+			"note": 4.3
+		},
+		{
+			"title": "Normandy Hotel, Paris, France",
+			"latitude": 48.86396,
+			"longitude": 2.33436,
+			"prixLePlusBas": 123,
+			"nbAvis": 560,
+			"note": 3
+		},
+		{
+			"title": "Novotel Paris Les Halles, Paris, France",
+			"latitude": 48.86061,
+			"longitude": 2.34662,
+			"prixLePlusBas": 179,
+			"nbAvis": 960,
+			"note": 4.2
+		},
+		{
+			"title": "Park Hyatt Paris - Vendôme, Paris, France",
+			"latitude": 48.86864,
+			"longitude": 2.33061,
+			"prixLePlusBas": 686,
+			"nbAvis": 19,
+			"note": 4.5
+		},
+		{
+			"title": "Pavillon Louvre Rivoli, Paris, France",
+			"latitude": 48.86526,
+			"longitude": 2.33622,
+			"prixLePlusBas": 98,
+			"nbAvis": 95,
+			"note": 2.9
+		},
+		{
+			"title": "Renaissance Paris Vendôme Hotel, Paris, France",
+			"latitude": 48.86541,
+			"longitude": 2.32951,
+			"prixLePlusBas": 337,
+			"nbAvis": 68,
+			"note": 4.2
+		},
+		{
+			"title": "Saint James Albany Hôtel Spa, Paris, France",
+			"latitude": 48.86417,
+			"longitude": 2.33078,
+			"prixLePlusBas": 211,
+			"nbAvis": 496,
+			"note": 3.8
+		},
+		{
+			"title": "Suites Albany &amp; Spa, Paris, France",
+			"latitude": 48.86418,
+			"longitude": 2.33076,
+			"prixLePlusBas": 238,
+			"nbAvis": 9,
+			"note": 4.1
+		},
+		{
+			"title": "The Westin Paris - Vendôme, Paris, France",
+			"latitude": 48.86564,
+			"longitude": 2.3276,
+			"prixLePlusBas": 323,
+			"nbAvis": 156,
+			"note": 4.2
+		},
+		{
+			"title": "Tonic Hotel Paris Louvre, Paris, France",
+			"latitude": 48.860676,
+			"longitude": 2.343718,
+			"prixLePlusBas": 79,
+			"nbAvis": 332,
+			"note": 3.3
+		},
+		{
+			"title": "Appartement Picasso, Paris, France",
+			"latitude": 48.88621,
+			"longitude": 2.33904,
+			"prixLePlusBas": 96,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Appartement Montmartre Clignancourt, Paris, France",
+			"latitude": 48.89537,
+			"longitude": 2.34688,
+			"prixLePlusBas": 125,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Best Western Alizé Paris Montmartre, Paris, France",
+			"latitude": 48.88385,
+			"longitude": 2.3286,
+			"prixLePlusBas": 98,
+			"nbAvis": 21,
+			"note": 3.1
+		},
+		{
+			"title": "Best Western Montmartre Sacré-Coeur, Paris, France",
+			"latitude": 48.89,
+			"longitude": 2.34971,
+			"prixLePlusBas": 63,
+			"nbAvis": 426,
+			"note": 3.7
+		},
+		{
+			"title": "Citadines Montmartre Paris, Paris, France",
+			"latitude": 48.88526,
+			"longitude": 2.33097,
+			"prixLePlusBas": 88,
+			"nbAvis": 214,
+			"note": 4
+		},
+		{
+			"title": "Comfort Hotel Lamarck, Paris, France",
+			"latitude": 48.89127,
+			"longitude": 2.33901,
+			"prixLePlusBas": 65,
+			"nbAvis": 155,
+			"note": 3.7
+		},
+		{
+			"title": "Comfort Hotel Montmartre Place du Tertre, Paris, France",
+			"latitude": 48.8866,
+			"longitude": 2.33559,
+			"prixLePlusBas": 65,
+			"nbAvis": 73,
+			"note": 3.6
+		},
+		{
+			"title": "Comfort Inn Saint Pierre, Paris, France",
+			"latitude": 48.88441,
+			"longitude": 2.34716,
+			"prixLePlusBas": 64,
+			"nbAvis": 4,
+			"note": 3.8
+		},
+		{
+			"title": "Constance - Paris Montmartre, Paris, France",
+			"latitude": 48.88591,
+			"longitude": 2.33355,
+			"prixLePlusBas": 188,
+			"nbAvis": 1,
+			"note": 4
+		},
+		{
+			"title": "Grand Hôtel de Clermont, Paris, France",
+			"latitude": 48.88459,
+			"longitude": 2.3364,
+			"prixLePlusBas": 60,
+			"nbAvis": 16,
+			"note": 3.4
+		},
+		{
+			"title": "Hipotel Paris Sacre Coeur Olympiades, Paris, France",
+			"latitude": 48.893635,
+			"longitude": 2.347241,
+			"prixLePlusBas": 32,
+			"nbAvis": 20,
+			"note": 2.8
+		},
+		{
+			"title": "Holiday Inn Paris - Montmartre, Paris, France",
+			"latitude": 48.88886,
+			"longitude": 2.33328,
+			"prixLePlusBas": 89,
+			"nbAvis": 138,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Amarys Simart, Paris, France",
+			"latitude": 48.89006,
+			"longitude": 2.34895,
+			"prixLePlusBas": 45,
+			"nbAvis": 147,
+			"note": 2.8
+		},
+		{
+			"title": "Hotel BoroNali, Paris, France",
+			"latitude": 48.88865,
+			"longitude": 2.34804,
+			"prixLePlusBas": 70,
+			"nbAvis": 11,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel de Bellevue, Paris, France",
+			"latitude": 48.88675,
+			"longitude": 2.36102,
+			"prixLePlusBas": 108,
+			"nbAvis": 54,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel de la Terrasse, Paris, France",
+			"latitude": 48.89749,
+			"longitude": 2.34413,
+			"prixLePlusBas": 45,
+			"nbAvis": 51,
+			"note": 2.3
+		},
+		{
+			"title": "Hôtel des Arts Paris-Montmartre, Paris, France",
+			"latitude": 48.88621,
+			"longitude": 2.3353,
+			"prixLePlusBas": 59,
+			"nbAvis": 690,
+			"note": 4.4
+		},
+		{
+			"title": "Hotel du Moulin, Paris, France",
+			"latitude": 48.88532,
+			"longitude": 2.33519,
+			"prixLePlusBas": 52,
+			"nbAvis": 44,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Eden Montmartre, Paris, France",
+			"latitude": 48.89276,
+			"longitude": 2.34278,
+			"prixLePlusBas": 50,
+			"nbAvis": 79,
+			"note": 4.1
+		},
+		{
+			"title": "Hotel Hippodrome, Paris, France",
+			"latitude": 48.88526,
+			"longitude": 2.3293,
+			"prixLePlusBas": 80,
+			"nbAvis": 13,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Iliade Montmartre, Paris, France",
+			"latitude": 48.89658,
+			"longitude": 2.34373,
+			"prixLePlusBas": 49,
+			"nbAvis": 273,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Le Relais Montmartre, Paris, France",
+			"latitude": 48.88538,
+			"longitude": 2.33349,
+			"prixLePlusBas": 146,
+			"nbAvis": 134,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Le Squara, Paris, France",
+			"latitude": 48.88409,
+			"longitude": 2.333,
+			"prixLePlusBas": 138,
+			"nbAvis": 14,
+			"note": 4.1
+		},
+		{
+			"title": "Hotel Les Jardins de Montmartre, Paris, France",
+			"latitude": 48.89298,
+			"longitude": 2.34118,
+			"prixLePlusBas": 66,
+			"nbAvis": 261,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Merryl, Paris, France",
+			"latitude": 48.88532,
+			"longitude": 2.36064,
+			"prixLePlusBas": 40,
+			"nbAvis": 292,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Montmartre Mon Amour, Paris, France",
+			"latitude": 48.88666,
+			"longitude": 2.34509,
+			"prixLePlusBas": 108,
+			"nbAvis": 145,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Nation Montmartre, Paris, France",
+			"latitude": 48.88432,
+			"longitude": 2.34905,
+			"prixLePlusBas": 40,
+			"nbAvis": 2,
+			"note": 1.5
+		},
+		{
+			"title": "Hôtel Particulier Montmartre, Paris, France",
+			"latitude": 48.88834,
+			"longitude": 2.33563,
+			"prixLePlusBas": 386,
+			"nbAvis": 6,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Régyn's Montmartre, Paris, France",
+			"latitude": 48.88447,
+			"longitude": 2.33807,
+			"prixLePlusBas": 45,
+			"nbAvis": 45,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Roma Sacré-Cœur, Paris, France",
+			"latitude": 48.88965,
+			"longitude": 2.33886,
+			"prixLePlusBas": 46,
+			"nbAvis": 423,
+			"note": 3.4
+		},
+		{
+			"title": "ibis Paris Montmartre 18ème, Paris, France",
+			"latitude": 48.88536,
+			"longitude": 2.33047,
+			"prixLePlusBas": 95,
+			"nbAvis": 358,
+			"note": 4
+		},
+		{
+			"title": "Ibis Paris Ornano Montmartre Nord 18ème, Paris, France",
+			"latitude": 48.896598,
+			"longitude": 2.345508,
+			"prixLePlusBas": 84,
+			"nbAvis": 54,
+			"note": 3.4
+		},
+		{
+			"title": "ibis Styles Paris Montmartre Nord, Paris, France",
+			"latitude": 48.89523,
+			"longitude": 2.34099,
+			"prixLePlusBas": 66,
+			"nbAvis": 104,
+			"note": 3.9
+		},
+		{
+			"title": "Kube Hotel Paris, Paris, France",
+			"latitude": 48.88669,
+			"longitude": 2.35885,
+			"prixLePlusBas": 179,
+			"nbAvis": 106,
+			"note": 3.4
+		},
+		{
+			"title": "Mercure Paris Montmartre Sacré Cœur, Paris, France",
+			"latitude": 48.88524,
+			"longitude": 2.3302,
+			"prixLePlusBas": 118,
+			"nbAvis": 649,
+			"note": 4.2
+		},
+		{
+			"title": "My Hotel in France Montmartre, Paris, France",
+			"latitude": 48.88557,
+			"longitude": 2.33568,
+			"prixLePlusBas": 52,
+			"nbAvis": 160,
+			"note": 3.2
+		},
+		{
+			"title": "Pavillon Montmartre, Paris, France",
+			"latitude": 48.88535,
+			"longitude": 2.3352,
+			"prixLePlusBas": 44,
+			"nbAvis": 340,
+			"note": 3.8
+		},
+		{
+			"title": "Résidence de Bruxelles Paris, Paris, France",
+			"latitude": 48.88415,
+			"longitude": 2.35347,
+			"prixLePlusBas": 84,
+			"nbAvis": 3,
+			"note": 4
+		},
+		{
+			"title": "Terrass Hôtel, Paris, France",
+			"latitude": 48.8864,
+			"longitude": 2.33307,
+			"prixLePlusBas": 138,
+			"nbAvis": 467,
+			"note": 4.2
+		},
+		{
+			"title": "Modern Hôtel, Paris, France",
+			"latitude": 48.88499,
+			"longitude": 2.32939,
+			"prixLePlusBas": 40,
+			"nbAvis": 429,
+			"note": 3.3
+		},
+		{
+			"title": "Timhotel Montmartre, Paris, France",
+			"latitude": 48.88618,
+			"longitude": 2.33796,
+			"prixLePlusBas": 86,
+			"nbAvis": 173,
+			"note": 4
+		},
+		{
+			"title": "Adagio Access Paris Bastille, Paris, France",
+			"latitude": 48.84955,
+			"longitude": 2.37241,
+			"prixLePlusBas": 97,
+			"nbAvis": 18,
+			"note": 3.9
+		},
+		{
+			"title": "Adagio Access Paris Porte de Charenton, Charenton-le-Pont, France",
+			"latitude": 48.82932,
+			"longitude": 2.40148,
+			"prixLePlusBas": 71,
+			"nbAvis": 251,
+			"note": 3.6
+		},
+		{
+			"title": "Adriatic Hôtel, Paris, France",
+			"latitude": 48.84687,
+			"longitude": 2.3719,
+			"prixLePlusBas": 75,
+			"nbAvis": 24,
+			"note": 3.5
+		},
+		{
+			"title": "Aparthotel Adagio Paris Bercy Village, Paris, France",
+			"latitude": 48.83226,
+			"longitude": 2.38724,
+			"prixLePlusBas": 113,
+			"nbAvis": 47,
+			"note": 3.8
+		},
+		{
+			"title": "Bed and Breakfast Marché d'Aligre, Paris, France",
+			"latitude": 48.84807,
+			"longitude": 2.37742,
+			"prixLePlusBas": 104,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Best Western Allegro Nation, Paris, France",
+			"latitude": 48.84291,
+			"longitude": 2.40525,
+			"prixLePlusBas": 98,
+			"nbAvis": 137,
+			"note": 3.9
+		},
+		{
+			"title": "Best Western Le Patio Saint-Antoine, Paris, France",
+			"latitude": 48.84921,
+			"longitude": 2.39042,
+			"prixLePlusBas": 108,
+			"nbAvis": 185,
+			"note": 3.9
+		},
+		{
+			"title": "61 Paris Nation Hôtel, Paris, France",
+			"latitude": 48.84647,
+			"longitude": 2.41026,
+			"prixLePlusBas": 98,
+			"nbAvis": 79,
+			"note": 3.5
+		},
+		{
+			"title": "Citadines Bastille Gare de Lyon Paris, Paris, France",
+			"latitude": 48.84623,
+			"longitude": 2.38365,
+			"prixLePlusBas": 111,
+			"nbAvis": 89,
+			"note": 3.7
+		},
+		{
+			"title": "Color Design Hotel, Paris, France",
+			"latitude": 48.84942,
+			"longitude": 2.38111,
+			"prixLePlusBas": 87,
+			"nbAvis": 310,
+			"note": 4
+		},
+		{
+			"title": "Grand Hôtel Doré, Paris, France",
+			"latitude": 48.83896,
+			"longitude": 2.39729,
+			"prixLePlusBas": 127,
+			"nbAvis": 110,
+			"note": 4
+		},
+		{
+			"title": "Hipotel Nation Paris Gare de Lyon, Paris, France",
+			"latitude": 48.84701,
+			"longitude": 2.40808,
+			"prixLePlusBas": 44,
+			"nbAvis": 98,
+			"note": 2.6
+		},
+		{
+			"title": "Holiday Inn Paris - Gare de Lyon Bastille, Paris, France",
+			"latitude": 48.84676,
+			"longitude": 2.37195,
+			"prixLePlusBas": 112,
+			"nbAvis": 241,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Amadeus, Paris, France",
+			"latitude": 48.84907,
+			"longitude": 2.38921,
+			"prixLePlusBas": 47,
+			"nbAvis": 69,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Bel Air, Paris, France",
+			"latitude": 48.84494,
+			"longitude": 2.40617,
+			"prixLePlusBas": 69,
+			"nbAvis": 18,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Bel Oranger Paris, Paris, France",
+			"latitude": 48.84703,
+			"longitude": 2.37068,
+			"prixLePlusBas": 62,
+			"nbAvis": 58,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Claret, Paris, France",
+			"latitude": 48.84002,
+			"longitude": 2.38196,
+			"prixLePlusBas": 106,
+			"nbAvis": 393,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel de France Gare de Lyon - Bastille, Paris, France",
+			"latitude": 48.84746,
+			"longitude": 2.37164,
+			"prixLePlusBas": 63,
+			"nbAvis": 56,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel de la Porte Dorée, Paris, France",
+			"latitude": 48.83588,
+			"longitude": 2.40579,
+			"prixLePlusBas": 64,
+			"nbAvis": 36,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel des Trois Gares, Paris, France",
+			"latitude": 48.84883,
+			"longitude": 2.36843,
+			"prixLePlusBas": 74,
+			"nbAvis": 74,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Gossec, Paris, France",
+			"latitude": 48.83875,
+			"longitude": 2.40091,
+			"prixLePlusBas": 45,
+			"nbAvis": 34,
+			"note": 2.9
+		},
+		{
+			"title": "Hôtel Jules César, Paris, France",
+			"latitude": 48.84823,
+			"longitude": 2.37192,
+			"prixLePlusBas": 69,
+			"nbAvis": 64,
+			"note": 3.7
+		},
+		{
+			"title": "Kyriad Paris 12 - Bercy Village, Paris, France",
+			"latitude": 48.83511,
+			"longitude": 2.38743,
+			"prixLePlusBas": 128,
+			"nbAvis": 219,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Le Quartier Bercy Square - Paris, Paris, France",
+			"latitude": 48.83923,
+			"longitude": 2.39261,
+			"prixLePlusBas": 80,
+			"nbAvis": 2,
+			"note": 4
+		},
+		{
+			"title": "Hôtel le Twelve, Paris, France",
+			"latitude": 48.84645,
+			"longitude": 2.40608,
+			"prixLePlusBas": 60,
+			"nbAvis": 100,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Lyon Bastille, Paris, France",
+			"latitude": 48.84679,
+			"longitude": 2.37288,
+			"prixLePlusBas": 85,
+			"nbAvis": 47,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Paris Bastille, Paris, France",
+			"latitude": 48.85094,
+			"longitude": 2.37008,
+			"prixLePlusBas": 99,
+			"nbAvis": 361,
+			"note": 4.1
+		},
+		{
+			"title": "Hotel Pavillon Bastille, Paris, France",
+			"latitude": 48.85084,
+			"longitude": 2.37015,
+			"prixLePlusBas": 99,
+			"nbAvis": 30,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Terminus Lyon, Paris, France",
+			"latitude": 48.84558,
+			"longitude": 2.37212,
+			"prixLePlusBas": 84,
+			"nbAvis": 99,
+			"note": 4
+		},
+		{
+			"title": "ibis Daumesnil Porte Dorée, Paris, France",
+			"latitude": 48.83498,
+			"longitude": 2.40571,
+			"prixLePlusBas": 76,
+			"nbAvis": 34,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Ibis Paris Bastille Rue de Reuilly, Paris, France",
+			"latitude": 48.8494,
+			"longitude": 2.38517,
+			"prixLePlusBas": 76,
+			"nbAvis": 24,
+			"note": 3.8
+		},
+		{
+			"title": "ibis Styles Paris Bercy, Paris, France",
+			"latitude": 48.8386,
+			"longitude": 2.38121,
+			"prixLePlusBas": 76,
+			"nbAvis": 341,
+			"note": 4
+		},
+		{
+			"title": "Le Marceau Bastille, Paris, France",
+			"latitude": 48.8488,
+			"longitude": 2.36981,
+			"prixLePlusBas": 182,
+			"nbAvis": 64,
+			"note": 4.2
+		},
+		{
+			"title": "Luxor Bastille Hôtel, Paris, France",
+			"latitude": 48.85031,
+			"longitude": 2.37297,
+			"prixLePlusBas": 50,
+			"nbAvis": 61,
+			"note": 2.7
+		},
+		{
+			"title": "Mercure Paris Bastille Saint-Antoine, Paris, France",
+			"latitude": 48.84964,
+			"longitude": 2.37944,
+			"prixLePlusBas": 134,
+			"nbAvis": 133,
+			"note": 4
+		},
+		{
+			"title": "Mercure Paris Gare de Lyon, Paris, France",
+			"latitude": 48.84415,
+			"longitude": 2.37269,
+			"prixLePlusBas": 144,
+			"nbAvis": 259,
+			"note": 3.9
+		},
+		{
+			"title": "Mistral Hotel, Paris, France",
+			"latitude": 48.84536,
+			"longitude": 2.38345,
+			"prixLePlusBas": 75,
+			"nbAvis": 7,
+			"note": 3.7
+		},
+		{
+			"title": "Nouvel Hôtel Paris, Paris, France",
+			"latitude": 48.84695,
+			"longitude": 2.39726,
+			"prixLePlusBas": 119,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Novotel Paris Bercy, Paris, France",
+			"latitude": 48.83895,
+			"longitude": 2.38074,
+			"prixLePlusBas": 139,
+			"nbAvis": 386,
+			"note": 4
+		},
+		{
+			"title": "Novotel Paris Gare de Lyon, Paris, France",
+			"latitude": 48.84539,
+			"longitude": 2.37516,
+			"prixLePlusBas": 144,
+			"nbAvis": 791,
+			"note": 4.1
+		},
+		{
+			"title": "Pavillon Bercy Gare de Lyon, Paris, France",
+			"latitude": 48.83918,
+			"longitude": 2.38906,
+			"prixLePlusBas": 71,
+			"nbAvis": 273,
+			"note": 3.5
+		},
+		{
+			"title": "Pavillon Saint-Louis Bastille, Paris, France",
+			"latitude": 48.84943,
+			"longitude": 2.37452,
+			"prixLePlusBas": 93,
+			"nbAvis": 37,
+			"note": 4
+		},
+		{
+			"title": "Pink Hotel, Paris, France",
+			"latitude": 48.84003,
+			"longitude": 2.39175,
+			"prixLePlusBas": 58,
+			"nbAvis": 73,
+			"note": 3.9
+		},
+		{
+			"title": "Prince Albert Lyon Bercy, Paris, France",
+			"latitude": 48.84732,
+			"longitude": 2.37773,
+			"prixLePlusBas": 75,
+			"nbAvis": 55,
+			"note": 3.5
+		},
+		{
+			"title": "Pullman Paris Bercy, Paris, France",
+			"latitude": 48.83085,
+			"longitude": 2.38673,
+			"prixLePlusBas": 148,
+			"nbAvis": 362,
+			"note": 4.5
+		},
+		{
+			"title": "Sport Hôtel Paris, Paris, France",
+			"latitude": 48.83655,
+			"longitude": 2.40381,
+			"prixLePlusBas": 70,
+			"nbAvis": 9,
+			"note": 4.3
+		},
+		{
+			"title": "Timhotel Paris Gare de Lyon, Paris, France",
+			"latitude": 48.84669,
+			"longitude": 2.37012,
+			"prixLePlusBas": 75,
+			"nbAvis": 161,
+			"note": 3.5
+		},
+		{
+			"title": "Hotel Viator Paris, Paris, France",
+			"latitude": 48.84674,
+			"longitude": 2.37255,
+			"prixLePlusBas": 76,
+			"nbAvis": 180,
+			"note": 4.1
+		},
+		{
+			"title": "VIP Paris, Paris, France",
+			"latitude": 48.84123,
+			"longitude": 2.37273,
+			"prixLePlusBas": 159,
+			"nbAvis": 11,
+			"note": 3.9
+		},
+		{
+			"title": "1er Étage, Paris, France",
+			"latitude": 48.85862,
+			"longitude": 2.354868,
+			"prixLePlusBas": 179,
+			"nbAvis": 1,
+			"note": 3
+		},
+		{
+			"title": "Hostellerie du Marais, Paris, France",
+			"latitude": 48.85698,
+			"longitude": 2.36445,
+			"prixLePlusBas": 108,
+			"nbAvis": 289,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Bastille Spéria, Paris, France",
+			"latitude": 48.85385,
+			"longitude": 2.36737,
+			"prixLePlusBas": 115,
+			"nbAvis": 5,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Caron, Paris, France",
+			"latitude": 48.85506,
+			"longitude": 2.36259,
+			"prixLePlusBas": 158,
+			"nbAvis": 24,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel de la Bretonnerie, Paris, France",
+			"latitude": 48.85836,
+			"longitude": 2.35568,
+			"prixLePlusBas": 154,
+			"nbAvis": 3,
+			"note": 4.3
+		},
+		{
+			"title": "Hotel de Neuve, Paris, France",
+			"latitude": 48.85386,
+			"longitude": 2.36315,
+			"prixLePlusBas": 94,
+			"nbAvis": 102,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel des Deux-Îles, Paris, France",
+			"latitude": 48.85239,
+			"longitude": 2.35501,
+			"prixLePlusBas": 128,
+			"nbAvis": 26,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel France Louvre, Paris, France",
+			"latitude": 48.8564,
+			"longitude": 2.35618,
+			"prixLePlusBas": 79,
+			"nbAvis": 146,
+			"note": 3.1
+		},
+		{
+			"title": "Paris 8 Apartments - Studio Marais, Paris, France",
+			"latitude": 48.85691,
+			"longitude": 2.35512,
+			"prixLePlusBas": 155,
+			"nbAvis": 5,
+			"note": 3.8
+		},
+		{
+			"title": "Pavillon de la Reine, Paris, France",
+			"latitude": 48.85615,
+			"longitude": 2.36581,
+			"prixLePlusBas": 393,
+			"nbAvis": 86,
+			"note": 4.7
+		},
+		{
+			"title": "Pratic Hotel, Paris, France",
+			"latitude": 48.8553,
+			"longitude": 2.36254,
+			"prixLePlusBas": 79,
+			"nbAvis": 255,
+			"note": 3.5
+		},
+		{
+			"title": "Private Apartments - Marais, Paris, France",
+			"latitude": 48.85494,
+			"longitude": 2.36146,
+			"prixLePlusBas": 199,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Suite Saint Louis Island River View, Paris, France",
+			"latitude": 48.85252,
+			"longitude": 2.35683,
+			"prixLePlusBas": 997,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Villa Mazarin, Paris, France",
+			"latitude": 48.85734,
+			"longitude": 2.35408,
+			"prixLePlusBas": 128,
+			"nbAvis": 193,
+			"note": 4.5
+		},
+		{
+			"title": "Appi Hôtel, Paris, France",
+			"latitude": 48.86577,
+			"longitude": 2.35066,
+			"prixLePlusBas": 35,
+			"nbAvis": 376,
+			"note": 3.1
+		},
+		{
+			"title": "BEST WESTERN Hotel Les Théâtres, Paris, France",
+			"latitude": 48.86965,
+			"longitude": 2.3517,
+			"prixLePlusBas": 114,
+			"nbAvis": 336,
+			"note": 3.7
+		},
+		{
+			"title": "Best Western Premier l'Horset Opéra, Paris, France",
+			"latitude": 48.86919,
+			"longitude": 2.33369,
+			"prixLePlusBas": 170,
+			"nbAvis": 244,
+			"note": 4.3
+		},
+		{
+			"title": "Edgar Restaurant &amp; Hotel, Paris, France",
+			"latitude": 48.86813,
+			"longitude": 2.35002,
+			"prixLePlusBas": 129,
+			"nbAvis": 7,
+			"note": 4.7
+		},
+		{
+			"title": "Golden Tulip Opéra de Noailles, Paris, France",
+			"latitude": 48.86958,
+			"longitude": 2.33472,
+			"prixLePlusBas": 205,
+			"nbAvis": 106,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Baudelaire Opéra, Paris, France",
+			"latitude": 48.86798,
+			"longitude": 2.33633,
+			"prixLePlusBas": 106,
+			"nbAvis": 41,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Cyrnos Opéra, Paris, France",
+			"latitude": 48.8697,
+			"longitude": 2.34291,
+			"prixLePlusBas": 99,
+			"nbAvis": 34,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Daunou Opéra, Paris, France",
+			"latitude": 48.8693,
+			"longitude": 2.33219,
+			"prixLePlusBas": 142,
+			"nbAvis": 163,
+			"note": 3.9
+		},
+		{
+			"title": "Hotel France d'Antin Opéra, Paris, France",
+			"latitude": 48.86947,
+			"longitude": 2.33405,
+			"prixLePlusBas": 120,
+			"nbAvis": 59,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Ile de France Opéra, Paris, France",
+			"latitude": 48.86889,
+			"longitude": 2.33471,
+			"prixLePlusBas": 85,
+			"nbAvis": 4,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Malte Opéra, Paris, France",
+			"latitude": 48.86715,
+			"longitude": 2.33763,
+			"prixLePlusBas": 148,
+			"nbAvis": 193,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Victoires Opéra, Paris, France",
+			"latitude": 48.8649,
+			"longitude": 2.34683,
+			"prixLePlusBas": 114,
+			"nbAvis": 49,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Volney Opéra, Paris, France",
+			"latitude": 48.86978,
+			"longitude": 2.3303,
+			"prixLePlusBas": 100,
+			"nbAvis": 49,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Westminster Opéra, Paris, France",
+			"latitude": 48.86933,
+			"longitude": 2.33129,
+			"prixLePlusBas": 215,
+			"nbAvis": 248,
+			"note": 4.1
+		},
+		{
+			"title": "Lyric Hotel Paris, Paris, France",
+			"latitude": 48.86901,
+			"longitude": 2.33672,
+			"prixLePlusBas": 228,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "My Apartment in Paris Montorgueil, Paris, France",
+			"latitude": 48.86662,
+			"longitude": 2.34563,
+			"prixLePlusBas": 120,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Timhotel Palais Royal, Paris, France",
+			"latitude": 48.8664,
+			"longitude": 2.34009,
+			"prixLePlusBas": 96,
+			"nbAvis": 99,
+			"note": 3.7
+		},
+		{
+			"title": "7 Eiffel, Paris, France",
+			"latitude": 48.858409,
+			"longitude": 2.307685,
+			"prixLePlusBas": 160,
+			"nbAvis": 101,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Beaugency, Paris, France",
+			"latitude": 48.85667,
+			"longitude": 2.30715,
+			"prixLePlusBas": 88,
+			"nbAvis": 183,
+			"note": 4
+		},
+		{
+			"title": "Derby Alma, Paris, France",
+			"latitude": 48.86044,
+			"longitude": 2.30081,
+			"prixLePlusBas": 141,
+			"nbAvis": 115,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Duquesne Eiffel, Paris, France",
+			"latitude": 48.85273,
+			"longitude": 2.30861,
+			"prixLePlusBas": 110,
+			"nbAvis": 222,
+			"note": 4.4
+		},
+		{
+			"title": "Eiffel Rive Gauche, Paris, France",
+			"latitude": 48.85746,
+			"longitude": 2.30251,
+			"prixLePlusBas": 66,
+			"nbAvis": 193,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Amélie, Paris, France",
+			"latitude": 48.8593,
+			"longitude": 2.30745,
+			"prixLePlusBas": 96,
+			"nbAvis": 50,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Bourgogne &amp; Montana, Paris, France",
+			"latitude": 48.860173,
+			"longitude": 2.318253,
+			"prixLePlusBas": 145,
+			"nbAvis": 83,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Chomel, Paris, France",
+			"latitude": 48.852,
+			"longitude": 2.32528,
+			"prixLePlusBas": 109,
+			"nbAvis": 30,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel de l'Université, Paris, France",
+			"latitude": 48.85702,
+			"longitude": 2.32977,
+			"prixLePlusBas": 104,
+			"nbAvis": 13,
+			"note": 4.9
+		},
+		{
+			"title": "Hôtel de la Paix, Paris, France",
+			"latitude": 48.85675,
+			"longitude": 2.30304,
+			"prixLePlusBas": 69,
+			"nbAvis": 56,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel de la Tour Maubourg, Paris, France",
+			"latitude": 48.8581,
+			"longitude": 2.31051,
+			"prixLePlusBas": 112,
+			"nbAvis": 137,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel de Lille, Paris, France",
+			"latitude": 48.85847,
+			"longitude": 2.32987,
+			"prixLePlusBas": 81,
+			"nbAvis": 159,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel de Nevers, Paris, France",
+			"latitude": 48.85434,
+			"longitude": 2.32398,
+			"prixLePlusBas": 258,
+			"nbAvis": 47,
+			"note": 3
+		},
+		{
+			"title": "Hôtel de Suède Saint-Germain, Paris, France",
+			"latitude": 48.85262,
+			"longitude": 2.31908,
+			"prixLePlusBas": 103,
+			"nbAvis": 184,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Derby Eiffel, Paris, France",
+			"latitude": 48.85353,
+			"longitude": 2.3073,
+			"prixLePlusBas": 98,
+			"nbAvis": 303,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel du Cadran, Paris, France",
+			"latitude": 48.85646,
+			"longitude": 2.30593,
+			"prixLePlusBas": 127,
+			"nbAvis": 376,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel de Turenne, Paris, France",
+			"latitude": 48.85417,
+			"longitude": 2.30757,
+			"prixLePlusBas": 65,
+			"nbAvis": 44,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel La Bourdonnais, Paris, France",
+			"latitude": 48.8548,
+			"longitude": 2.30458,
+			"prixLePlusBas": 115,
+			"nbAvis": 402,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Bellechasse Saint-Germain, Paris, France",
+			"latitude": 48.85962,
+			"longitude": 2.32415,
+			"prixLePlusBas": 148,
+			"nbAvis": 124,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Le Walt, Paris, France",
+			"latitude": 48.85481,
+			"longitude": 2.30639,
+			"prixLePlusBas": 136,
+			"nbAvis": 163,
+			"note": 4.4
+		},
+		{
+			"title": "Hotel Lenox, Paris, France",
+			"latitude": 48.85677,
+			"longitude": 2.33049,
+			"prixLePlusBas": 130,
+			"nbAvis": 5,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Malar, Paris, France",
+			"latitude": 48.86019,
+			"longitude": 2.30598,
+			"prixLePlusBas": 69,
+			"nbAvis": 156,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Montalembert, Paris, France",
+			"latitude": 48.85678,
+			"longitude": 2.32777,
+			"prixLePlusBas": 257,
+			"nbAvis": 28,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Pont Royal, Paris, France",
+			"latitude": 48.85671,
+			"longitude": 2.3273,
+			"prixLePlusBas": 322,
+			"nbAvis": 169,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Royal Phare, Paris, France",
+			"latitude": 48.85483,
+			"longitude": 2.30631,
+			"prixLePlusBas": 59,
+			"nbAvis": 109,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Saint-Germain, Paris, France",
+			"latitude": 48.854726,
+			"longitude": 2.324306,
+			"prixLePlusBas": 148,
+			"nbAvis": 254,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Splendid Tour Eiffel, Paris, France",
+			"latitude": 48.85404,
+			"longitude": 2.30653,
+			"prixLePlusBas": 98,
+			"nbAvis": 290,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Thoumieux, Paris, France",
+			"latitude": 48.85978,
+			"longitude": 2.30861,
+			"prixLePlusBas": 193,
+			"nbAvis": 33,
+			"note": 4.5
+		},
+		{
+			"title": "K&amp;K Hotel Cayré, Paris, France",
+			"latitude": 48.85532,
+			"longitude": 2.32563,
+			"prixLePlusBas": 224,
+			"nbAvis": 136,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Le Tourville, Paris, France",
+			"latitude": 48.85416,
+			"longitude": 2.30782,
+			"prixLePlusBas": 132,
+			"nbAvis": 88,
+			"note": 4.3
+		},
+		{
+			"title": "Les Jardins d'Eiffel, Paris, France",
+			"latitude": 48.85919,
+			"longitude": 2.30747,
+			"prixLePlusBas": 129,
+			"nbAvis": 260,
+			"note": 4.2
+		},
+		{
+			"title": "Tour Eiffel Appartement, Paris, France",
+			"latitude": 48.85507,
+			"longitude": 2.30806,
+			"prixLePlusBas": 189,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Valadon Colors, Paris, France",
+			"latitude": 48.85688,
+			"longitude": 2.30566,
+			"prixLePlusBas": 123,
+			"nbAvis": 4,
+			"note": 3.8
+		},
+		{
+			"title": "Anya Hôtel, Paris, France",
+			"latitude": 48.85656,
+			"longitude": 2.38161,
+			"prixLePlusBas": 50,
+			"nbAvis": 64,
+			"note": 3
+		},
+		{
+			"title": "Auberge Flora, Paris, France",
+			"latitude": 48.85801,
+			"longitude": 2.37169,
+			"prixLePlusBas": 123,
+			"nbAvis": 37,
+			"note": 3.2
+		},
+		{
+			"title": "Bed And Breakfast Camille, Paris, France",
+			"latitude": 48.85897,
+			"longitude": 2.38103,
+			"prixLePlusBas": 391,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Majestic Paris, Paris, France",
+			"latitude": 48.86443,
+			"longitude": 2.3707,
+			"prixLePlusBas": 69,
+			"nbAvis": 102,
+			"note": 3.6
+		},
+		{
+			"title": "BLC Design Hotel, Paris, France",
+			"latitude": 48.85425,
+			"longitude": 2.38254,
+			"prixLePlusBas": 129,
+			"nbAvis": 152,
+			"note": 4.2
+		},
+		{
+			"title": "Citadines Bastille Marais Paris, Paris, France",
+			"latitude": 48.85815,
+			"longitude": 2.37138,
+			"prixLePlusBas": 132,
+			"nbAvis": 207,
+			"note": 4.1
+		},
+		{
+			"title": "Citadines République Paris, Paris, France",
+			"latitude": 48.86456,
+			"longitude": 2.37505,
+			"prixLePlusBas": 118,
+			"nbAvis": 128,
+			"note": 3.9
+		},
+		{
+			"title": "Classics Hôtel Paris Bastille, Paris, France",
+			"latitude": 48.855,
+			"longitude": 2.38661,
+			"prixLePlusBas": 99,
+			"nbAvis": 210,
+			"note": 4.1
+		},
+		{
+			"title": "Comfort Hotel Nation, Paris, France",
+			"latitude": 48.85366,
+			"longitude": 2.38803,
+			"prixLePlusBas": 55,
+			"nbAvis": 67,
+			"note": 4
+		},
+		{
+			"title": "Crowne Plaza Paris République, Paris, France",
+			"latitude": 48.86729,
+			"longitude": 2.36498,
+			"prixLePlusBas": 139,
+			"nbAvis": 648,
+			"note": 4
+		},
+		{
+			"title": "Gardette Park Hotel, Paris, France",
+			"latitude": 48.86103,
+			"longitude": 2.37902,
+			"prixLePlusBas": 87,
+			"nbAvis": 121,
+			"note": 4.3
+		},
+		{
+			"title": "Grand Hôtel Amelot, Paris, France",
+			"latitude": 48.85927,
+			"longitude": 2.36828,
+			"prixLePlusBas": 148,
+			"nbAvis": 95,
+			"note": 3.5
+		},
+		{
+			"title": "Grand Hôtel Français, Paris, France",
+			"latitude": 48.85153,
+			"longitude": 2.39073,
+			"prixLePlusBas": 137,
+			"nbAvis": 189,
+			"note": 4.3
+		},
+		{
+			"title": "Grand Hôtel Nouvel Opéra, Paris, France",
+			"latitude": 48.85542,
+			"longitude": 2.37853,
+			"prixLePlusBas": 67,
+			"nbAvis": 176,
+			"note": 3.3
+		},
+		{
+			"title": "Grand Hôtel Voltaire, Paris, France",
+			"latitude": 48.85638,
+			"longitude": 2.38246,
+			"prixLePlusBas": 68,
+			"nbAvis": 36,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel Hô Marais, Paris, France",
+			"latitude": 48.86541,
+			"longitude": 2.36554,
+			"prixLePlusBas": 128,
+			"nbAvis": 58,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Angely, Paris, France",
+			"latitude": 48.86608,
+			"longitude": 2.3684,
+			"prixLePlusBas": 138,
+			"nbAvis": 87,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Beaumarchais, Paris, France",
+			"latitude": 48.86279,
+			"longitude": 2.36767,
+			"prixLePlusBas": 79,
+			"nbAvis": 199,
+			"note": 3.3
+		},
+		{
+			"title": "Campanile Paris 11 - Bastille, Paris, France",
+			"latitude": 48.85746,
+			"longitude": 2.36986,
+			"prixLePlusBas": 79,
+			"nbAvis": 550,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Daval, Paris, France",
+			"latitude": 48.85443,
+			"longitude": 2.37132,
+			"prixLePlusBas": 118,
+			"nbAvis": 3,
+			"note": 4
+		},
+		{
+			"title": "Hôtel de Nemours, Paris, France",
+			"latitude": 48.86516,
+			"longitude": 2.37279,
+			"prixLePlusBas": 61,
+			"nbAvis": 45,
+			"note": 2.7
+		},
+		{
+			"title": "Hôtel de Nevers, Paris, France",
+			"latitude": 48.86615,
+			"longitude": 2.36748,
+			"prixLePlusBas": 50,
+			"nbAvis": 30,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel du Chemin Vert Paris, Paris, France",
+			"latitude": 48.86091,
+			"longitude": 2.38053,
+			"prixLePlusBas": 80,
+			"nbAvis": 50,
+			"note": 3.7
+		},
+		{
+			"title": "Hotel Du Nord et de l'Est, Paris, France",
+			"latitude": 48.86589,
+			"longitude": 2.36765,
+			"prixLePlusBas": 81,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel du Prince Eugène Paris, Paris, France",
+			"latitude": 48.85061,
+			"longitude": 2.39222,
+			"prixLePlusBas": 101,
+			"nbAvis": 124,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel FABRIC, Paris, France",
+			"latitude": 48.86306,
+			"longitude": 2.37297,
+			"prixLePlusBas": 144,
+			"nbAvis": 46,
+			"note": 4.8
+		},
+		{
+			"title": "Hôtel Gabriel Paris Marais, Paris, France",
+			"latitude": 48.86614,
+			"longitude": 2.36835,
+			"prixLePlusBas": 175,
+			"nbAvis": 255,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Hi Matic, Paris, France",
+			"latitude": 48.85363,
+			"longitude": 2.38061,
+			"prixLePlusBas": 94,
+			"nbAvis": 176,
+			"note": 3.7
+		},
+		{
+			"title": "Hotel ibis Paris Bastille Opera 11ème, Paris, France",
+			"latitude": 48.8572,
+			"longitude": 2.37299,
+			"prixLePlusBas": 77,
+			"nbAvis": 21,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Le Mareuil, Paris, France",
+			"latitude": 48.86605,
+			"longitude": 2.36746,
+			"prixLePlusBas": 157,
+			"nbAvis": 72,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Léonard de Vinci, Paris, France",
+			"latitude": 48.86715,
+			"longitude": 2.3742,
+			"prixLePlusBas": 70,
+			"nbAvis": 37,
+			"note": 2.9
+		},
+		{
+			"title": "Hotel Original Paris, Paris, France",
+			"latitude": 48.85476,
+			"longitude": 2.36874,
+			"prixLePlusBas": 137,
+			"nbAvis": 348,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Richard, Paris, France",
+			"latitude": 48.85602,
+			"longitude": 2.3815,
+			"prixLePlusBas": 30,
+			"nbAvis": 135,
+			"note": 2.2
+		},
+		{
+			"title": "ibis Paris Père Lachaise, Paris, France",
+			"latitude": 48.86202,
+			"longitude": 2.38536,
+			"prixLePlusBas": 68,
+			"nbAvis": 47,
+			"note": 3.9
+		},
+		{
+			"title": "all seasons Paris Voltaire République (futur ibis Styles), Paris, France",
+			"latitude": 48.86641,
+			"longitude": 2.37256,
+			"prixLePlusBas": 66,
+			"nbAvis": 88,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel International Paris, Paris, France",
+			"latitude": 48.86856,
+			"longitude": 2.37141,
+			"prixLePlusBas": 139,
+			"nbAvis": 109,
+			"note": 3.6
+		},
+		{
+			"title": "Le 20 Prieure Hotel, Paris, France",
+			"latitude": 48.8659,
+			"longitude": 2.3685,
+			"prixLePlusBas": 98,
+			"nbAvis": 209,
+			"note": 4.3
+		},
+		{
+			"title": "Le General Hotel, Paris, France",
+			"latitude": 48.86616,
+			"longitude": 2.36692,
+			"prixLePlusBas": 119,
+			"nbAvis": 3,
+			"note": 4
+		},
+		{
+			"title": "Les Jardins du Marais, Paris, France",
+			"latitude": 48.86055,
+			"longitude": 2.36788,
+			"prixLePlusBas": 158,
+			"nbAvis": 786,
+			"note": 4.1
+		},
+		{
+			"title": "Mary's Hotel, Paris, France",
+			"latitude": 48.86413,
+			"longitude": 2.36876,
+			"prixLePlusBas": 45,
+			"nbAvis": 7,
+			"note": 3.6
+		},
+		{
+			"title": "Mercure Paris Voltaire Quartier Bastille, Paris, France",
+			"latitude": 48.85719,
+			"longitude": 2.38076,
+			"prixLePlusBas": 123,
+			"nbAvis": 159,
+			"note": 4.2
+		},
+		{
+			"title": "Modern Hôtel, Paris, France",
+			"latitude": 48.86184,
+			"longitude": 2.38338,
+			"prixLePlusBas": 98,
+			"nbAvis": 239,
+			"note": 3.2
+		},
+		{
+			"title": "New Hotel Candide, Paris, France",
+			"latitude": 48.85837,
+			"longitude": 2.3818,
+			"prixLePlusBas": 67,
+			"nbAvis": 252,
+			"note": 3.3
+		},
+		{
+			"title": "Standard Design Hôtel, Paris, France",
+			"latitude": 48.8554,
+			"longitude": 2.37468,
+			"prixLePlusBas": 129,
+			"nbAvis": 84,
+			"note": 3.9
+		},
+		{
+			"title": "Streets Hotel - Paris, Paris, France",
+			"latitude": 48.86399,
+			"longitude": 2.36615,
+			"prixLePlusBas": 239,
+			"nbAvis": 95,
+			"note": 3.6
+		},
+		{
+			"title": "Villa Bellagio, Paris, France",
+			"latitude": 48.867,
+			"longitude": 2.37958,
+			"prixLePlusBas": 84,
+			"nbAvis": 77,
+			"note": 2.9
+		},
+		{
+			"title": "Adagio Paris Montmartre, Paris, France",
+			"latitude": 48.8833,
+			"longitude": 2.34248,
+			"prixLePlusBas": 149,
+			"nbAvis": 152,
+			"note": 3.9
+		},
+		{
+			"title": "Adagio City Aparthotel Opéra, Paris, France",
+			"latitude": 48.87272,
+			"longitude": 2.32826,
+			"prixLePlusBas": 179,
+			"nbAvis": 182,
+			"note": 4.1
+		},
+		{
+			"title": "Alba Opera Hôtel, Paris, France",
+			"latitude": 48.87969,
+			"longitude": 2.34238,
+			"prixLePlusBas": 73,
+			"nbAvis": 54,
+			"note": 4.1
+		},
+		{
+			"title": "Appartement Notre Dame De Lorette, Paris, France",
+			"latitude": 48.8798,
+			"longitude": 2.33587,
+			"prixLePlusBas": 130,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Astra Opéra, Paris, France",
+			"latitude": 48.8719,
+			"longitude": 2.3282,
+			"prixLePlusBas": 158,
+			"nbAvis": 123,
+			"note": 3.7
+		},
+		{
+			"title": "Atlanta Frochot, Paris, France",
+			"latitude": 48.88165,
+			"longitude": 2.33736,
+			"prixLePlusBas": 74,
+			"nbAvis": 203,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel ATN Paris, Paris, France",
+			"latitude": 48.87797,
+			"longitude": 2.32786,
+			"prixLePlusBas": 96,
+			"nbAvis": 49,
+			"note": 4.1
+		},
+		{
+			"title": "Austin's Saint Lazare Hôtel, Paris, France",
+			"latitude": 48.87694,
+			"longitude": 2.32691,
+			"prixLePlusBas": 75,
+			"nbAvis": 50,
+			"note": 3.7
+		},
+		{
+			"title": "Best Western Anjou Lafayette Opéra, Paris, France",
+			"latitude": 48.8762,
+			"longitude": 2.34647,
+			"prixLePlusBas": 115,
+			"nbAvis": 205,
+			"note": 3.9
+		},
+		{
+			"title": "Best Western Hôtel Ronceray Opéra, Paris, France",
+			"latitude": 48.87172,
+			"longitude": 2.34187,
+			"prixLePlusBas": 107,
+			"nbAvis": 139,
+			"note": 3.5
+		},
+		{
+			"title": "BEST WESTERN PREMIER Le Carré Folies Opéra, Paris, France",
+			"latitude": 48.87381,
+			"longitude": 2.34453,
+			"prixLePlusBas": 133,
+			"nbAvis": 190,
+			"note": 4
+		},
+		{
+			"title": "Best Western Premier Opéra Faubourg, Paris, France",
+			"latitude": 48.87524,
+			"longitude": 2.3415,
+			"prixLePlusBas": 92,
+			"nbAvis": 292,
+			"note": 4.1
+		},
+		{
+			"title": "Citadines Opéra - Grands Boulevards Paris, Paris, France",
+			"latitude": 48.87138,
+			"longitude": 2.33823,
+			"prixLePlusBas": 112,
+			"nbAvis": 71,
+			"note": 3.6
+		},
+		{
+			"title": "Clarion Collection Opéra Pavillon, Paris, France",
+			"latitude": 48.88127,
+			"longitude": 2.32777,
+			"prixLePlusBas": 95,
+			"nbAvis": 48,
+			"note": 3.9
+		},
+		{
+			"title": "Comfort Hotel Opéra Drouot, Paris, France",
+			"latitude": 48.87304,
+			"longitude": 2.34248,
+			"prixLePlusBas": 63,
+			"nbAvis": 18,
+			"note": 3.5
+		},
+		{
+			"title": "Cosy's Residence Cadet, Paris, France",
+			"latitude": 48.87475,
+			"longitude": 2.34284,
+			"prixLePlusBas": 176,
+			"nbAvis": 62,
+			"note": 4.3
+		},
+		{
+			"title": "Design Hotel Secret de Paris, Paris, France",
+			"latitude": 48.88128,
+			"longitude": 2.32825,
+			"prixLePlusBas": 174,
+			"nbAvis": 172,
+			"note": 4.7
+		},
+		{
+			"title": "Golden Hôtel Paris, Paris, France",
+			"latitude": 48.87627,
+			"longitude": 2.34648,
+			"prixLePlusBas": 101,
+			"nbAvis": 32,
+			"note": 3.6
+		},
+		{
+			"title": "Grand Hôtel de Turin, Paris, France",
+			"latitude": 48.88052,
+			"longitude": 2.33973,
+			"prixLePlusBas": 99,
+			"nbAvis": 369,
+			"note": 3.5
+		},
+		{
+			"title": "Grand Hôtel du Havre, Paris, France",
+			"latitude": 48.87657,
+			"longitude": 2.32689,
+			"prixLePlusBas": 79,
+			"nbAvis": 59,
+			"note": 2.6
+		},
+		{
+			"title": "Hôtel Helder Opéra, Paris, France",
+			"latitude": 48.87143,
+			"longitude": 2.33482,
+			"prixLePlusBas": 100,
+			"nbAvis": 17,
+			"note": 3.2
+		},
+		{
+			"title": "Holiday Inn Paris Opéra Grands Boulevards, Paris, France",
+			"latitude": 48.871401,
+			"longitude": 2.343588,
+			"prixLePlusBas": 95,
+			"nbAvis": 236,
+			"note": 4.2
+		},
+		{
+			"title": "Holiday Villa Lafayette Paris, Paris, France",
+			"latitude": 48.87609,
+			"longitude": 2.34558,
+			"prixLePlusBas": 80,
+			"nbAvis": 4,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Aida Opéra, Paris, France",
+			"latitude": 48.87404,
+			"longitude": 2.34686,
+			"prixLePlusBas": 83,
+			"nbAvis": 292,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Antin Saint-Georges, Paris, France",
+			"latitude": 48.877997,
+			"longitude": 2.337952,
+			"prixLePlusBas": 60,
+			"nbAvis": 152,
+			"note": 3.2
+		},
+		{
+			"title": "Hôtel Antin-Trinité, Paris, France",
+			"latitude": 48.87429,
+			"longitude": 2.33206,
+			"prixLePlusBas": 70,
+			"nbAvis": 105,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Arvor, Paris, France",
+			"latitude": 48.87855,
+			"longitude": 2.33835,
+			"prixLePlusBas": 97,
+			"nbAvis": 42,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Aston, Paris, France",
+			"latitude": 48.87245,
+			"longitude": 2.34491,
+			"prixLePlusBas": 70,
+			"nbAvis": 87,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Athénée, Paris, France",
+			"latitude": 48.87144,
+			"longitude": 2.32813,
+			"prixLePlusBas": 189,
+			"nbAvis": 5,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Banke, Paris, France",
+			"latitude": 48.87386,
+			"longitude": 2.33631,
+			"prixLePlusBas": 167,
+			"nbAvis": 215,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Basile, Paris, France",
+			"latitude": 48.8714,
+			"longitude": 2.32711,
+			"prixLePlusBas": 129,
+			"nbAvis": 29,
+			"note": 4.3
+		},
+		{
+			"title": "Hotel Bergere Opéra, Paris, France",
+			"latitude": 48.872647,
+			"longitude": 2.343571,
+			"prixLePlusBas": 108,
+			"nbAvis": 90,
+			"note": 3.6
+		},
+		{
+			"title": "Hotel Britannia, Paris, France",
+			"latitude": 48.87695,
+			"longitude": 2.3269,
+			"prixLePlusBas": 122,
+			"nbAvis": 24,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Brittany, Paris, France",
+			"latitude": 48.876857,
+			"longitude": 2.338365,
+			"prixLePlusBas": 106,
+			"nbAvis": 393,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Caravelle, Paris, France",
+			"latitude": 48.881145,
+			"longitude": 2.340041,
+			"prixLePlusBas": 64,
+			"nbAvis": 58,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Chateaudun Opéra, Paris, France",
+			"latitude": 48.8761,
+			"longitude": 2.33695,
+			"prixLePlusBas": 55,
+			"nbAvis": 72,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Clauzel, Paris, France",
+			"latitude": 48.87881,
+			"longitude": 2.33979,
+			"prixLePlusBas": 65,
+			"nbAvis": 427,
+			"note": 3.5
+		},
+		{
+			"title": "Corona Opéra, Paris, France",
+			"latitude": 48.87264,
+			"longitude": 2.34356,
+			"prixLePlusBas": 98,
+			"nbAvis": 130,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Corona Rodier Paris, Paris, France",
+			"latitude": 48.8775,
+			"longitude": 2.34234,
+			"prixLePlusBas": 80,
+			"nbAvis": 38,
+			"note": 3
+		},
+		{
+			"title": "Hôtel de Genève, Paris, France",
+			"latitude": 48.87768,
+			"longitude": 2.32744,
+			"prixLePlusBas": 72,
+			"nbAvis": 137,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel de l'Océan, Paris, France",
+			"latitude": 48.87722,
+			"longitude": 2.34517,
+			"prixLePlusBas": 88,
+			"nbAvis": 53,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel de NELL, Paris, France",
+			"latitude": 48.87315,
+			"longitude": 2.34677,
+			"prixLePlusBas": 249,
+			"nbAvis": 59,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel de Paris Maubeuge, Paris, France",
+			"latitude": 48.87866,
+			"longitude": 2.34607,
+			"prixLePlusBas": 104,
+			"nbAvis": 14,
+			"note": 2.5
+		},
+		{
+			"title": "Hôtel du Pré, Paris, France",
+			"latitude": 48.87759,
+			"longitude": 2.34703,
+			"prixLePlusBas": 76,
+			"nbAvis": 10,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel du Square d'Anvers, Paris, France",
+			"latitude": 48.88224,
+			"longitude": 2.34477,
+			"prixLePlusBas": 108,
+			"nbAvis": 63,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel du Triangle d'Or, Paris, France",
+			"latitude": 48.87049,
+			"longitude": 2.32674,
+			"prixLePlusBas": 128,
+			"nbAvis": 207,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Eden Opéra, Paris, France",
+			"latitude": 48.87974,
+			"longitude": 2.33406,
+			"prixLePlusBas": 91,
+			"nbAvis": 8,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Eugène en ville, Paris, France",
+			"latitude": 48.87503,
+			"longitude": 2.34152,
+			"prixLePlusBas": 103,
+			"nbAvis": 33,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Excelsior Opéra, Paris, France",
+			"latitude": 48.87347,
+			"longitude": 2.33467,
+			"prixLePlusBas": 131,
+			"nbAvis": 157,
+			"note": 3.8
+		},
+		{
+			"title": "Hotel Exe Paris Centre, Paris, France",
+			"latitude": 48.87843,
+			"longitude": 2.32699,
+			"prixLePlusBas": 73,
+			"nbAvis": 38,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel France Albion, Paris, France",
+			"latitude": 48.87754,
+			"longitude": 2.33838,
+			"prixLePlusBas": 82,
+			"nbAvis": 515,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel George Opéra, Paris, France",
+			"latitude": 48.87949,
+			"longitude": 2.33625,
+			"prixLePlusBas": 108,
+			"nbAvis": 102,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Gérando, Paris, France",
+			"latitude": 48.88253,
+			"longitude": 2.34594,
+			"prixLePlusBas": 73,
+			"nbAvis": 175,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Havane, Paris, France",
+			"latitude": 48.87586,
+			"longitude": 2.34555,
+			"prixLePlusBas": 86,
+			"nbAvis": 70,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Hélios Opéra, Paris, France",
+			"latitude": 48.87526,
+			"longitude": 2.33278,
+			"prixLePlusBas": 119,
+			"nbAvis": 267,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Icône, Paris, France",
+			"latitude": 48.87104,
+			"longitude": 2.33902,
+			"prixLePlusBas": 94,
+			"nbAvis": 82,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Lorette Opéra, Paris, France",
+			"latitude": 48.8788,
+			"longitude": 2.33709,
+			"prixLePlusBas": 108,
+			"nbAvis": 222,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Madrid Opéra, Paris, France",
+			"latitude": 48.87318,
+			"longitude": 2.34327,
+			"prixLePlusBas": 75,
+			"nbAvis": 23,
+			"note": 2.4
+		},
+		{
+			"title": "Hôtel Marena, Paris, France",
+			"latitude": 48.87929,
+			"longitude": 2.343,
+			"prixLePlusBas": 112,
+			"nbAvis": 3,
+			"note": 2
+		},
+		{
+			"title": "Hôtel de Hollande, Paris, France",
+			"latitude": 48.8743,
+			"longitude": 2.34248,
+			"prixLePlusBas": 102,
+			"nbAvis": 89,
+			"note": 2.7
+		},
+		{
+			"title": "Hôtel Migny Opéra Montmartre, Paris, France",
+			"latitude": 48.88064,
+			"longitude": 2.33912,
+			"prixLePlusBas": 83,
+			"nbAvis": 568,
+			"note": 3.1
+		},
+		{
+			"title": "Hôtel Mogador Paris Opéra, Paris, France",
+			"latitude": 48.87521,
+			"longitude": 2.33546,
+			"prixLePlusBas": 49,
+			"nbAvis": 213,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Mondial, Paris, France",
+			"latitude": 48.87189,
+			"longitude": 2.34434,
+			"prixLePlusBas": 74,
+			"nbAvis": 67,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Montholon, Paris, France",
+			"latitude": 48.87666,
+			"longitude": 2.34706,
+			"prixLePlusBas": 78,
+			"nbAvis": 36,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Pax Opéra, Paris, France",
+			"latitude": 48.87582,
+			"longitude": 2.34554,
+			"prixLePlusBas": 94,
+			"nbAvis": 114,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Peletier Haussmann Opéra, Paris, France",
+			"latitude": 48.8727,
+			"longitude": 2.33849,
+			"prixLePlusBas": 72,
+			"nbAvis": 154,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Peyris Opéra, Paris, France",
+			"latitude": 48.87404,
+			"longitude": 2.34699,
+			"prixLePlusBas": 94,
+			"nbAvis": 134,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Plaza Opéra, Paris, France",
+			"latitude": 48.87673,
+			"longitude": 2.3417,
+			"prixLePlusBas": 104,
+			"nbAvis": 26,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Pulitzer Paris, Paris, France",
+			"latitude": 48.87327,
+			"longitude": 2.34298,
+			"prixLePlusBas": 139,
+			"nbAvis": 79,
+			"note": 4.2
+		},
+		{
+			"title": "Hotel R de Paris, Paris, France",
+			"latitude": 48.88,
+			"longitude": 2.32908,
+			"prixLePlusBas": 139,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Hotel Regina Montmartre, Paris, France",
+			"latitude": 48.88262,
+			"longitude": 2.34221,
+			"prixLePlusBas": 119,
+			"nbAvis": 56,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Riviera, Paris, France",
+			"latitude": 48.88025,
+			"longitude": 2.34538,
+			"prixLePlusBas": 69,
+			"nbAvis": 46,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Royal Bergère, Paris, France",
+			"latitude": 48.87364,
+			"longitude": 2.34398,
+			"prixLePlusBas": 76,
+			"nbAvis": 45,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Saint-Georges Lafayette, Paris, France",
+			"latitude": 48.8806,
+			"longitude": 2.3393,
+			"prixLePlusBas": 99,
+			"nbAvis": 210,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Saint-Pétersbourg, Paris, France",
+			"latitude": 48.87216,
+			"longitude": 2.3282,
+			"prixLePlusBas": 136,
+			"nbAvis": 69,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Saint-Pierre, Paris, France",
+			"latitude": 48.88346,
+			"longitude": 2.34502,
+			"prixLePlusBas": 40,
+			"nbAvis": 65,
+			"note": 1.9
+		},
+		{
+			"title": "Hôtel Scribe géré par Sofitel, Paris, France",
+			"latitude": 48.87063,
+			"longitude": 2.33001,
+			"prixLePlusBas": 270,
+			"nbAvis": 204,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Touraine Opéra, Paris, France",
+			"latitude": 48.87624,
+			"longitude": 2.33534,
+			"prixLePlusBas": 88,
+			"nbAvis": 79,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Victor Massé, Paris, France",
+			"latitude": 48.881005,
+			"longitude": 2.337192,
+			"prixLePlusBas": 92,
+			"nbAvis": 220,
+			"note": 3.8
+		},
+		{
+			"title": "Hotel Villa Boheme, Paris, France",
+			"latitude": 48.88013,
+			"longitude": 2.33423,
+			"prixLePlusBas": 89,
+			"nbAvis": 10,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Villa Margaux, Paris, France",
+			"latitude": 48.88048,
+			"longitude": 2.33757,
+			"prixLePlusBas": 94,
+			"nbAvis": 60,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Villathena, Paris, France",
+			"latitude": 48.87796,
+			"longitude": 2.32765,
+			"prixLePlusBas": 118,
+			"nbAvis": 121,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Williams Opéra, Paris, France",
+			"latitude": 48.87685,
+			"longitude": 2.34592,
+			"prixLePlusBas": 76,
+			"nbAvis": 131,
+			"note": 3.5
+		},
+		{
+			"title": "ibis Styles Paris Cadet Lafayette (ex all seasons), Paris, France",
+			"latitude": 48.87828,
+			"longitude": 2.34765,
+			"prixLePlusBas": 84,
+			"nbAvis": 98,
+			"note": 4
+		},
+		{
+			"title": "ibis Styles Paris Lafayette Opéra (ex all seasons), Paris, France",
+			"latitude": 48.87278,
+			"longitude": 2.34503,
+			"prixLePlusBas": 66,
+			"nbAvis": 53,
+			"note": 3.6
+		},
+		{
+			"title": "InterContinental Paris le Grand, Paris, France",
+			"latitude": 48.870771,
+			"longitude": 2.330101,
+			"prixLePlusBas": 261,
+			"nbAvis": 85,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Joséphine, Paris, France",
+			"latitude": 48.88229,
+			"longitude": 2.33183,
+			"prixLePlusBas": 114,
+			"nbAvis": 24,
+			"note": 4.1
+		},
+		{
+			"title": "La Maison Favart, Paris, France",
+			"latitude": 48.87085,
+			"longitude": 2.33743,
+			"prixLePlusBas": 212,
+			"nbAvis": 278,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel de la Tour d'Auvergne, Paris, France",
+			"latitude": 48.87885,
+			"longitude": 2.34491,
+			"prixLePlusBas": 124,
+			"nbAvis": 106,
+			"note": 4.2
+		},
+		{
+			"title": "Chat Noir Design Hôtel, Paris, France",
+			"latitude": 48.88345,
+			"longitude": 2.33413,
+			"prixLePlusBas": 124,
+			"nbAvis": 258,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Le Faubourg, Paris, France",
+			"latitude": 48.87422,
+			"longitude": 2.34794,
+			"prixLePlusBas": 96,
+			"nbAvis": 19,
+			"note": 2.5
+		},
+		{
+			"title": "Le Grand Hôtel de Normandie, Paris, France",
+			"latitude": 48.87595,
+			"longitude": 2.32686,
+			"prixLePlusBas": 139,
+			"nbAvis": 486,
+			"note": 4
+		},
+		{
+			"title": "Le Grey Hôtel, Paris, France",
+			"latitude": 48.88128,
+			"longitude": 2.32736,
+			"prixLePlusBas": 169,
+			"nbAvis": 15,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Le Péra, Paris, France",
+			"latitude": 48.87134,
+			"longitude": 2.32812,
+			"prixLePlusBas": 148,
+			"nbAvis": 120,
+			"note": 3.8
+		},
+		{
+			"title": "Le Relais Madeleine, Paris, France",
+			"latitude": 48.87105,
+			"longitude": 2.32696,
+			"prixLePlusBas": 119,
+			"nbAvis": 136,
+			"note": 4.3
+		},
+		{
+			"title": "Les Plumes Hôtel Paris, Paris, France",
+			"latitude": 48.87655,
+			"longitude": 2.34359,
+			"prixLePlusBas": 133,
+			"nbAvis": 48,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel des Trois Poussins, Paris, France",
+			"latitude": 48.879169,
+			"longitude": 2.338264,
+			"prixLePlusBas": 98,
+			"nbAvis": 319,
+			"note": 4
+		},
+		{
+			"title": "Libertel Montmartre Duperré, Paris, France",
+			"latitude": 48.88204,
+			"longitude": 2.33442,
+			"prixLePlusBas": 69,
+			"nbAvis": 334,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Lodge du Centre, Paris, France",
+			"latitude": 48.87342,
+			"longitude": 2.34377,
+			"prixLePlusBas": 84,
+			"nbAvis": 19,
+			"note": 3.8
+		},
+		{
+			"title": "LUXELTHE Hôtel, Paris, France",
+			"latitude": 48.88315,
+			"longitude": 2.33848,
+			"prixLePlusBas": 50,
+			"nbAvis": 63,
+			"note": 3.7
+		},
+		{
+			"title": "Mattle, Paris, France",
+			"latitude": 48.873638,
+			"longitude": 2.344809,
+			"prixLePlusBas": 75,
+			"nbAvis": 8,
+			"note": 3
+		},
+		{
+			"title": "Mercure Paris Lafayette, Paris, France",
+			"latitude": 48.87305,
+			"longitude": 2.34503,
+			"prixLePlusBas": 99,
+			"nbAvis": 8,
+			"note": 2.6
+		},
+		{
+			"title": "Mercure Paris Monty Opéra, Paris, France",
+			"latitude": 48.8731,
+			"longitude": 2.34468,
+			"prixLePlusBas": 129,
+			"nbAvis": 90,
+			"note": 3.9
+		},
+		{
+			"title": "Mercure Paris Opéra Cusset, Paris, France",
+			"latitude": 48.87111,
+			"longitude": 2.33965,
+			"prixLePlusBas": 109,
+			"nbAvis": 161,
+			"note": 3.9
+		},
+		{
+			"title": "Millennium Hotel Paris Opéra, Paris, France",
+			"latitude": 48.8724,
+			"longitude": 2.33746,
+			"prixLePlusBas": 173,
+			"nbAvis": 172,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Monte Carlo, Paris, France",
+			"latitude": 48.87461,
+			"longitude": 2.3416,
+			"prixLePlusBas": 54,
+			"nbAvis": 534,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Montpellier, Paris, France",
+			"latitude": 48.8831,
+			"longitude": 2.34471,
+			"prixLePlusBas": 45,
+			"nbAvis": 268,
+			"note": 3
+		},
+		{
+			"title": "My Hotel In France Opéra Saint-Georges, Paris, France",
+			"latitude": 48.87956,
+			"longitude": 2.33925,
+			"prixLePlusBas": 70,
+			"nbAvis": 215,
+			"note": 3.6
+		},
+		{
+			"title": "New Hotel Lafayette, Paris, France",
+			"latitude": 48.87624,
+			"longitude": 2.34234,
+			"prixLePlusBas": 87,
+			"nbAvis": 4,
+			"note": 3.8
+		},
+		{
+			"title": "New Hôtel Saint Lazare, Paris, France",
+			"latitude": 48.8802,
+			"longitude": 2.32706,
+			"prixLePlusBas": 80,
+			"nbAvis": 74,
+			"note": 3.4
+		},
+		{
+			"title": "Opéra Cadet Hotel, Paris, France",
+			"latitude": 48.87547,
+			"longitude": 2.34342,
+			"prixLePlusBas": 144,
+			"nbAvis": 235,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Opéra Deauville, Paris, France",
+			"latitude": 48.87816,
+			"longitude": 2.32699,
+			"prixLePlusBas": 80,
+			"nbAvis": 195,
+			"note": 3.8
+		},
+		{
+			"title": "Opéra Frochot, Paris, France",
+			"latitude": 48.88122,
+			"longitude": 2.3376,
+			"prixLePlusBas": 84,
+			"nbAvis": 46,
+			"note": 3.6
+		},
+		{
+			"title": "Opera Lafayette, Paris, France",
+			"latitude": 48.87636,
+			"longitude": 2.34583,
+			"prixLePlusBas": 80,
+			"nbAvis": 5,
+			"note": 3.8
+		},
+		{
+			"title": "Paris Marriott Opera Ambassador Hotel, Paris, France",
+			"latitude": 48.87248,
+			"longitude": 2.33668,
+			"prixLePlusBas": 204,
+			"nbAvis": 235,
+			"note": 4.2
+		},
+		{
+			"title": "Pavillon Opéra Bourse, Paris, France",
+			"latitude": 48.87388,
+			"longitude": 2.34463,
+			"prixLePlusBas": 104,
+			"nbAvis": 58,
+			"note": 3.3
+		},
+		{
+			"title": "Pavillon Opéra Grands Boulevards, Paris, France",
+			"latitude": 48.87369,
+			"longitude": 2.34427,
+			"prixLePlusBas": 102,
+			"nbAvis": 71,
+			"note": 3.2
+		},
+		{
+			"title": "Pavillon Opéra Lafayette, Paris, France",
+			"latitude": 48.87919,
+			"longitude": 2.34343,
+			"prixLePlusBas": 40,
+			"nbAvis": 278,
+			"note": 3
+		},
+		{
+			"title": "Hôtel Prince Albert Opéra, Paris, France",
+			"latitude": 48.87428,
+			"longitude": 2.3311,
+			"prixLePlusBas": 50,
+			"nbAvis": 69,
+			"note": 3.1
+		},
+		{
+			"title": "Quality Hotel Axel Opéra, Paris, France",
+			"latitude": 48.8731,
+			"longitude": 2.34362,
+			"prixLePlusBas": 81,
+			"nbAvis": 51,
+			"note": 4
+		},
+		{
+			"title": "R. Kipling Hotel, Paris, France",
+			"latitude": 48.88208,
+			"longitude": 2.33179,
+			"prixLePlusBas": 121,
+			"nbAvis": 71,
+			"note": 4
+		},
+		{
+			"title": "Résidence NELL, Paris, France",
+			"latitude": 48.87406,
+			"longitude": 2.34258,
+			"prixLePlusBas": 219,
+			"nbAvis": 83,
+			"note": 4.7
+		},
+		{
+			"title": "Residhome  Appart Hotel Paris-Opéra, Paris, France",
+			"latitude": 48.87472,
+			"longitude": 2.32889,
+			"prixLePlusBas": 162,
+			"nbAvis": 74,
+			"note": 3.7
+		},
+		{
+			"title": "Timhotel Opéra Blanche Fontaine, Paris, France",
+			"latitude": 48.882573,
+			"longitude": 2.333411,
+			"prixLePlusBas": 79,
+			"nbAvis": 199,
+			"note": 4.2
+		},
+		{
+			"title": "Timhotel Opéra Grands Magasins, Paris, France",
+			"latitude": 48.87964,
+			"longitude": 2.33332,
+			"prixLePlusBas": 108,
+			"nbAvis": 10,
+			"note": 4.4
+		},
+		{
+			"title": "Timhotel Saint-Georges - Pigalle, Paris, France",
+			"latitude": 48.88248,
+			"longitude": 2.33665,
+			"prixLePlusBas": 66,
+			"nbAvis": 109,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Tryp François, Paris, France",
+			"latitude": 48.8715,
+			"longitude": 2.34275,
+			"prixLePlusBas": 79,
+			"nbAvis": 253,
+			"note": 4
+		},
+		{
+			"title": "Villa Opéra Drouot, Paris, France",
+			"latitude": 48.87232,
+			"longitude": 2.34332,
+			"prixLePlusBas": 128,
+			"nbAvis": 67,
+			"note": 3.6
+		},
+		{
+			"title": "Villa Opéra Lamartine, Paris, France",
+			"latitude": 48.876612,
+			"longitude": 2.340119,
+			"prixLePlusBas": 85,
+			"nbAvis": 24,
+			"note": 2.8
+		},
+		{
+			"title": "Villa Royale, Paris, France",
+			"latitude": 48.8821,
+			"longitude": 2.33675,
+			"prixLePlusBas": 138,
+			"nbAvis": 242,
+			"note": 3.7
+		},
+		{
+			"title": "W Paris - Opéra, Paris, France",
+			"latitude": 48.872213,
+			"longitude": 2.332845,
+			"prixLePlusBas": 338,
+			"nbAvis": 60,
+			"note": 4.3
+		},
+		{
+			"title": "Appartement Trocadero, Paris, France",
+			"latitude": 48.86592,
+			"longitude": 2.28934,
+			"prixLePlusBas": 75,
+			"nbAvis": 4,
+			"note": 2.5
+		},
+		{
+			"title": "BEST WESTERN Au Trocadéro, Paris, France",
+			"latitude": 48.8638,
+			"longitude": 2.28684,
+			"prixLePlusBas": 109,
+			"nbAvis": 60,
+			"note": 4.3
+		},
+		{
+			"title": "Best Western Eiffel Auteuil, Paris, France",
+			"latitude": 48.83944,
+			"longitude": 2.26313,
+			"prixLePlusBas": 71,
+			"nbAvis": 145,
+			"note": 3.4
+		},
+		{
+			"title": "Citadines Trocadéro Paris, Paris, France",
+			"latitude": 48.86643,
+			"longitude": 2.28566,
+			"prixLePlusBas": 149,
+			"nbAvis": 84,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Elysées Union, Paris, France",
+			"latitude": 48.86838,
+			"longitude": 2.2917,
+			"prixLePlusBas": 115,
+			"nbAvis": 82,
+			"note": 3.9
+		},
+		{
+			"title": "Holiday Inn Paris - Auteuil, Paris, France",
+			"latitude": 48.83806,
+			"longitude": 2.25848,
+			"prixLePlusBas": 88,
+			"nbAvis": 83,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Auteuil Tour Eiffel, Paris, France",
+			"latitude": 48.850583,
+			"longitude": 2.275392,
+			"prixLePlusBas": 108,
+			"nbAvis": 307,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Baltimore Paris - MGallery Collection, Paris, France",
+			"latitude": 48.86641,
+			"longitude": 2.2896,
+			"prixLePlusBas": 229,
+			"nbAvis": 131,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Beauséjour Ranelagh, Paris, France",
+			"latitude": 48.85567,
+			"longitude": 2.26981,
+			"prixLePlusBas": 118,
+			"nbAvis": 2,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Belmont, Paris, France",
+			"latitude": 48.869259,
+			"longitude": 2.297718,
+			"prixLePlusBas": 98,
+			"nbAvis": 61,
+			"note": 3.6
+		},
+		{
+			"title": "Best Western Premier Trocadéro La Tour, Paris, France",
+			"latitude": 48.8583,
+			"longitude": 2.27969,
+			"prixLePlusBas": 118,
+			"nbAvis": 111,
+			"note": 4
+		},
+		{
+			"title": "Hotel Boileau, Paris, France",
+			"latitude": 48.84076,
+			"longitude": 2.26235,
+			"prixLePlusBas": 65,
+			"nbAvis": 8,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Chambellan Morgane, Paris, France",
+			"latitude": 48.86971,
+			"longitude": 2.29738,
+			"prixLePlusBas": 82,
+			"nbAvis": 1,
+			"note": 4
+		},
+		{
+			"title": "Hotel de Sevigne, Paris, France",
+			"latitude": 48.8687,
+			"longitude": 2.29532,
+			"prixLePlusBas": 120,
+			"nbAvis": 16,
+			"note": 4
+		},
+		{
+			"title": "Hôtel du Bois Champs-Elysées, Paris, France",
+			"latitude": 48.8717,
+			"longitude": 2.29107,
+			"prixLePlusBas": 114,
+			"nbAvis": 40,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Duret, Paris, France",
+			"latitude": 48.87523,
+			"longitude": 2.28645,
+			"prixLePlusBas": 149,
+			"nbAvis": 122,
+			"note": 4.2
+		},
+		{
+			"title": "Hotel Eiffel Kennedy, Paris, France",
+			"latitude": 48.85299,
+			"longitude": 2.27583,
+			"prixLePlusBas": 99,
+			"nbAvis": 129,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Exelmans, Paris, France",
+			"latitude": 48.84143,
+			"longitude": 2.26258,
+			"prixLePlusBas": 58,
+			"nbAvis": 209,
+			"note": 2.7
+		},
+		{
+			"title": "Hotel Félicien by Elegancia, Paris, France",
+			"latitude": 48.84934,
+			"longitude": 2.27412,
+			"prixLePlusBas": 140,
+			"nbAvis": 14,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel Floride Étoile, Paris, France",
+			"latitude": 48.86621,
+			"longitude": 2.28787,
+			"prixLePlusBas": 133,
+			"nbAvis": 132,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Garden Elysées, Paris, France",
+			"latitude": 48.8662,
+			"longitude": 2.28809,
+			"prixLePlusBas": 244,
+			"nbAvis": 183,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Keppler, Paris, France",
+			"latitude": 48.86985,
+			"longitude": 2.29712,
+			"prixLePlusBas": 228,
+			"nbAvis": 73,
+			"note": 4.7
+		},
+		{
+			"title": "Hôtel Kleber Champs-Élysées Tour-Eiffel Paris, Paris, France",
+			"latitude": 48.8688,
+			"longitude": 2.29216,
+			"prixLePlusBas": 98,
+			"nbAvis": 18,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Les Hauts de Passy, Paris, France",
+			"latitude": 48.85727,
+			"longitude": 2.27833,
+			"prixLePlusBas": 64,
+			"nbAvis": 132,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Longchamp Élysées, Paris, France",
+			"latitude": 48.86518,
+			"longitude": 2.28561,
+			"prixLePlusBas": 97,
+			"nbAvis": 3,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Murat, Paris, France",
+			"latitude": 48.83734,
+			"longitude": 2.25871,
+			"prixLePlusBas": 71,
+			"nbAvis": 18,
+			"note": 3.3
+		},
+		{
+			"title": "Hôtel Palais de Chaillot, Paris, France",
+			"latitude": 48.86579,
+			"longitude": 2.2863,
+			"prixLePlusBas": 89,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Passy Eiffel, Paris, France",
+			"latitude": 48.85835,
+			"longitude": 2.28356,
+			"prixLePlusBas": 98,
+			"nbAvis": 135,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Poussin, Paris, France",
+			"latitude": 48.84851,
+			"longitude": 2.26126,
+			"prixLePlusBas": 89,
+			"nbAvis": 17,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Raphaël, Paris, France",
+			"latitude": 48.87126,
+			"longitude": 2.29335,
+			"prixLePlusBas": 348,
+			"nbAvis": 36,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Résidence Foch, Paris, France",
+			"latitude": 48.87421,
+			"longitude": 2.28104,
+			"prixLePlusBas": 85,
+			"nbAvis": 75,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Résidence Impériale, Paris, France",
+			"latitude": 48.8762,
+			"longitude": 2.28367,
+			"prixLePlusBas": 99,
+			"nbAvis": 137,
+			"note": 3.9
+		},
+		{
+			"title": "Hôtel Sezz Paris, Paris, France",
+			"latitude": 48.856543,
+			"longitude": 2.285148,
+			"prixLePlusBas": 288,
+			"nbAvis": 33,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Square, Paris, France",
+			"latitude": 48.851686,
+			"longitude": 2.277838,
+			"prixLePlusBas": 227,
+			"nbAvis": 56,
+			"note": 4.4
+		},
+		{
+			"title": "Waldorf Trocadéro, Paris, France",
+			"latitude": 48.86725,
+			"longitude": 2.28786,
+			"prixLePlusBas": 102,
+			"nbAvis": 102,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Windsor Home, Paris, France",
+			"latitude": 48.86052,
+			"longitude": 2.27997,
+			"prixLePlusBas": 90,
+			"nbAvis": 18,
+			"note": 3.9
+		},
+		{
+			"title": "Best Western Premier Pergolèse, Paris, France",
+			"latitude": 48.8758,
+			"longitude": 2.28636,
+			"prixLePlusBas": 128,
+			"nbAvis": 62,
+			"note": 4.3
+		},
+		{
+			"title": "La Villa Maillot, Paris, France",
+			"latitude": 48.87562,
+			"longitude": 2.28379,
+			"prixLePlusBas": 248,
+			"nbAvis": 51,
+			"note": 4.5
+		},
+		{
+			"title": "Melia Alexander Boutique Hotel, Paris, France",
+			"latitude": 48.86857,
+			"longitude": 2.28273,
+			"prixLePlusBas": 143,
+			"nbAvis": 39,
+			"note": 3.8
+		},
+		{
+			"title": "Mercure Paris Champs-Elysées, Paris, France",
+			"latitude": 48.87008,
+			"longitude": 2.29081,
+			"prixLePlusBas": 149,
+			"nbAvis": 20,
+			"note": 3.8
+		},
+		{
+			"title": "Mon Hôtel, Paris, France",
+			"latitude": 48.87425,
+			"longitude": 2.28977,
+			"prixLePlusBas": 123,
+			"nbAvis": 61,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Plaza Tour Eiffel, Paris, France",
+			"latitude": 48.86445,
+			"longitude": 2.28226,
+			"prixLePlusBas": 194,
+			"nbAvis": 134,
+			"note": 4.4
+		},
+		{
+			"title": "Radisson Blu le Dokhan's Hôtel, Paris, France",
+			"latitude": 48.86628,
+			"longitude": 2.28654,
+			"prixLePlusBas": 239,
+			"nbAvis": 71,
+			"note": 4.3
+		},
+		{
+			"title": "Radisson Blu Le Metropolitan Hôtel, Paris Eiffel, Paris, France",
+			"latitude": 48.86558,
+			"longitude": 2.2832,
+			"prixLePlusBas": 249,
+			"nbAvis": 44,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Renaissance Paris Le Parc Trocadero, Paris, France",
+			"latitude": 48.86731,
+			"longitude": 2.28593,
+			"prixLePlusBas": 297,
+			"nbAvis": 59,
+			"note": 4.3
+		},
+		{
+			"title": "Résidence Alma Marceau, Paris, France",
+			"latitude": 48.86857,
+			"longitude": 2.29824,
+			"prixLePlusBas": 353,
+			"nbAvis": 6,
+			"note": 5
+		},
+		{
+			"title": "Shangri-La Hôtel Paris, Paris, France",
+			"latitude": 48.86385,
+			"longitude": 2.29296,
+			"prixLePlusBas": 629,
+			"nbAvis": 37,
+			"note": 4.7
+		},
+		{
+			"title": "Villa &amp; Hôtel Majestic, Paris, France",
+			"latitude": 48.87028,
+			"longitude": 2.29368,
+			"prixLePlusBas": 358,
+			"nbAvis": 24,
+			"note": 4.2
+		},
+		{
+			"title": "Villa des Ambassadeurs, Paris, France",
+			"latitude": 48.86536,
+			"longitude": 2.29035,
+			"prixLePlusBas": 105,
+			"nbAvis": 24,
+			"note": 4.3
+		},
+		{
+			"title": "Villathéna 2, Paris, France",
+			"latitude": 48.847,
+			"longitude": 2.2725,
+			"prixLePlusBas": 98,
+			"nbAvis": 82,
+			"note": 4.2
+		},
+		{
+			"title": "Aberotel Montparnasse, Paris, France",
+			"latitude": 48.84326,
+			"longitude": 2.30726,
+			"prixLePlusBas": 71,
+			"nbAvis": 97,
+			"note": 4.1
+		},
+		{
+			"title": "Adagio Access Paris Tour Eiffel Saint-Charles, Paris, France",
+			"latitude": 48.84964,
+			"longitude": 2.28815,
+			"prixLePlusBas": 118,
+			"nbAvis": 42,
+			"note": 3.5
+		},
+		{
+			"title": "Adagio Paris Tour Eiffel 2, Paris, France",
+			"latitude": 48.84995,
+			"longitude": 2.28546,
+			"prixLePlusBas": 179,
+			"nbAvis": 423,
+			"note": 3.6
+		},
+		{
+			"title": "Adagio Paris XV, Paris, France",
+			"latitude": 48.83137,
+			"longitude": 2.28232,
+			"prixLePlusBas": 142,
+			"nbAvis": 114,
+			"note": 3.9
+		},
+		{
+			"title": "Art Hôtel Eiffel, Paris, France",
+			"latitude": 48.84877,
+			"longitude": 2.29836,
+			"prixLePlusBas": 54,
+			"nbAvis": 107,
+			"note": 4
+		},
+		{
+			"title": "Arty Paris, Paris, France",
+			"latitude": 48.83193,
+			"longitude": 2.30445,
+			"prixLePlusBas": 85,
+			"nbAvis": 20,
+			"note": 2.4
+		},
+		{
+			"title": "Beaugrenelle Tour Eiffel, Paris, France",
+			"latitude": 48.85033,
+			"longitude": 2.29051,
+			"prixLePlusBas": 79,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Best Western Hôtel Eiffel Cambronne, Paris, France",
+			"latitude": 48.84577,
+			"longitude": 2.29846,
+			"prixLePlusBas": 98,
+			"nbAvis": 116,
+			"note": 3.8
+		},
+		{
+			"title": "Best Western Sèvres Montparnasse, Paris, France",
+			"latitude": 48.84381,
+			"longitude": 2.31551,
+			"prixLePlusBas": 71,
+			"nbAvis": 86,
+			"note": 4.2
+		},
+		{
+			"title": "Campanile Paris 15 - Tour Eiffel, Paris, France",
+			"latitude": 48.85049,
+			"longitude": 2.28889,
+			"prixLePlusBas": 59,
+			"nbAvis": 273,
+			"note": 3.4
+		},
+		{
+			"title": "Citadines Tour Eiffel Paris, Paris, France",
+			"latitude": 48.84899,
+			"longitude": 2.29777,
+			"prixLePlusBas": 137,
+			"nbAvis": 94,
+			"note": 4.1
+		},
+		{
+			"title": "Eiffel Seine, Paris, France",
+			"latitude": 48.85435,
+			"longitude": 2.28914,
+			"prixLePlusBas": 137,
+			"nbAvis": 499,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Eiffel Villa Garibaldi, Paris, France",
+			"latitude": 48.84642,
+			"longitude": 2.30598,
+			"prixLePlusBas": 62,
+			"nbAvis": 231,
+			"note": 3.5
+		},
+		{
+			"title": "Europe Hôtel Paris Eiffel, Paris, France",
+			"latitude": 48.84952,
+			"longitude": 2.29691,
+			"prixLePlusBas": 95,
+			"nbAvis": 131,
+			"note": 4.1
+		},
+		{
+			"title": "First Hotel, Paris, France",
+			"latitude": 48.84758,
+			"longitude": 2.30236,
+			"prixLePlusBas": 77,
+			"nbAvis": 304,
+			"note": 4.2
+		},
+		{
+			"title": "Holiday Inn Paris - Montparnasse Pasteur, Paris, France",
+			"latitude": 48.83762,
+			"longitude": 2.30638,
+			"prixLePlusBas": 79,
+			"nbAvis": 57,
+			"note": 3.5
+		},
+		{
+			"title": "Home Moderne, Paris, France",
+			"latitude": 48.83284,
+			"longitude": 2.30357,
+			"prixLePlusBas": 69,
+			"nbAvis": 88,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Alizé Grenelle, Paris, France",
+			"latitude": 48.84665,
+			"longitude": 2.28784,
+			"prixLePlusBas": 103,
+			"nbAvis": 17,
+			"note": 3.9
+		},
+		{
+			"title": "Hotel Amiral Fondary, Paris, France",
+			"latitude": 48.84783,
+			"longitude": 2.29386,
+			"prixLePlusBas": 108,
+			"nbAvis": 19,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Arès Eiffel, Paris, France",
+			"latitude": 48.85045,
+			"longitude": 2.29818,
+			"prixLePlusBas": 178,
+			"nbAvis": 463,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Auriane, Paris, France",
+			"latitude": 48.83407,
+			"longitude": 2.29526,
+			"prixLePlusBas": 74,
+			"nbAvis": 39,
+			"note": 2.3
+		},
+		{
+			"title": "Hôtel Bailli de Suffren - Tour Eiffel, Paris, France",
+			"latitude": 48.84677,
+			"longitude": 2.30784,
+			"prixLePlusBas": 106,
+			"nbAvis": 131,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Beaugrenelle Saint-Charles, Paris, France",
+			"latitude": 48.84719,
+			"longitude": 2.28595,
+			"prixLePlusBas": 103,
+			"nbAvis": 12,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Cactus, Paris, France",
+			"latitude": 48.83966,
+			"longitude": 2.30928,
+			"prixLePlusBas": 79,
+			"nbAvis": 85,
+			"note": 2.8
+		},
+		{
+			"title": "Hôtel Carladez Cambronne, Paris, France",
+			"latitude": 48.84206,
+			"longitude": 2.30309,
+			"prixLePlusBas": 97,
+			"nbAvis": 20,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Clarisse, Paris, France",
+			"latitude": 48.82883,
+			"longitude": 2.30058,
+			"prixLePlusBas": 88,
+			"nbAvis": 47,
+			"note": 3.3
+		},
+		{
+			"title": "Hotel Convention Montparnasse, Paris, France",
+			"latitude": 48.83716,
+			"longitude": 2.29712,
+			"prixLePlusBas": 64,
+			"nbAvis": 114,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel de La Paix, Paris, France",
+			"latitude": 48.83866,
+			"longitude": 2.28867,
+			"prixLePlusBas": 82,
+			"nbAvis": 26,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel de Nantes, Paris, France",
+			"latitude": 48.84489,
+			"longitude": 2.32082,
+			"prixLePlusBas": 86,
+			"nbAvis": 66,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Eden, Paris, France",
+			"latitude": 48.84048,
+			"longitude": 2.2992,
+			"prixLePlusBas": 98,
+			"nbAvis": 110,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Eiffel Capitol, Paris, France",
+			"latitude": 48.85051,
+			"longitude": 2.29127,
+			"prixLePlusBas": 93,
+			"nbAvis": 56,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Eiffel Saint-Charles, Paris, France",
+			"latitude": 48.8499,
+			"longitude": 2.2884,
+			"prixLePlusBas": 88,
+			"nbAvis": 238,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Eiffel Ségur, Paris, France",
+			"latitude": 48.84678,
+			"longitude": 2.30504,
+			"prixLePlusBas": 75,
+			"nbAvis": 245,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel France Eiffel, Paris, France",
+			"latitude": 48.8515,
+			"longitude": 2.28974,
+			"prixLePlusBas": 81,
+			"nbAvis": 63,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel Le Relais Saint-Charles, Paris, France",
+			"latitude": 48.85033,
+			"longitude": 2.29346,
+			"prixLePlusBas": 86,
+			"nbAvis": 106,
+			"note": 4.4
+		},
+		{
+			"title": "Hôtel Oceania Paris Porte de Versailles, Paris, France",
+			"latitude": 48.83038,
+			"longitude": 2.28471,
+			"prixLePlusBas": 118,
+			"nbAvis": 228,
+			"note": 4.3
+		},
+		{
+			"title": "Hotel Printania, Paris, France",
+			"latitude": 48.83404,
+			"longitude": 2.29523,
+			"prixLePlusBas": 70,
+			"nbAvis": 21,
+			"note": 2.1
+		},
+		{
+			"title": "Hôtel Saphir Grenelle, Paris, France",
+			"latitude": 48.84839,
+			"longitude": 2.29713,
+			"prixLePlusBas": 55,
+			"nbAvis": 84,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Tourisme Avenue, Paris, France",
+			"latitude": 48.849549,
+			"longitude": 2.298379,
+			"prixLePlusBas": 79,
+			"nbAvis": 36,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Val Girard, Paris, France",
+			"latitude": 48.84081,
+			"longitude": 2.29938,
+			"prixLePlusBas": 99,
+			"nbAvis": 86,
+			"note": 4.1
+		},
+		{
+			"title": "Hôtel Wallace, Paris, France",
+			"latitude": 48.84606,
+			"longitude": 2.29847,
+			"prixLePlusBas": 69,
+			"nbAvis": 127,
+			"note": 2.8
+		},
+		{
+			"title": "ibis Paris Brancion Parc des Expositions 15ème, Paris, France",
+			"latitude": 48.83019,
+			"longitude": 2.30191,
+			"prixLePlusBas": 68,
+			"nbAvis": 53,
+			"note": 3.7
+		},
+		{
+			"title": "ibis Paris Convention 15ème, Paris, France",
+			"latitude": 48.83587,
+			"longitude": 2.29489,
+			"prixLePlusBas": 86,
+			"nbAvis": 11,
+			"note": 4.2
+		},
+		{
+			"title": "ibis Paris Tour Eiffel Cambronne 15ème, Paris, France",
+			"latitude": 48.8474,
+			"longitude": 2.30158,
+			"prixLePlusBas": 78,
+			"nbAvis": 215,
+			"note": 3.7
+		},
+		{
+			"title": "ibis Styles Paris 15 Lecourbe (ex all seasons), Paris, France",
+			"latitude": 48.83873,
+			"longitude": 2.28951,
+			"prixLePlusBas": 75,
+			"nbAvis": 74,
+			"note": 3.7
+		},
+		{
+			"title": "Idéal Hotel, Paris, France",
+			"latitude": 48.84671,
+			"longitude": 2.2889,
+			"prixLePlusBas": 55,
+			"nbAvis": 52,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Innova, Paris, France",
+			"latitude": 48.84219,
+			"longitude": 2.31292,
+			"prixLePlusBas": 59,
+			"nbAvis": 254,
+			"note": 4.1
+		},
+		{
+			"title": "Inter-Hotel Lecourbe, Paris, France",
+			"latitude": 48.84444,
+			"longitude": 2.30883,
+			"prixLePlusBas": 102,
+			"nbAvis": 47,
+			"note": 3.5
+		},
+		{
+			"title": "Le Marquis Eiffel, Paris, France",
+			"latitude": 48.85172,
+			"longitude": 2.2978,
+			"prixLePlusBas": 136,
+			"nbAvis": 208,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Léonard de Vinci 2, Paris, France",
+			"latitude": 48.84364,
+			"longitude": 2.29653,
+			"prixLePlusBas": 60,
+			"nbAvis": 25,
+			"note": 2.1
+		},
+		{
+			"title": "Locaflat boulevard de Grenelle (Studio), Paris, France",
+			"latitude": 48.84844,
+			"longitude": 2.29916,
+			"prixLePlusBas": 143,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Median Porte de Versaille, Paris, France",
+			"latitude": 48.83596,
+			"longitude": 2.27886,
+			"prixLePlusBas": 69,
+			"nbAvis": 150,
+			"note": 3.5
+		},
+		{
+			"title": "Mercure Paris Centre Tour Eiffel, Paris, France",
+			"latitude": 48.85545,
+			"longitude": 2.29213,
+			"prixLePlusBas": 164,
+			"nbAvis": 1178,
+			"note": 4.1
+		},
+		{
+			"title": "Mercure Paris Plaza Pont Mirabeau, Paris, France",
+			"latitude": 48.84619,
+			"longitude": 2.27886,
+			"prixLePlusBas": 134,
+			"nbAvis": 139,
+			"note": 4.3
+		},
+		{
+			"title": "Mercure Paris Tour Eiffel Grenelle, Paris, France",
+			"latitude": 48.85057,
+			"longitude": 2.29282,
+			"prixLePlusBas": 161,
+			"nbAvis": 130,
+			"note": 3.9
+		},
+		{
+			"title": "Mercure Paris Vaugirard Porte de Versailles, Paris, France",
+			"latitude": 48.83289,
+			"longitude": 2.28791,
+			"prixLePlusBas": 136,
+			"nbAvis": 202,
+			"note": 4.1
+		},
+		{
+			"title": "Mercure Paris XV, Paris, France",
+			"latitude": 48.83839,
+			"longitude": 2.29068,
+			"prixLePlusBas": 124,
+			"nbAvis": 94,
+			"note": 4
+		},
+		{
+			"title": "Novotel Paris Gare Montparnasse, Paris, France",
+			"latitude": 48.83867,
+			"longitude": 2.31456,
+			"prixLePlusBas": 147,
+			"nbAvis": 860,
+			"note": 4.2
+		},
+		{
+			"title": "Novotel Paris Tour Eiffel, Paris, France",
+			"latitude": 48.84983,
+			"longitude": 2.2828,
+			"prixLePlusBas": 159,
+			"nbAvis": 801,
+			"note": 3.9
+		},
+		{
+			"title": "Novotel Paris Vaugirard Montparnasse, Paris, France",
+			"latitude": 48.84001,
+			"longitude": 2.30298,
+			"prixLePlusBas": 144,
+			"nbAvis": 393,
+			"note": 3.9
+		},
+		{
+			"title": "Paris Eiffel Cambronne, Paris, France",
+			"latitude": 48.84808,
+			"longitude": 2.30066,
+			"prixLePlusBas": 89,
+			"nbAvis": 218,
+			"note": 3.6
+		},
+		{
+			"title": "Pavillon Porte de Versailles, Paris, France",
+			"latitude": 48.83372,
+			"longitude": 2.28692,
+			"prixLePlusBas": 68,
+			"nbAvis": 157,
+			"note": 3.1
+		},
+		{
+			"title": "Platine Hôtel, Paris, France",
+			"latitude": 48.84744,
+			"longitude": 2.28344,
+			"prixLePlusBas": 104,
+			"nbAvis": 168,
+			"note": 4.3
+		},
+		{
+			"title": "Pullman Paris Tour Eiffel, Paris, France",
+			"latitude": 48.85597,
+			"longitude": 2.29287,
+			"prixLePlusBas": 189,
+			"nbAvis": 617,
+			"note": 3.8
+		},
+		{
+			"title": "Quality Hotel - Hotel Abaca Messidor, Paris, France",
+			"latitude": 48.83679,
+			"longitude": 2.29555,
+			"prixLePlusBas": 89,
+			"nbAvis": 4,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Ramada Paris Tour Eiffel, Paris, France",
+			"latitude": 48.84965,
+			"longitude": 2.29568,
+			"prixLePlusBas": 98,
+			"nbAvis": 111,
+			"note": 3.6
+		},
+		{
+			"title": "Sublim Eiffel, Paris, France",
+			"latitude": 48.84533,
+			"longitude": 2.31017,
+			"prixLePlusBas": 99,
+			"nbAvis": 23,
+			"note": 4.1
+		},
+		{
+			"title": "Vic Eiffel, Paris, France",
+			"latitude": 48.84538,
+			"longitude": 2.30994,
+			"prixLePlusBas": 95,
+			"nbAvis": 1,
+			"note": 4
+		},
+		{
+			"title": "Vice Versa, Paris, France",
+			"latitude": 48.83698,
+			"longitude": 2.28949,
+			"prixLePlusBas": 104,
+			"nbAvis": 134,
+			"note": 4.5
+		},
+		{
+			"title": "Yllen Eiffel, Paris, France",
+			"latitude": 48.841499,
+			"longitude": 2.307911,
+			"prixLePlusBas": 93,
+			"nbAvis": 60,
+			"note": 3.8
+		},
+		{
+			"title": "Appartement Nazareth, Paris, France",
+			"latitude": 48.86747,
+			"longitude": 2.35825,
+			"prixLePlusBas": 150,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Austin's Arts et Métiers Hôtel, Paris, France",
+			"latitude": 48.86596,
+			"longitude": 2.35699,
+			"prixLePlusBas": 70,
+			"nbAvis": 39,
+			"note": 4
+		},
+		{
+			"title": "Best Western France Europe, Paris, France",
+			"latitude": 48.86879,
+			"longitude": 2.35396,
+			"prixLePlusBas": 82,
+			"nbAvis": 263,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel du Haut Marais, Paris, France",
+			"latitude": 48.86418,
+			"longitude": 2.35779,
+			"prixLePlusBas": 124,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Hôtel du Plat d’Étain, Paris, France",
+			"latitude": 48.86862,
+			"longitude": 2.35558,
+			"prixLePlusBas": 53,
+			"nbAvis": 221,
+			"note": 3.4
+		},
+		{
+			"title": "Hôtel Georgette, Paris, France",
+			"latitude": 48.86311,
+			"longitude": 2.35258,
+			"prixLePlusBas": 143,
+			"nbAvis": 79,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel le 123 Sébastopol, Paris, France",
+			"latitude": 48.86759,
+			"longitude": 2.35319,
+			"prixLePlusBas": 218,
+			"nbAvis": 8,
+			"note": 4.9
+		},
+		{
+			"title": "Hôtel Little Palace, Paris, France",
+			"latitude": 48.86747,
+			"longitude": 2.35391,
+			"prixLePlusBas": 148,
+			"nbAvis": 455,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Picard, Paris, France",
+			"latitude": 48.86417,
+			"longitude": 2.36305,
+			"prixLePlusBas": 80,
+			"nbAvis": 13,
+			"note": 2.8
+		},
+		{
+			"title": "My Hotel In France Le Marais, Paris, France",
+			"latitude": 48.86163,
+			"longitude": 2.36497,
+			"prixLePlusBas": 69,
+			"nbAvis": 180,
+			"note": 3.4
+		},
+		{
+			"title": "Villa Beaumarchais, Paris, France",
+			"latitude": 48.859148,
+			"longitude": 2.366853,
+			"prixLePlusBas": 151,
+			"nbAvis": 490,
+			"note": 3.8
+		},
+		{
+			"title": "Artus Hôtel, Paris, France",
+			"latitude": 48.85342,
+			"longitude": 2.33613,
+			"prixLePlusBas": 171,
+			"nbAvis": 196,
+			"note": 4.4
+		},
+		{
+			"title": "L'Atelier Saint-Germain, Paris, France",
+			"latitude": 48.84259,
+			"longitude": 2.32865,
+			"prixLePlusBas": 89,
+			"nbAvis": 179,
+			"note": 4.2
+		},
+		{
+			"title": "Best Western Grand Hôtel De L'Univers, Paris, France",
+			"latitude": 48.85358,
+			"longitude": 2.33792,
+			"prixLePlusBas": 128,
+			"nbAvis": 24,
+			"note": 4.2
+		},
+		{
+			"title": "Best Western Hôtel Aramis Saint-Germain, Paris, France",
+			"latitude": 48.84669,
+			"longitude": 2.3266,
+			"prixLePlusBas": 107,
+			"nbAvis": 196,
+			"note": 4.1
+		},
+		{
+			"title": "Best Western Villa des Artistes, Paris, France",
+			"latitude": 48.84232,
+			"longitude": 2.3308,
+			"prixLePlusBas": 108,
+			"nbAvis": 267,
+			"note": 4.1
+		},
+		{
+			"title": "Crystal Hotel, Paris, France",
+			"latitude": 48.85436,
+			"longitude": 2.33283,
+			"prixLePlusBas": 93,
+			"nbAvis": 175,
+			"note": 3.8
+		},
+		{
+			"title": "Hôtel Dauphine Saint-Germain, Paris, France",
+			"latitude": 48.85442,
+			"longitude": 2.33909,
+			"prixLePlusBas": 119,
+			"nbAvis": 189,
+			"note": 4.2
+		},
+		{
+			"title": "Holiday Inn Paris - Saint-Germain des Prés, Paris, France",
+			"latitude": 48.8468,
+			"longitude": 2.32608,
+			"prixLePlusBas": 127,
+			"nbAvis": 143,
+			"note": 4
+		},
+		{
+			"title": "Holiday Inn Paris-Notre Dame, Paris, France",
+			"latitude": 48.85274,
+			"longitude": 2.34239,
+			"prixLePlusBas": 152,
+			"nbAvis": 261,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Bel Ami, Paris, France",
+			"latitude": 48.85487,
+			"longitude": 2.333,
+			"prixLePlusBas": 244,
+			"nbAvis": 114,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Belloy Saint-Germain, Paris, France",
+			"latitude": 48.850298,
+			"longitude": 2.342267,
+			"prixLePlusBas": 148,
+			"nbAvis": 165,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel de Buci, Paris, France",
+			"latitude": 48.85379,
+			"longitude": 2.33677,
+			"prixLePlusBas": 209,
+			"nbAvis": 138,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel de Saint-Germain, Paris, France",
+			"latitude": 48.85227,
+			"longitude": 2.33079,
+			"prixLePlusBas": 79,
+			"nbAvis": 60,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel des Académies et des Arts, Paris, France",
+			"latitude": 48.84213,
+			"longitude": 2.33034,
+			"prixLePlusBas": 178,
+			"nbAvis": 62,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel du Dragon, Paris, France",
+			"latitude": 48.8528,
+			"longitude": 2.33041,
+			"prixLePlusBas": 125,
+			"nbAvis": 59,
+			"note": 3.5
+		},
+		{
+			"title": "Hôtel du Lys, Paris, France",
+			"latitude": 48.85223,
+			"longitude": 2.34224,
+			"prixLePlusBas": 104,
+			"nbAvis": 12,
+			"note": 3.7
+		},
+		{
+			"title": "Hôtel Edouard VI, Paris, France",
+			"latitude": 48.8441,
+			"longitude": 2.32333,
+			"prixLePlusBas": 84,
+			"nbAvis": 206,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Le Littré, Paris, France",
+			"latitude": 48.84545,
+			"longitude": 2.32397,
+			"prixLePlusBas": 178,
+			"nbAvis": 131,
+			"note": 4.2
+		},
+		{
+			"title": "Hôtel Le Saint-Grégoire, Paris, France",
+			"latitude": 48.84713,
+			"longitude": 2.32585,
+			"prixLePlusBas": 200,
+			"nbAvis": 0,
+			"note": 0
+		},
+		{
+			"title": "Hôtel Le Six, Paris, France",
+			"latitude": 48.84378,
+			"longitude": 2.32821,
+			"prixLePlusBas": 256,
+			"nbAvis": 62,
+			"note": 4.6
+		},
+		{
+			"title": "Hôtel Legend Saint-Germain by Elegancia, Paris, France",
+			"latitude": 48.84543,
+			"longitude": 2.32537,
+			"prixLePlusBas": 119,
+			"nbAvis": 164,
+			"note": 4.5
+		},
+		{
+			"title": "Hôtel Lutetia, Paris, France",
+			"latitude": 48.85139,
+			"longitude": 2.32691,
+			"prixLePlusBas": 218,
+			"nbAvis": 256,
+			"note": 4
+		},
+		{
+			"title": "Hotel Mayet, Paris, France",
+			"latitude": 48.8471,
+			"longitude": 2.31849,
+			"prixLePlusBas": 121,
+			"nbAvis": 12,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Novanox, Paris, France",
+			"latitude": 48.84048,
+			"longitude": 2.33439,
+			"prixLePlusBas": 94,
+			"nbAvis": 77,
+			"note": 4
+		},
+		{
+			"title": "Hôtel Odéon Saint Germain, Paris, France",
+			"latitude": 48.8515,
+			"longitude": 2.33753,
+			"prixLePlusBas": 167,
+			"nbAvis": 121,
+			"note": 4.3
+		},
+		{
+			"title": "Hôtel Perreyve, Paris, France",
+			"latitude": 48.84723,
+			"longitude": 2.33159,
+			"prixLePlusBas": 136,
+			"nbAvis": 73,
+			"note": 3.6
+		},
+		{
+			"title": "Hôtel Sainte-Beuve, Paris, France",
+			"latitude": 48.84392,
+			"longitude": 2.3294,
+			"prixLePlusBas": 192,
+			"nbAvis": 60,
+			"note": 4.6
+		},
+		{
+			"title": "L'Hôtel, Paris, France",
+			"latitude": 48.85642,
+			"longitude": 2.33527,
+			"prixLePlusBas": 224,
+			"nbAvis": 19,
+			"note": 4.8
+		},
+		{
+			"title": "Hôtel Royal Saint-Germain, Paris, France",
+			"latitude": 48.84495,
+			"longitude": 2.32498,
+			"prixLePlusBas": 101,
+			"nbAvis": 85,
+			"note": 4.1
+		},
+		{
+			"title": "La Maison Saint-Germain, Paris, France",
+			"latitude": 48.85313,
+			"longitude": 2.33609,
+			"prixLePlusBas": 227,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "La Villa Saint Germain des Prés, Paris, France",
+			"latitude": 48.85547,
+			"longitude": 2.33402,
+			"prixLePlusBas": 184,
+			"nbAvis": 36,
+			"note": 4.4
+		},
+		{
+			"title": "Chaplain Rive Gauche, Paris, France",
+			"latitude": 48.84276,
+			"longitude": 2.33029,
+			"prixLePlusBas": 122,
+			"nbAvis": 234,
+			"note": 4.4
+		},
+		{
+			"title": "Le Petit Belloy Saint-Germain, Paris, France",
+			"latitude": 48.85032,
+			"longitude": 2.34242,
+			"prixLePlusBas": 93,
+			"nbAvis": 82,
+			"note": 3.8
+		},
+		{
+			"title": "Le Placide Saint Germain des Prés, Paris, France",
+			"latitude": 48.84994,
+			"longitude": 2.32444,
+			"prixLePlusBas": 178,
+			"nbAvis": 19,
+			"note": 4.3
+		},
+		{
+			"title": "Madison Hôtel, Paris, France",
+			"latitude": 48.853315,
+			"longitude": 2.334451,
+			"prixLePlusBas": 189,
+			"nbAvis": 160,
+			"note": 4.6
+		},
+		{
+			"title": "Résidence Des Arts, Paris, France",
+			"latitude": 48.85347,
+			"longitude": 2.34243,
+			"prixLePlusBas": 154,
+			"nbAvis": 68,
+			"note": 4.3
+		},
+		{
+			"title": "Résidence Saint-Sulpice, Paris, France",
+			"latitude": 48.85184,
+			"longitude": 2.33391,
+			"prixLePlusBas": 99,
+			"nbAvis": 291,
+			"note": 3.5
+		},
+		{
+			"title": "Saint-Germain des Pres Apartment, Paris, France",
+			"latitude": 48.85274,
+			"longitude": 2.33152,
+			"prixLePlusBas": 313,
+			"nbAvis": 1,
+			"note": 5
+		},
+		{
+			"title": "Villa d'Estrées, Paris, France",
+			"latitude": 48.8535,
+			"longitude": 2.34245,
+			"prixLePlusBas": 239,
+			"nbAvis": 32,
+			"note": 4.3
+		},
+		{
+			"title": "Villa des Princes, Paris, France",
+			"latitude": 48.85114,
+			"longitude": 2.3394,
+			"prixLePlusBas": 89,
+			"nbAvis": 10,
+			"note": 3.2
+		},
+		{
+			"title": "Villa Luxembourg, Paris, France",
+			"latitude": 48.84169,
+			"longitude": 2.3305,
+			"prixLePlusBas": 123,
+			"nbAvis": 196,
+			"note": 3.4
+		},
+		{
+			"title": "Welcome Hotel, Paris, France",
+			"latitude": 48.85315,
+			"longitude": 2.33698,
+			"prixLePlusBas": 104,
+			"nbAvis": 70,
+			"note": 3.6
+		}
+	]

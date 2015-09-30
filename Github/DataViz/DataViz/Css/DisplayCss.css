@@ -1,0 +1,76 @@
+﻿#dhtmltooltip{
+position: absolute;
+height: 20px;
+border: 2px solid black;
+padding: 2px;
+background-color: #E5E4E2;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+font-family: "Comic Sans MS";
+font-size: 15px;
+}
+.q4-9 { 
+
+fill:rgb(107,174,214); 
+background-color: rgb(107,174,214);
+
+}
+
+.q6-9 { 
+
+fill:rgb(33,113,181); 
+background-color: rgb(33,113,181);
+
+}
+
+.q8-9 { 
+
+fill:rgb(8,48,107); 
+background-color: rgb(8,48,107);
+
+}
+
+.q10-9 { 
+
+fill:rgb(125, 5, 82) ; 
+background-color: rgb(125, 5, 82);
+
+}
+
+.q12-9 { 
+
+fill:rgb(75, 0, 130) ; 
+background-color: rgb(75, 0, 130);
+
+}
+
+.component{
+
+width : 100px;
+height: 20px;
+float :left;
+ text-align: center;
+}
+
+#Legend{
+
+margin-left : 200px;
+margin-right : 5px;
+
+}
+
+#size{
+
+width : 500px;
+background-color: #307D7E;
+margin-left : 100px;
+
+}
+
+#price{
+
+background-color: #FFE5B4;
+
+}
